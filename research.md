@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research output
+subtitle: Papers, talks, posters etc.
+---
+
 ## Conference contributions
 
 ### Posters
