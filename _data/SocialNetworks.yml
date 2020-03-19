@@ -20,4 +20,5 @@
  osf:
   name: "OSF"
   urlTemplate: "https://osf.io/{value}"
-  icon: <span class="osf-navbar-logo"></span>
+  icon: "fab fa-osf"
+  # <span class="osf-navbar-logo"></span>
