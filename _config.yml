@@ -10,6 +10,10 @@ description: Feel free to bookmark this to keep an eye on my projects
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
+# If you are building a simple GitHub user page (username.github.io) then use these settings:
+url: "http://mariakna.github.io"
+baseurl: ""
+
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
 
