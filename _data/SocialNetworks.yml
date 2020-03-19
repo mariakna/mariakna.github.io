@@ -7,7 +7,7 @@
 #   icon: Specify valid fontawesome icon classes (style + icon),
 #         e.g. "fab fa-github" or "fas fa-rss"
 
-github:
+ github:
   name: "GitHub"
   urlTemplate: "https://github.com/{value}"
   icon: "fab fa-github"
