@@ -1,1 +1,1 @@
-You can download my CV from [here](CV_MKorochkina.pdf)
+You can view and download my CV from [here](CV_MKorochkina.pdf).
