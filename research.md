@@ -1,4 +1,4 @@
-# Papers, posters, talks
+# Research output
 
 ## Conference contributions
 
