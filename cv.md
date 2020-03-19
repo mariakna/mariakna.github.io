@@ -1,1 +1,1 @@
-Click [here](/old_homepage/CV_MKorochkina.pdf) to open my CV
+Click [here](https://github.com/mariakna/old_homepage/blob/master/CV_MKorochkina.pdf) to open my CV
