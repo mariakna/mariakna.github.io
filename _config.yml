@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Home
+title: Maria Korochkina
 
 # Short description of your site
-description: Feel free to bookmark this to keep an eye on my projects
+description: Homepage
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -46,7 +46,8 @@ navbar-children-col: "#ADD8E6"
 page-col: "#FFFFF0"
 link-col: "#ADD8E6"
 hover-col: "#4B0082"
-footer-col: "#8FBC8F"
+footer-col:  "#E6E6FA"
+# "#8FBC8F"
 footer-text-col: "#000000"
 footer-link-col: "#ADD8E6"
 
