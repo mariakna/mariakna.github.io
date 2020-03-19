@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Maria Korochkina
+title: Home
 
 # Short description of your site
 description: Feel free to bookmark this to keep an eye on my projects
@@ -24,7 +24,6 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
   About: "about"
   CV: "cv"
   Research outputs: "research"
