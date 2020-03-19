@@ -64,23 +64,19 @@ footer-link-col: "#ADD8E6"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Maria Korochkina
-# email: "maria.korochkina@hdr.mq.edu.au"
-  github: mariakna
-  researchgate: profile/Maria_Korochkina
-  osf: zf8px/
  
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-footer-links-active:
+social-network-links:
  # rss: false
  # email: true
  # facebook: false
-  github: true
+  github: mariakna
  # twitter: false
-  researchgate: true
-  osf: true
+  researchgate: profile/Maria_Korochkina
+  osf: zf8px
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
