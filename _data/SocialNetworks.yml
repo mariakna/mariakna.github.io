@@ -16,6 +16,16 @@ github:
   name: "GitHub"
   urlTemplate: "https://github.com/{value}"
   icon: "fab fa-github"
+  
+ researchgate:
+  name: "ResearchGate"
+  urlTemplate: "https://www.researchgate.net/{value}"
+  icon: "fab fa-researchgate"
+  
+ osf:
+  name: "OSF"
+  urlTemplate: "https://osf.io/{value}"
+  icon: "fab fa-osf"
 
 twitter:
   name: "Twitter"
