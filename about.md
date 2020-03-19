@@ -10,7 +10,7 @@ My amazing supervisors are [Lyndsey Nickels](https://researchers.mq.edu.au/en/pe
 * Oct 2015 - June 2018: MSc in Experimental & Clinical Linguistics, University of Potsdam, Germany
 * Sept 2010 - June 2015: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Russia
 
-Check my [CV](CV_MKorochkina.pdf) for more details and a list of publications (papers, talks, conference contributions, etc).
+Check my [CV](CV_MKorochkina.pdf) for more details.
 
 Info related to my completed projects (pre-registration, scripts, etc) is available at [OSF](https://osf.io/zf8px/).
 
