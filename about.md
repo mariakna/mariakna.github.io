@@ -17,8 +17,13 @@ My amazing supervisors are [Lyndsey Nickels](https://researchers.mq.edu.au/en/pe
 
 Email me at maria dot korochkina at hdr dot mq dot edu dot au.
 
-### And finally...
+### Two more links
 
 Info related to my completed projects (pre-registration, scripts, etc) is available at [OSF](https://osf.io/zf8px/).
-
 I also have a profile at [ResearchGate](https://www.researchgate.net/profile/Maria_Korochkina) but it is not updated regularly...
+
+### And finally...
+
+Apart from my love to cognitive and neuroscience, I am an avid reader with a background in literary criticism and an art aficionado. I am also very passionate about [contemporary dance](https://en.wikipedia.org/wiki/Contemporary_dance) and try to get better at it with every opportunity. Another thing I absolutely love doing is literary translation. Unfortunately, I am unable to pursue this career now but, having translated in the past (e.g. [this book]((http://albuscorvus.ru/product/lenses/))), I do hope I will manage to do more in the future. There are tons of other activities I enjoy, ranging from knitting to playing badminton and hiking. 
+
+I am **very** concerned about the human impact on the environment (including but not limited to climate change). I'd like to use this opportunity to encourage you to abstain from the use of animal products (in any form) and consume with awareness! Thank you!
