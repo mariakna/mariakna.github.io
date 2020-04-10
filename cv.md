@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Curriculum vitae
-subtitle: Download a PDF [here](CV_MKorochkina.pdf) 
 ---
+
+**View and/or download a PDF [here](CV_MKorochkina.pdf)** 
 
 ## Education
 
