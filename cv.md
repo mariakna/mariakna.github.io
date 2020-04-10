@@ -30,10 +30,10 @@ title: Curriculum vitae
 
 ## Honors & awards
 
-* April 2020: Postgraduate Research Fund, Macquarie University, Australia (AUD 5000)
-* Sept 2019: Conference travel award, Commission for Research and Young Academics, University of Potsdam, Germany (EUR 1000)
+* April 2020: Postgraduate Research Fund, Macquarie University, Australia (AUD 5,000)
+* Sept 2019: Conference travel award, Commission for Research and Young Academics, University of Potsdam, Germany (EUR 1,000)
 * Sept 2019: Conference travel award, Potsdam Graduate School, University of Potsdam, Germany (EUR 500)
-* Oct-Feb 2012 & Oct-Feb 2014: Non-EU student exchange award, Department of Linguistics, University of Vienna, Austria (EUR 5000)
+* Oct-Feb 2012 & Oct-Feb 2014: Non-EU student exchange award, Department of Linguistics, University of Vienna, Austria (EUR 5,000)
 
 ## Skills
 
