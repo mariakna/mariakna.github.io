@@ -17,7 +17,7 @@ title: Curriculum vitae
 
 ### Professional experience
 
-* Feb 2020 - present: Academic Tutor, Experimental Design and Data Analysis for the Cognitive and Brain Sciences ([COGS2020](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide), [GitHub homepage](https://crossley.github.io/cogs2020/index.html)), Macquarie University, Australia
+* Feb 2020 - present: Academic Tutor, Experimental Design and Data Analysis for the Cognitive and Brain Sciences ([COGS2020](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide) and on [GitHub](https://crossley.github.io/cogs2020/index.html)), Macquarie University, Australia
 &nbsp;
 &nbsp;
 * July 2016 - Aug 2018: Research Assistant, Neurocognition of Language ([NOLA](https://www.uni-potsdam.de/en/nola/index)) Lab, University of Potsdam, Germany
@@ -29,26 +29,43 @@ title: Curriculum vitae
 
 * 10-13 Dec 2019: Workshop on Australasian Magnetoencephalography (WAM) 2019, Neurocognitive clinical applications of MEG: Present and future, Macquarie University, Australia
 &nbsp;
+&nbsp;
 * 3-4 Dec 2019: Workshop Software Carpentry in Python at Macquarie, Macquarie University, Australia
+&nbsp;
+&nbsp;
 * 9-13 Sept 2019: The 3rd Summer School on Statistical Methods for Linguistics and Psychology (SMLP), Bayesian Advanced Track, Univeristy of Potsdam, Germany
+&nbsp;
+&nbsp;
 * 19-23 Feb 2018: Workshop Advanced Methods: Bayesian Statistics with R, University of Potsdam, Germany
+&nbsp;
+&nbsp;
 * 24-25 April 2017: fNIRS-Workshop, NIRx Medizintechnik GmbH, Berlin, Germany
+&nbsp;
+&nbsp;
 * Feb - Nov 2017: Internship at the NOLA Lab, University of Potsdam, Germany
+&nbsp;
+&nbsp;
 * 15-16 Sept 2016: fNIRS-Workshop, NIRx Medizintechnik GmbH, Berlin, Germany
+&nbsp;
+&nbsp;
 * 20-21 June 2016: Workshop on Standardised Tests of Cognitive and Language Development in Children (SETK 2, SETK 3-5, Bayley-III, KABC-II), University of Potsdam, Germany
 
 ### Honors & awards
 
 * April 2020: Postgraduate Research Fund, Macquarie University, Australia (AUD 5,000)
+&nbsp;
+&nbsp;
 * Sept 2019: Conference travel award, Commission for Research and Young Academics, University of Potsdam, Germany (EUR 1,000)
+&nbsp;
+&nbsp;
 * Sept 2019: Conference travel award, Potsdam Graduate School, University of Potsdam, Germany (EUR 500)
+&nbsp;
+&nbsp;
 * Oct-Feb 2012 & Oct-Feb 2014: Non-EU student exchange award, Department of Linguistics, University of Vienna, Austria (EUR 5,000)
 
 ### Skills
 
-* EEG
-* LATEX, R, Presentation, Matlab
-* rStan, Python, Git (Beginner)
+EEG, LATEX, R, Presentation, Matlab, rStan, Python, Git (different levels)
 
 ## Languages
 
