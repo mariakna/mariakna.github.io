@@ -67,7 +67,7 @@ title: Curriculum vitae
 
 EEG, LATEX, R, Presentation, Matlab, rStan, Python, Git (different levels)
 
-## Languages
+### Languages
 
 English, German, Russian, Swedish, some Icelandic
 
