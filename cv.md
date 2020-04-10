@@ -8,13 +8,21 @@ title: Curriculum vitae
 ### Education
 
 * Sept 2018 - present: PhD student, International Doctorate for Experimental Approaches to Language And Brain ([IDEALAB](https://phd-idealab.com/))
+&nbsp;
+&nbsp;
 * Oct 2015 - June 2018: MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam, Germany
+&nbsp;
+&nbsp;
 * Sept 2010 - June 2015: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Russia
 
 ### Professional experience
 
 * Feb 2020 - present: Academic Tutor, Experimental Design and Data Analysis for the Cognitive and Brain Sciences ([COGS2020](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide), [GitHub homepage](https://crossley.github.io/cogs2020/index.html)), Macquarie University, Australia
+&nbsp;
+&nbsp;
 * July 2016 - Aug 2018: Research Assistant, Neurocognition of Language ([NOLA](https://www.uni-potsdam.de/en/nola/index)) Lab, University of Potsdam, Germany
+&nbsp;
+&nbsp;
 * April 2017 - June 2018: Research Assistant, VasishthLab ([VLab](https://vasishth.github.io/)), University of Potsdam, Germany
 
 ### Workshops & training
