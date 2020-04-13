@@ -24,6 +24,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
+  Blog and news: "blog"
   About: "about"
   CV: "cv"
   Research output: "research"
@@ -143,6 +144,11 @@ staticman:
     secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
+
+#pagination
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "blog/page:num"
 
 # Facebook App ID
 # fb_app_id: ""
