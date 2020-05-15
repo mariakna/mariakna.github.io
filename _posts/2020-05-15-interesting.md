@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts while studying neuroanatomy 
+title: Random thoughts while studying neuroanatomy 
 subtitle: How anatomy constrains function and function drives anatomy
 tags: [brain, neuroanatomy, behaviour, animals, learning]
 comments: true
