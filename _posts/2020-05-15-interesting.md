@@ -15,7 +15,7 @@ Today I learned why a pituitary tumor often leads to visual problems - it become
 
 I also learned that the informational input to the cerebellum is 40 times greater than its informational output. Just incredible when you think about how much information the cerebellum has to consider to make a decision.
 
-And another cool thing - during development, the spinal cord doesn't grow as much as the vertebral column does so, as a result, in an adult, the spinal cord ends roughly at the bottom end of the rib cage!
+And another cool thing - during development, the spinal cord doesn't grow as much as the vertebral column does so, as a result, in an adult, the spinal cord ends roughly where the bottom end of the rib cage is!
 
 **PS:** Today I also got to see the brain of an individual that suffered from Alzheimer's - very very sad... 
 
