@@ -15,7 +15,7 @@
  osf:
   name: "OSF"
   urlTemplate: "https://osf.io/{value}"
-  icon: "fab fa-osf" 
+  icon: "fab ai-osf" 
   
  researchgate:
   name: "ResearchGate"
