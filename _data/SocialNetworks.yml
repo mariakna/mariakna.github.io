@@ -12,13 +12,18 @@
   urlTemplate: "https://github.com/{value}"
   icon: "fab fa-github"
   
+ osf:
+  name: "OSF"
+  urlTemplate: "https://osf.io/{value}"
+  icon: "fab fa-osf" 
+  
  researchgate:
   name: "ResearchGate"
   urlTemplate: "https://www.researchgate.net/{value}"
   icon: "fab fa-researchgate"
-  
- osf:
-  name: "OSF"
-  urlTemplate: "https://osf.io/{value}"
-  icon: "fab fa-osf"
-  # <span class="osf-navbar-logo"></span>
+ 
+ orcid:
+  name: "ORCID iD"
+  urlTemplate: "https://orcid.org/{value}"
+  icon: "fab fa-orcid"
+ 
