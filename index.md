@@ -20,7 +20,7 @@ Email me at maria dot korochkina at hdr dot mq dot edu dot au
 
 ### Two more links
 
-* Files from my completed projects (pre-registration, scripts, etc) are available at [OSF](https://osf.io/zf8px/)
+* Files from my completed projects (pre-registration, data, scripts etc) are available at [OSF](https://osf.io/zf8px/)
 * I also have a profile at [ResearchGate](https://www.researchgate.net/profile/Maria_Korochkina) but it is not updated regularly
 
 ### And finally...
