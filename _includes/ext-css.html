@@ -3,5 +3,5 @@
 {% elsif include.css.href %}
   <link rel="stylesheet" href="{{ include.css.href }}" />
 {% else %}
-  <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
+  <link rel="stylesheet" href="{{ include.css }}"/>
 {% endif %}
