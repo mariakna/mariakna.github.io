@@ -10,7 +10,7 @@ My amazing supervisors are [Lyndsey Nickels](https://researchers.mq.edu.au/en/pe
 
 ### Short bio
 
-* Sept 2018 - Sept 2021 (expected): PhD student, [IDEALAB](https://phd-idealab.com/)
+* Sept 2018 - Sept 2021 (expected): PhD in Cognitive Science, [IDEALAB](https://phd-idealab.com/)
 * June 2018: MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam, Germany
 * June 2015: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Russia
 
