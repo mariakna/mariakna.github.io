@@ -8,6 +8,8 @@ subtitle: Papers, talks, posters etc.
 
 ### 2020
 
+* **Korochkina, M.**, Nickels, L., & Bürki, A. (2020). Behavioural and electrophysiological markers of integration in novel word learning. **Poster** presented at virtual [Psychonomics](https://www.psychonomic.org/general/custom.asp?page=2020annualmeeting), November 19-22, 2020. [Slides](/posters/Psynom20_Korochkina_Nickels_Buerki_ID_2235.pdf)
+
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2020). A behavioural and electrophysiological investigation of novel word learning. **Talk** given at virtual [WoW](http://wordsintheworld.ca/wow-conference-2020/), October 16-18, 2020. [Slides](/talks/wow2020_talk22_korochkina_nickels_buerki.pdf) 
 
 ### 2019
