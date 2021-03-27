@@ -4,6 +4,10 @@ title: Research output
 subtitle: Papers, talks, posters etc.
 ---
 
+## Publications
+
+* **Korochkina, M.**, Bürki, A., & Nickels, L. (in press). Apples and oranges: How does learning context affect novel word learning? *Journal of Memory and Language*. 
+
 ## Conference contributions
 
 ### 2020
@@ -18,6 +22,4 @@ subtitle: Papers, talks, posters etc.
 
 * **Korochkina, M.**, Bürki, A., & Nickels, L. (2019). The effect of the learning context on novel word learning. **Poster** presented at [AMLaP](https://neuro.hse.ru/amlap2019/) in Moscow, Russia, September 6-8, 2019. [PDF](/posters/poster_amlap2019_mkorochkina.pdf)
 
-## Publications
 
-Coming soon!
