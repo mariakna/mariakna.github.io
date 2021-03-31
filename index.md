@@ -10,12 +10,10 @@ My amazing supervisors are [Audrey Bürki](https://audreyburki.github.io/Website
 
 ### Short bio
 
-* Sept 2018 - Dec 2021 (expected): PhD in Cognitive Science, [IDEALAB](https://phd-idealab.com/)
-* Oct 2016 - June 2018: MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam, Germany
-  * Oct 2015 - Oct 2016: 2 semesters of MSc in Linguistics, University of Potsdam, Germany (switched to MSc IECL in Oct 2016)
-* Sept 2010 - June 2015: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Russia
-  * Sept 2014 - Feb 2015: semester abroad, University of Vienna, Austria
-  * Sept 2012 - Feb 2013: semester abroad, University of Vienna, Austria
+* PhD in Cognitive Science, [IDEALAB](https://phd-idealab.com/) (Dec 2021, expected)
+* MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam, Germany (June 2018)
+* Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Russia (June 2015)
+  * 2 semesters abroad, University of Vienna, Austria (Sept 2012 - Feb 2013, Sept 2014 - Feb 2015)
 
 ### Contact
 
