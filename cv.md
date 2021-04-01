@@ -34,7 +34,8 @@ For more information, view and/or download a PDF [here](CV_MKorochkina.pdf).
 * Session 2, 2020
   * [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/129069/unit_guide?full_code=PSYU2248_SHFYR_2020), Macquarie University, Australia
   * [SPHL3311 Acquired Speech and Language Disorders](https://unitguides.mq.edu.au/unit_offerings/129189/unit_guide), Macquarie University, Australia
-* Session 1, 2020: [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide) (also on [GitHub](https://crossley.github.io/cogs2020_2020/index.html)), Macquarie University, Australia
+* Session 1, 2020
+  * [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide) (also on [GitHub](https://crossley.github.io/cogs2020_2020/index.html)), Macquarie University, Australia
 
 ## Other
 
