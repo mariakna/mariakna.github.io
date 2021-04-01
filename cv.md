@@ -54,7 +54,7 @@ For more information, view and/or download a PDF [here](CV_MKorochkina.pdf).
 
 ## 2019
 
-* *10-13 Dec*: Workshop on Australasian Magnetoencephalography (WAM) 2019 Neurocognitive clinical applications of MEG: Present and future, Macquarie University, Australia
+* *10-13 Dec*: Workshop on Australasian Magnetoencephalography (WAM) 2019: Neurocognitive clinical applications of MEG: Present and future, Macquarie University, Australia
 * *3-4 Dec*: [Introduction to Python](https://mq-software-carpentry.github.io/2019-12-03-intro-to-python/), Software Carpentry Workshop, Macquarie University, Australia
 * *9-13 Sept*: [The 3rd Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2019/), Bayesian Advanced Track, Univeristy of Potsdam, Germany
 
