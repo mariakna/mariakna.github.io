@@ -21,9 +21,9 @@ For more information, view and/or download a PDF [here](CV_MKorochkina.pdf).
 # Professional experience
 
 * Feb 2020 – present: Academic Tutor, Macquarie University, Australia (see Teaching)
-* Nov 2019 – Jan 2020: Research Assistant, Language Research Group, Macquarie University, Australia
-* July 2016 – Aug 2018: Research Assistant, Neurocognition of Language Lab (NOLA), University of Potsdam, Germany
-* April 2017 – June 2018: Research Assistant, VasishthLab (VLab), University of Potsdam, Germany
+* Nov 2019 – Jan 2020: Research Assistant, [Language Research Group](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/medicine-and-health-sciences/departments-and-centres/department-of-cognitive-science/our-research/language), Macquarie University, Australia
+* July 2016 – Aug 2018: Research Assistant, [Neurocognition of Language Lab (NOLA)](http://www.uni-potsdam.de/nola/index.html), University of Potsdam, Germany
+* April 2017 – June 2018: Research Assistant, [VasishthLab (VLab)](https://vasishth.github.io/), University of Potsdam, Germany
 
 # Teaching
 
