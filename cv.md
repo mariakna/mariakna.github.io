@@ -35,7 +35,7 @@ A PDF version is available [here](CV_MKorochkina.pdf).
 
 ### Other
 
-* *18 Feb 2021*: Presenter, [Data analysis using (generalised) linear mixed effects model in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs) (part of a series of webinars and online workshops in research training; see [here](https://www.eventbrite.co.uk/e/2021-eresearch-training-kickoff-at-macquarie-university-tickets-136557911389)), Macquarie University, Australia
+* *18 Feb 2021*: Presenter, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs) (part of a series of webinars and online workshops in research training; see [here](https://www.eventbrite.co.uk/e/2021-eresearch-training-kickoff-at-macquarie-university-tickets-136557911389)), Macquarie University, Australia
 * *21-25 Sept 2020*: Helper, [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/) Workshop (Software Carpentry), Macquarie University, Australia
 
 ## Futher training
