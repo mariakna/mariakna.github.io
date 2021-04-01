@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum vitae
+title: Curriculum Vitae
 ---
 
 A PDF version is available [here](CV_MKorochkina.pdf).
