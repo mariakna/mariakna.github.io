@@ -3,7 +3,7 @@ layout: page
 title: Curriculum vitae
 ---
 
-For more information, view and/or download a PDF [here](CV_MKorochkina.pdf).
+A PDF version is available [here](CV_MKorochkina.pdf).
 
 ## Education
 
