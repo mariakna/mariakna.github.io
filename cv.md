@@ -42,7 +42,7 @@ A PDF version is available [here](CV_MKorochkina.pdf).
 
 ### 2021
 
-* *1-23 March 2021*: Instructor Training, [The Carpentries](https://carpentries.org/) (checkout process to be completed in May 2021)
+* *1-23 March 2021*: Instructor Training, [The Carpentries](https://carpentries.org/) (checkout process completed in May 2021)
 
 ### 2020
 
