@@ -14,6 +14,9 @@ A PDF version is available [here](CV_MKorochkina.pdf).
   * *Sept 2014 - Feb 2015*: semester abroad, University of Vienna, Austria
   * *Sept 2012 - Feb 2013*: semester abroad, University of Vienna, Austria
 
+## Qualifications
+* *Since June 2021* - Badged Instructor, [The Carpentries](https://carpentries.org/)
+
 ## Professional experience
 
 * *Feb 2020 – present*: Academic Tutor, Macquarie University, Australia (see Teaching)
