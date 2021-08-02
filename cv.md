@@ -29,7 +29,7 @@ A PDF version is available [here](CV_MKorochkina.pdf).
 ### Tutoring
 
 * *Session 1, 2021*
-  * [PSYU3349 Design and Statistics III](https://coursehandbook.mq.edu.au/2021/units/PSYU3349?year=2021), Macquarie University, Australia
+  * [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide), Macquarie University, Australia
 * *Session 2, 2020 &amp; 2021*
   * [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide), Macquarie University, Australia
   * [SPHL3311 Acquired Speech and Language Disorders](https://unitguides.mq.edu.au/unit_offerings/134147/unit_guide), Macquarie University, Australia
