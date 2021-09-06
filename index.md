@@ -10,7 +10,7 @@ My amazing supervisors are [Audrey Bürki](https://audreyburki.github.io/Website
 
 ### Short bio
 
-* PhD in Cognitive Science, [IDEALAB](https://phd-idealab.com/) (2021, expected)
+* PhD in Cognitive Science, [IDEALAB](https://phd-idealab.com/) (2022, expected)
 * MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam (2018)
 * Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University (2015)
 
