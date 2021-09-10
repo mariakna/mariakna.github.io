@@ -7,7 +7,7 @@ A PDF version is available [here](CV_MKorochkina.pdf).
 
 ## Education
 
-* *Sept 2018 - Dec 2021 (expected)*: PhD in Cognitive Science, [IDEALAB](https://phd-idealab.com/)
+* *Sept 2018 - April 2022 (expected)*: PhD in Cognitive Science, [IDEALAB](https://phd-idealab.com/)
 * *Oct 2016 - June 2018*: MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam, Germany
   * *Oct 2015 - Oct 2016*: 2 semesters of MSc in Linguistics, University of Potsdam, Germany (switched to MSc IECL in Oct 2016)
 * *Sept 2010 - June 2015*: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Russia
