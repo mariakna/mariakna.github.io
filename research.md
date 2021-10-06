@@ -12,6 +12,10 @@ subtitle: Papers, talks, posters etc.
 
 ## Conference contributions
 
+### 2021
+
+* **Korochkina, M.**, Bürki, A., & Nickels, L. (2021). Behavioural and electrophysiological markers of integration in novel word learning. **Poster** presented at virtual [SNL](https://2021.neurolang.org/), October 5-8, 2021. [[slides for the Slide Slam Session]](/posters/SNL2021_E4_Korochkina.pdf) [[supporting documentation]](/posters/SNL2021_E4_KorochkinaNickelsB%C3%BCrki_supporting_documentation.pdf)
+
 ### 2020
 
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2020). Behavioural and electrophysiological markers of integration in novel word learning. **Poster** presented at virtual [Psychonomics](https://www.psychonomic.org/general/custom.asp?page=2020annualmeeting), November 19-22, 2020. [[slides]](/posters/Psynom20_Korochkina_Nickels_Buerki_ID_2235.pdf)
