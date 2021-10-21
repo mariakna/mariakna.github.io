@@ -34,7 +34,7 @@ A PDF version is available [here](CV_MKorochkina.pdf).
 * *18 Feb 2021*: Presenter, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs) (part of a series of webinars and online workshops in research training; see [here](https://www.eventbrite.co.uk/e/2021-eresearch-training-kickoff-at-macquarie-university-tickets-136557911389)), Macquarie University, Australia
 * *21-25 Sept 2020*: Helper, [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/) Workshop (Software Carpentry), Macquarie University, Australia
 
-## Futher training and qualifications
+## Additional training and qualifications
 
 * *June 2021*: Badged Instructor, [The Carpentries](https://carpentries.org/)
 * *Sept 2020*: MOOC [Python Data Structures](https://www.coursera.org/learn/python-data), University of Michigan ([Certificate](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part2.pdf))
