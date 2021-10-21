@@ -17,7 +17,3 @@ My amazing supervisors are [Audrey Bürki](https://audreyburki.github.io/Website
 
 Email me at maria dot korochkina at hdr dot mq dot edu dot au
 
-### Two more links
-
-* Pre-registrations, data and scripts from my projects are available at [OSF](https://osf.io/zf8px/)
-* I also have a profile at [ResearchGate](https://www.researchgate.net/profile/Maria_Korochkina) but it is not updated regularly
