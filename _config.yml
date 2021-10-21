@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Maria Korochkina
+title: "@mariakna"
 
 # Short description of your site
 description: Homepage
@@ -41,16 +41,16 @@ avatar: "/img/m.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA" #"#2F4F4F" #"#8FBC8F" #"#E6E6FA"
-navbar-text-col: "#778899" #"##708090" #"#4B0082" #"#006400"
+navbar-text-col: "#546270" #"#778899" #"##708090" #"#4B0082" #"#006400" 
 navbar-children-col: "#ADD8E6"
 text-col: "#404040"
 page-col: "#FFFFFF" #"#F0F8FF" #"#FFFFF0" #"#0B0518"
-link-col: "#4B0082" #"#191970" #"#006400"
-hover-col: "#4B0082" #"191970" #"#4B0082"
+link-col: "#545470" #"#4B0082" #"#191970" #"#006400"
+hover-col: "#545470" #"#4B0082" #"191970" #"#4B0082"
 footer-col:  "#EAEAEA" #"#2F4F4F" #"#8FBC8F" #"#E6E6FA"
 # "#8FBC8F"
 footer-text-col: "#404040" #"#000000"
-footer-link-col: "#778899" #"#708090" #"#4B0082"
+footer-link-col: "#546270" #"#778899" #"#708090" #"#4B0082"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
