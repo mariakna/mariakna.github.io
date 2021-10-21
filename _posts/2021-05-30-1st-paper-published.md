@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New paper!
-subtitle: First paper published in JML
+title: First paper published!
+subtitle: ...in JML
 tags: [papers, research output]
 comments: true
 ---
