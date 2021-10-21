@@ -7,8 +7,6 @@
 #   icon: Specify valid fontawesome icon classes (style + icon),
 #         e.g. "fab fa-github" or "fas fa-rss"
 
-<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
-
  github:
   name: "GitHub"
   urlTemplate: "https://github.com/{value}"
