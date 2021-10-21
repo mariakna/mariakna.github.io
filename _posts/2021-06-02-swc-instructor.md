@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Completed The Carpentries Instructor Training
+title: Instructor Training completed
 subtitle: I am now a Badged Instructor!
 tags: [qualifications, training]
 comments: true
