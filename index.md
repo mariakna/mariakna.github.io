@@ -3,7 +3,7 @@ layout: page
 title: Maria Korochkina
 ---
 
-I am a PhD student in Cognitive Neuroscience, based at Macquarie University (Australia) and University of Potsdam (Germany). I study how adults learn, retain, consolidate and forget new linguistic information. I am especially interested in how different memory systems interact when we acquire new information, and how this interaction is influenced by the context in which the new information is encountered as well as by its novelty compared to what we already know. I also have a keen interest in the role of sleep and age-related processes in learning. I am an advocate of open science and always eager to learn and implement the most recent methodological and statistical tools in my research.
+I am a PhD student in Cognitive Neuroscience, based at Macquarie University (Australia) and University of Potsdam (Germany). I study how adults learn, retain, consolidate and forget new words. I am especially interested in how different memory systems interact when we acquire new information, and how this is influenced by the context in which this new information is encountered as well as by its novelty compared to what we already know. I also have a keen interest in the role of sleep and age-related processes in learning. I am an advocate of open science and always eager to learn and implement the most recent methodological and statistical tools in my research.
 
 My amazing supervisors are [Audrey Bürki](https://audreyburki.github.io/Website/) from UP, and [Lyndsey Nickels](https://researchers.mq.edu.au/en/persons/lyndsey-nickels) and [Paul Sowman](https://researchers.mq.edu.au/en/persons/paul-sowman) from MQ. 
 
