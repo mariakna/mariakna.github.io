@@ -6,6 +6,10 @@ subtitle: Papers, talks, posters etc.
 
 ## Publications
 
+### Under review
+
+* **Korochkina, M.**, Nickels, L., & Bürki, A. (2021). An investigation of behavioural and electrophysiological markers of integration in learning of novel names for novel concepts [[pre-print]](https://psyarxiv.com/vup25/)
+
 ### 2021
 
 * **Korochkina, M.**, Bürki, A., & Nickels, L. (2021). Apples and oranges: How does learning context affect novel word learning? *Journal of Memory and Language*, 120, 104246. [[doi]](https://doi.org/10.1016/j.jml.2021.104246) [[pre-print, data & scripts]](https://osf.io/g7ftz/)
