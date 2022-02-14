@@ -60,6 +60,13 @@ A PDF version is available [here](CV_MKorochkina.pdf).
 * *Sept 2014*: Non-EU student exchange award (a one semester scholarship), Department of Linguistics, University of Vienna, Austria (EUR 2,500)
 * *Sept 2012*: Non-EU student exchange award (a one semester scholarship), Department of German Studies, University of Vienna, Austria (EUR 2,500)
 
+## Languages
+
+* German
+* English
+* Swedish
+* Russian
+
 
 
 
