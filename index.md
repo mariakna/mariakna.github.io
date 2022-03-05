@@ -3,9 +3,9 @@ layout: page
 title: Maria Korochkina
 ---
 
-<center><span style="color:red"> NO TO WAR!!! STAND WITH UKRAINE!!! </span></center>
+<center><span style="color:red"> NO TO WAR!!! STAND WITH UKRAINE!!! </span>
 
-<span style="color:red"> INFO ABOUT HOW YOU CAN HELP IS </span> [<span style="color:green"> HERE </span>](https://docs.google.com/document/d/1agAW4CQEdi5cDCSa8l8C5ez6Yflz5zaVIzMEgehqwq0/edit?fbclid=IwAR1GYhmR4HHO7v7Y7mDnaOZgESlU93Zx1_sXkbpYR-GOWzgIzIxhUN_yihk) <span style="color:red"> AND BELOW </span>
+<span style="color:red"> INFO ABOUT HOW YOU CAN HELP IS </span> [<span style="color:green"> HERE </span>](https://docs.google.com/document/d/1agAW4CQEdi5cDCSa8l8C5ez6Yflz5zaVIzMEgehqwq0/edit?fbclid=IwAR1GYhmR4HHO7v7Y7mDnaOZgESlU93Zx1_sXkbpYR-GOWzgIzIxhUN_yihk) <span style="color:red"> AND BELOW </span></center>
 
 <p>
 <center><img src="/images/StandWithUkraine.png" class="centerImage"/></center>
