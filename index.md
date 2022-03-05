@@ -3,11 +3,11 @@ layout: page
 title: Maria Korochkina
 ---
 
-<font color="red"> NO TO WAR!!! STAND WITH UKRAINE!!! </font> 
-[<font color="green"> CLICK HERE TO SEE HOW YOU CAN HELP </font>](https://docs.google.com/document/d/1agAW4CQEdi5cDCSa8l8C5ez6Yflz5zaVIzMEgehqwq0/edit?fbclid=IwAR1GYhmR4HHO7v7Y7mDnaOZgESlU93Zx1_sXkbpYR-GOWzgIzIxhUN_yihk)
+<center><font color="red"> NO TO WAR!!! STAND WITH UKRAINE!!! </font></center> 
+[<center><font color="green"> CLICK HERE TO SEE HOW YOU CAN HELP </font></center>](https://docs.google.com/document/d/1agAW4CQEdi5cDCSa8l8C5ez6Yflz5zaVIzMEgehqwq0/edit?fbclid=IwAR1GYhmR4HHO7v7Y7mDnaOZgESlU93Zx1_sXkbpYR-GOWzgIzIxhUN_yihk)
 
 <p>
-<img src="https://github.com/mariakna/mariakna.github.io/blob/master/StandWithUkraine.png"/>
+<center><img src="https://github.com/mariakna/mariakna.github.io/blob/master/StandWithUkraine.png" class="centerImage" width="600"/></center>
 </p>
 
 I am a PhD student in Cognitive Neuroscience, based at Macquarie University (Australia) and University of Potsdam (Germany). I study how adults learn, retain, consolidate and forget new words. I am especially interested in how different memory systems interact when we acquire new information, and how this is influenced by the context in which this new information is encountered as well as by its novelty compared to what we already know. I also have a keen interest in the role of sleep and age-related processes in learning. I am an advocate of open science and always eager to learn and implement the most recent methodological and statistical tools in my research.
