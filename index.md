@@ -15,7 +15,7 @@ I am interested in how we learn, retain, consolidate, and forget new information
 ### Short bio
 
 * Postdoctoral Research Fellow, Royal Holloway, University of London (June 2022 - June 2025)
-* PhD in Cognitive Science, [IDEALAB](https://phd-idealab.com/) (2022, thesis currently under examination)
+* PhD in Cognitive Science, Universities of Potsdam, Newcastle, Groningen, and Macquarie University (2022, thesis currently under examination)
 * MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam (2018)
 * Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University (2015)
 
