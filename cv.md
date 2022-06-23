@@ -16,7 +16,8 @@ A PDF version is available [here](CV_MKorochkina.pdf).
 
 ## Professional experience
 
-* *Feb 2020 – present*: Academic Tutor, Macquarie University, Australia (see Teaching)
+* *June 2022 - present*: Postdoctoral Research Fellow, Royal Holloway, University of London
+* *Feb 2020 – June 2022*: Academic Tutor, Macquarie University, Australia (see Teaching)
 * *Nov 2019 – Jan 2020*: Research Assistant, [Language Research Group](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/medicine-and-health-sciences/departments-and-centres/department-of-cognitive-science/our-research/language), Macquarie University, Australia
 * *Apr 2017 – June 2018*: Research Assistant, [VasishthLab](https://vasishth.github.io/), University of Potsdam, Germany
 * *July 2016 – Aug 2018*: Research Assistant, [Neurocognition of Language Lab (NOLA)](http://www.uni-potsdam.de/nola/index.html), University of Potsdam, Germany
