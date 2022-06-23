@@ -21,5 +21,5 @@ I am interested in how we learn, retain, consolidate, and forget new information
 
 ### Contact
 
-Email me at maria dot korochkina at mq dot edu dot au
+Email me at maria dot korochkina at rhul dot ac dot uk
 
