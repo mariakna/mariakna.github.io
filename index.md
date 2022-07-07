@@ -14,12 +14,12 @@ I am interested in how we learn, retain, consolidate, and forget new information
 
 ### Short bio
 
-* Postdoctoral Research Fellow, Royal Holloway, University of London (June 2022 - June 2025)
+* Postdoctoral Research Fellow, Royal Holloway, University of London (June 2022 - ongoing)
 * PhD in Cognitive Science, Universities of Potsdam, Newcastle, Groningen, and Macquarie University (2022, thesis currently under examination)
 * MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam (2018)
 * Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University (2015)
 
 ### Contact
 
-Email me at maria dot korochkina at rhul dot ac dot uk
+maria dot korochkina at rhul dot ac dot uk
 
