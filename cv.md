@@ -3,11 +3,12 @@ layout: page
 title: Curriculum Vitae
 ---
 
-A PDF version is available [here](CV_MKorochkina.pdf).
+For conference contributions and publications please see [research output](https://mariakna.github.io/research/).
+A PDF version (including research output) is available [here](CV_MKorochkina.pdf).
 
 ## Education
 
-* *Sept 2018 - Aug 2022*: PhD in Cognitive Science, Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Australia), [IDEALAB PhD programme](https://phd-idealab.com/)
+* *Sept 2018 - Sept 2022*: PhD in Cognitive Science, Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Australia), [IDEALAB PhD programme](https://phd-idealab.com/)
 * *Oct 2016 - June 2018*: MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam, Germany
   * *Oct 2015 - Oct 2016*: 2 semesters of MSc in Linguistics, University of Potsdam, Germany (switched to MSc IECL in Oct 2016)
 * *Sept 2010 - June 2015*: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Russia
@@ -29,14 +30,12 @@ A PDF version is available [here](CV_MKorochkina.pdf).
   * *Session 2, 2020 &amp; 2021*: [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide)
   * *Session 2, 2020 &amp; 2021*: [SPHL3311 Acquired Speech and Language Disorders](https://unitguides.mq.edu.au/unit_offerings/134147/unit_guide)
   * *Session 1, 2020*: [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide) (also on [GitHub](https://crossley.github.io/cogs2020_2020/index.html))
-
-## Talks
-
 * *18 Feb 2021*: Presenter, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs) (part of a series of webinars and online workshops in research training; see [here](https://www.eventbrite.co.uk/e/2021-eresearch-training-kickoff-at-macquarie-university-tickets-136557911389)), Macquarie University, Australia
 * *21-25 Sept 2020*: Helper, [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/) Workshop (Software Carpentry), Macquarie University, Australia
 
 ## Additional training and qualifications
 
+* *12-16 Sept 2022*: [The 6th Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2022/), Bayesian Advanced stream, Univeristy of Potsdam, Germany
 * *June 2021*: Badged Instructor, [The Carpentries](https://carpentries.org/)
 * *Sept 2020*: MOOC [Python Data Structures](https://www.coursera.org/learn/python-data), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part2.pdf)
 * *Aug 2020*: MOOC [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part1.pdf)
