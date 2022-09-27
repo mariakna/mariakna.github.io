@@ -4,6 +4,7 @@ title: Curriculum Vitae
 ---
 
 For conference contributions and publications please see [research output](https://mariakna.github.io/research/).
+
 A PDF version (including research output) is available [here](CV_MKorochkina.pdf).
 
 ## Education
