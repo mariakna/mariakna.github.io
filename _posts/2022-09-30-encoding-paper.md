@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New paper!
-subtitle: To appear in *Collabra: Psychology*
+subtitle: To appear in Collabra: Psychology
 tags: [papers, research output]
 comments: true
 ---
