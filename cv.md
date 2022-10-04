@@ -8,7 +8,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ## Education
 
-* *Sept 2018 - Sept 2022*: PhD in Cognitive Science, Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Australia), [IDEALAB PhD programme](https://phd-idealab.com/)
+* *Sept 2018 - May 2022*: PhD in Cognitive Science, Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Australia), [IDEALAB PhD programme](https://phd-idealab.com/); degree conferred in Oct 2022
 * *Oct 2016 - June 2018*: MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam, Germany
   * *Oct 2015 - Oct 2016*: 2 semesters of MSc in Linguistics, University of Potsdam, Germany (switched to MSc IECL in Oct 2016)
 * *Sept 2010 - June 2015*: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Russia
@@ -32,6 +32,10 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
   * *Session 1, 2020*: [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide) (also on [GitHub](https://crossley.github.io/cogs2020_2020/index.html))
 * *18 Feb 2021*: Presenter, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs) (part of a series of webinars and online workshops in research training; see [here](https://www.eventbrite.co.uk/e/2021-eresearch-training-kickoff-at-macquarie-university-tickets-136557911389)), Macquarie University, Australia
 * *21-25 Sept 2020*: Helper, [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/) Workshop (Software Carpentry), Macquarie University, Australia
+
+## Academic service
+
+* Reviewer for [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las)
 
 ## Additional training and qualifications
 
