@@ -36,6 +36,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 ## Academic service
 
 * Reviewer for [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las)
+* Organiser of the [ReproducibiliTea journal club at Royal Holloway, University of London](https://osf.io/m4hn7/)
 
 ## Additional training and qualifications
 
