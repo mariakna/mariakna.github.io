@@ -8,16 +8,16 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ## Education
 
-* *Sept 2018 - May 2022*: PhD in Cognitive Science, Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Australia), [IDEALAB PhD programme](https://phd-idealab.com/); degree conferred in Oct 2022
+* *Sept 2018 - May 2022*: PhD in Cognitive Science, joint degree from Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Australia), [IDEALAB PhD programme](https://phd-idealab.com/); degree conferred in Oct 2022
 * *Oct 2016 - June 2018*: MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam, Germany
   * *Oct 2015 - Oct 2016*: 2 semesters of MSc in Linguistics, University of Potsdam, Germany (switched to MSc IECL in Oct 2016)
-* *Sept 2010 - June 2015*: Diploma (BA & MA in one) in Philology, Lomonosov Moscow State University, Russia
+* *Sept 2010 - June 2015*: Diploma in Philology (equivalent to BA & MA), Lomonosov Moscow State University, Russia
   * *Sept 2014 - Feb 2015*: semester abroad, University of Vienna, Austria
   * *Sept 2012 - Feb 2013*: semester abroad, University of Vienna, Austria
 
 ## Professional experience
 
-* *June 2022 - present*: Postdoctoral Research Fellow, Royal Holloway, University of London
+* *June 2022 - present*: Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway University of London
 * *Feb 2020 – June 2022*: Academic Tutor, Macquarie University, Australia (see Teaching)
 * *Nov 2019 – Jan 2020*: Research Assistant, [Language Research Group](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/medicine-and-health-sciences/departments-and-centres/department-of-cognitive-science/our-research/language), Macquarie University, Australia
 * *Apr 2017 – June 2018*: Research Assistant, [VasishthLab](https://vasishth.github.io/), University of Potsdam, Germany
@@ -36,7 +36,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 ## Academic service
 
 * Reviewer for [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las)
-* Organiser of the [ReproducibiliTea journal club at Royal Holloway, University of London](https://osf.io/m4hn7/)
+* Organiser of the [ReproducibiliTea journal club at Royal Holloway University of London](https://osf.io/m4hn7/)
 
 ## Additional training and qualifications
 
@@ -65,12 +65,21 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 * *Sept 2014*: Non-EU student exchange award (a one semester scholarship), Department of Linguistics, University of Vienna, Austria (EUR 2,500)
 * *Sept 2012*: Non-EU student exchange award (a one semester scholarship), Department of German Studies, University of Vienna, Austria (EUR 2,500)
 
+## Experimental techniques and programming languages
+
+* Behavioural
+* EEG
+* Matlab
+* Python
+* R
+
 ## Languages
 
 * German
 * English
 * Swedish
 * Russian
+* Icelandic (beginner)
 
 
 
