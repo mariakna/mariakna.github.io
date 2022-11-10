@@ -72,6 +72,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 * Matlab
 * Python
 * R
+* LaTeX
 
 ## Languages
 
