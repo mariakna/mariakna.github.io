@@ -36,10 +36,11 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 ## Academic service
 
 * Reviewer for [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las)
-* Organiser of the [ReproducibiliTea journal club at Royal Holloway University of London](https://osf.io/m4hn7/)
+* Organiser of the [ReproducibiliTea journal club](https://osf.io/m4hn7/) at Royal Holloway University of London
 
 ## Additional training and qualifications
 
+* *30 Sept 2022*: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python), DataCamp, [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/intro_nlp_datacamp_certificate.pdf)
 * *12-16 Sept 2022*: [The 6th Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2022/), Bayesian Advanced stream, Univeristy of Potsdam, Germany
 * *June 2021*: Badged Instructor, [The Carpentries](https://carpentries.org/)
 * *Sept 2020*: MOOC [Python Data Structures](https://www.coursera.org/learn/python-data), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part2.pdf)
@@ -72,9 +73,11 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 * Matlab
 * Python
 * R
+* Stata
+* HTML
 * LaTeX
 
-## Languages
+## Natural languages
 
 * German
 * English
