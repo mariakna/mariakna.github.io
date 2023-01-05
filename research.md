@@ -10,9 +10,9 @@ subtitle: Papers, talks, posters etc.
 
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2022). An investigation of behavioural and electrophysiological markers of integration in learning of novel names for novel concepts. [[pre-print]](https://psyarxiv.com/vup25/)
 
-### In press
+### 2023
 
-* **Korochkina, M.**, Sowman, P. F., Nickels, L., & Bürki, A. (2022). Neural correlates of encoding in novel word learning. *Collabra: Psychology* [[pre-print, data & scripts]](https://osf.io/mg4kr/)
+* **Korochkina, M.**, Sowman, P. F., Nickels, L., & Bürki, A. (2022). Neural correlates of encoding in novel word learning. *Collabra: Psychology*, 9(1): 57525. [[doi]](https://doi.org/10.1525/collabra.57525) [[pre-print, data & scripts]](https://osf.io/mg4kr/)
 
 ### 2021
 
