@@ -22,7 +22,7 @@ subtitle: Papers, talks, posters etc.
 
 ### 2023
 
-* **Korochkina, M.**, Bürki, A., & Nickels, L. (2023). Behavioural and electrophysiological markers of integration in novel word learning. **Talk** given at the [EPS](https://eps.ac.uk/) meeting in London, UK, January 4-6, 2023. [[slides]](/talks/EPS23_talk.pdf)
+* **Korochkina, M.**, Nickels, L., & Bürki, A. (2023). Behavioural and electrophysiological markers of integration in novel word learning. **Talk** given at the [EPS](https://eps.ac.uk/) meeting in London, UK, January 4-6, 2023. [[slides]](/talks/EPS23_talk.pdf)
 
 ### 2022
 
@@ -30,7 +30,7 @@ subtitle: Papers, talks, posters etc.
 
 ### 2021
 
-* **Korochkina, M.**, Bürki, A., & Nickels, L. (2021). Behavioural and electrophysiological markers of integration in novel word learning. **Talk** given at virtual [SNL](https://2021.neurolang.org/), October 5-8, 2021. [[slides for the Slide Slam Session]](/posters/SNL2021_E4_Korochkina.pdf) [[supporting documentation]](/posters/SNL2021_E4_KorochkinaNickelsB%C3%BCrki_supporting_documentation.pdf)
+* **Korochkina, M.**, Nickels, L., & Bürki, A. (2021). Behavioural and electrophysiological markers of integration in novel word learning. **Talk** given at virtual [SNL](https://2021.neurolang.org/), October 5-8, 2021. [[slides for the Slide Slam Session]](/posters/SNL2021_E4_Korochkina.pdf) [[supporting documentation]](/posters/SNL2021_E4_KorochkinaNickelsB%C3%BCrki_supporting_documentation.pdf)
 
 ### 2020
 
