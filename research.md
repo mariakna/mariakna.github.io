@@ -6,9 +6,9 @@ subtitle: Papers, talks, posters etc.
 
 ## Publications
 
-### Under review
+### In progress
 
-* **Korochkina, M.**, Nickels, L., & Bürki, A. (2022). An investigation of behavioural and electrophysiological markers of integration in learning of novel names for novel concepts. [[pre-print]](https://psyarxiv.com/vup25/)
+* **Korochkina, M.**, Nickels, L., & Bürki, A. (In revision). An investigation of behavioural and electrophysiological markers of integration in learning of novel names for novel concepts. [[pre-print]](https://psyarxiv.com/vup25/)
 
 ### 2023
 
