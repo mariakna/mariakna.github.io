@@ -35,7 +35,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ## Academic service
 
-* Reviewer for [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne) 
+* Reviewer for [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne) 
 * Organiser of the [ReproducibiliTea journal club](https://osf.io/m4hn7/) at Royal Holloway University of London
 
 ## Additional training and qualifications
