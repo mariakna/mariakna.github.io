@@ -59,7 +59,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ## Honors & awards
 
-* *Feb 2023*: [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association (£500)
+* *Feb 2023*: [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association (GBP 500)
 * *Apr 2020*: [Postgraduate Research Fund](https://students.mq.edu.au/study/my-research-program/grants-and-funding), Macquarie University, Australia (AUD 5,000)
 * *Sept 2019*: Conference travel award, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam, Germany (EUR 1,000)
 * *Sept 2019*: Conference travel award, [Potsdam Graduate School](https://www.uni-potsdam.de/en/pogs/), University of Potsdam, Germany (EUR 500)
