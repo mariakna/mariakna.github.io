@@ -12,6 +12,11 @@
   urlTemplate: "https://github.com/{value}"
   icon: "fab fa-github"
   
+  mastodon:
+   name: "Mastodon"
+   urlTemplate: "https://neuromatch.social/home/{value}"
+   icon: "fab fa-mastodon fa-stack-1x fa-inverse"
+  
  osf:
   name: "OSF"
   urlTemplate: "https://osf.io/{value}"
