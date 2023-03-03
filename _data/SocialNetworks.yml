@@ -7,27 +7,27 @@
 #   icon: Specify valid fontawesome icon classes (style + icon),
 #         e.g. "fab fa-github" or "fas fa-rss"
 
- #github:
- # name: "GitHub"
- # urlTemplate: "https://github.com/{value}"
- # icon: "fab fa-github"
+ github:
+  name: "GitHub"
+  urlTemplate: "https://github.com/{value}"
+  icon: "fab fa-github"
   
- # mastodon:
- #  name: "Mastodon"
- #  urlTemplate: "https://neuromatch.social/{value}"
- #  icon: "fab fa-mastodon"
+ mastodon:
+  name: "Mastodon"
+  urlTemplate: "https://neuromatch.social/{value}"
+  icon: "fab fa-mastodon"
   
  osf:
   name: "OSF"
   urlTemplate: "https://osf.io/{value}"
   icon: "ai ai-osf"
   
-# researchgate:
-#  name: "ResearchGate"
-#  urlTemplate: "https://www.researchgate.net/{value}"
-#  icon: "fab fa-researchgate"
+ researchgate:
+  name: "ResearchGate"
+  urlTemplate: "https://www.researchgate.net/{value}"
+  icon: "fab fa-researchgate"
  
-# orcid:
-#  name: "ORCID iD"
-#  urlTemplate: "https://orcid.org/{value}"
-#  icon: "fab fa-orcid"
+ orcid:
+  name: "ORCID iD"
+  urlTemplate: "https://orcid.org/{value}"
+  icon: "fab fa-orcid"
