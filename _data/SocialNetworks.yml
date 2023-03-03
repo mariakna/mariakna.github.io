@@ -15,7 +15,7 @@
   mastodon:
    name: "Mastodon"
    urlTemplate: "https://neuromatch.social/{value}"
-   icon: "fab fa-mastodon fa-stack-1x fa-inverse"
+   icon: "fab fa-mastodon"
   
  osf:
   name: "OSF"
