@@ -75,7 +75,7 @@ social-network-links:
  # email: true
  # facebook: false
   github: mariakna
-  mastodon: mariakna
+  mastodon: neuromatch.social/@mariakna
  # twitter: false
   osf: zf8px
   researchgate: profile/Maria_Korochkina
@@ -98,6 +98,7 @@ share-links-active:
   twitter: true
   facebook: true
   github: true
+  mastodon: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
