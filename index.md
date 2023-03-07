@@ -15,7 +15,7 @@ I am the organiser of the [ReproducibiliTea journal club](https://reproducibilit
 
 ### Short bio
 
-* Postdoctoral Research Fellow, Royal Holloway University of London (ongoing)
+* Postdoctoral Research Fellow, Royal Holloway University of London & Honorary Postdoctoral Fellow, Macquarie University (ongoing)
 * PhD in Cognitive Science, joint degree from Universities of Potsdam, Newcastle, Groningen, and Macquarie University (2022)
 * MSc in Experimental & Clinical Linguistics ([IECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam (2018)
 * Diploma in Philology (equivalent to BA & MA), Lomonosov Moscow State University (2015)
