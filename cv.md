@@ -17,6 +17,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ## Professional experience
 
+* *Jan 2023 - present*: Honorary Postdoctoral Fellow, Macquarie University, Australia
 * *June 2022 - present*: Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway University of London
 * *Feb 2020 – June 2022*: Academic Tutor, Macquarie University, Australia (see Teaching)
 * *Nov 2019 – Jan 2020*: Research Assistant, [Language Research Group](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/medicine-and-health-sciences/departments-and-centres/department-of-cognitive-science/our-research/language), Macquarie University, Australia
