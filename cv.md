@@ -26,17 +26,18 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ### Teaching
 
+* *27 March, 2023*: Instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), R-Users meeting, Royal Holloway University of London, UK
 * Academic Tutor, Macquarie University (Australia)
   * *Session 1, 2021 &amp; 2022*: [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide)
   * *Session 2, 2020 &amp; 2021*: [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide)
   * *Session 2, 2020 &amp; 2021*: [SPHL3311 Acquired Speech and Language Disorders](https://unitguides.mq.edu.au/unit_offerings/134147/unit_guide)
   * *Session 1, 2020*: [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide) (also on [GitHub](https://crossley.github.io/cogs2020_2020/index.html))
-* *18 Feb 2021*: Presenter, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs) (part of a series of webinars and online workshops in research training; see [here](https://www.eventbrite.co.uk/e/2021-eresearch-training-kickoff-at-macquarie-university-tickets-136557911389)), Macquarie University, Australia
+* *18 Feb 2021*: Instructor, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs) (part of a series of webinars and online workshops in research training; see [here](https://www.eventbrite.co.uk/e/2021-eresearch-training-kickoff-at-macquarie-university-tickets-136557911389)), Macquarie University, Australia
 * *21-25 Sept 2020*: Helper, [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/) Workshop (Software Carpentry), Macquarie University, Australia
 
 ## Academic service
 
-* Reviewer for [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne) 
+* Reviewer for [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne) 
 * Organiser of the [ReproducibiliTea journal club](https://osf.io/m4hn7/) at Royal Holloway University of London
 
 ## Additional training and qualifications
