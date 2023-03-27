@@ -26,7 +26,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ### Teaching
 
-* *27 March, 2023*: Instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), R-Users meeting, Royal Holloway University of London, UK
+* *27 March 2023*: Instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), R-Users meeting, Royal Holloway University of London
 * Academic Tutor, Macquarie University (Australia)
   * *Session 1, 2021 &amp; 2022*: [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide)
   * *Session 2, 2020 &amp; 2021*: [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide)
