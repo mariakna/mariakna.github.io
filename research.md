@@ -6,9 +6,9 @@ subtitle: Papers, talks, posters etc.
 
 ## Publications
 
-### In progress
+### Under review
 
-* **Korochkina, M.**, Nickels, L., & Bürki, A. (In revision). An investigation of behavioural and electrophysiological markers of integration in learning of novel names for novel concepts. [[pre-print]](https://psyarxiv.com/vup25/) [[pre-registration, data & scripts]](https://osf.io/ycukn/)
+* **Korochkina, M.**, Nickels, L., & Bürki, A. (2023). What can we learn about integration of novel words into semantic memory from automatic semantic priming? [[pre-print]](https://psyarxiv.com/vup25/) [[pre-registration, data & scripts]](https://osf.io/ycukn/)
 
 ### 2023
 
