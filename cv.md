@@ -12,7 +12,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 * *2016 – 2018*: MSc in Experimental & Clinical Linguistics ([ECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam
 * *2015 – 2016*: MSc in Linguistics, University of Potsdam (switched to MSc ECL after the first two semesters)
 * *2010 – 2015*: Diploma in Philology (equivalent to BA & MA), Lomonosov Moscow State University, Russia
-  * 2 semesters at the University of Vienna, Austria (Winter semester 2012/2013 & 2014/2015)
+  * 2 semesters at the University of Vienna, Austria (winter 2012/2013 & 2014/2015)
 
 ### Academic employment
 
