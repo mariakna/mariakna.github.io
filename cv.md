@@ -104,11 +104,11 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ## Experimental techniques and programming languages
 
-Behavioural * EEG * Matlab * Python * R * Stata * HTML * LaTeX
+Behavioural – EEG – Computational modelling – Matlab – Python – R – Stata – HTML – LaTeX
 
 ## Natural languages
 
-German * English * Swedish * Russian * Icelandic (beginner)
+German – English – Swedish – Russian – Icelandic (beginner)
 
 
 
