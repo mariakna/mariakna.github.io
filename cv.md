@@ -12,7 +12,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 * *2016 – 2018*: MSc in Experimental & Clinical Linguistics ([ECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam, Germany
 * *2015 – 2016*: MSc in Linguistics, University of Potsdam, Germany (switched to MSc ECL after the first two semesters)
 * *2010 – 2015*: Diploma in Philology (equivalent to BA & MA), Lomonosov Moscow State University, Russia
-  * 2 semesters at the University of Vienna, Austria (Sept 2012 – Feb 2013, Sept 2014 – Feb 2015)
+  * 2 semesters at the University of Vienna, Austria (Winter semester 2012/2013 & 2014/2015)
 
 ## Academic employment
 
@@ -43,7 +43,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ### 2022
 
-* [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python), DataCamp, [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/intro_nlp_datacamp_certificate.pdf)
+* [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python), DataCamp [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/intro_nlp_datacamp_certificate.pdf)
 * [The 6th Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2022/), Bayesian Advanced stream, Univeristy of Potsdam, Germany
 
 ### 2021
@@ -104,7 +104,8 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ## Experimental techniques and programming languages
 
-Behavioural – EEG – Computational modelling – Matlab – Python – R – Stata – HTML – LaTeX
+* Behavioural – EEG – Computational modelling
+* Matlab – Python – R – Stata – HTML – LaTeX
 
 ## Natural languages
 
