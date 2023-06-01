@@ -9,7 +9,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 ## Education
 
 * *2018-2022*: PhD in Cognitive Science, joint degree from Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Australia), [IDEALAB PhD programme](https://phd-idealab.com/)
-* 2016-2018*: MSc in Experimental & Clinical Linguistics ([ECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam, Germany
+* *2016-2018*: MSc in Experimental & Clinical Linguistics ([ECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam, Germany
   * *2015-2016*: 2 semesters of MSc in Linguistics, University of Potsdam, Germany (switched to MSc ECL in Oct 2016)
 * *2010-2015*: Diploma in Philology (equivalent to BA & MA), Lomonosov Moscow State University, Russia
   * *Sept 2014 - Feb 2015*: semester abroad, University of Vienna, Austria
