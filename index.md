@@ -18,4 +18,4 @@ Outside of work, you can find me kayaking, hiking, or playing guitar. I am also 
 
 ### Contact
 
-maria dot korochkina at rhul dot ac dot uk
+maria [dot] korochkina [at] rhul [dot] ac [dot] uk
