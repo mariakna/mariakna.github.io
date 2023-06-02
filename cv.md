@@ -64,17 +64,11 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 * [Introduction to Python](https://mq-software-carpentry.github.io/2019-12-03-intro-to-python/), Software Carpentry Workshop, Macquarie University
 * [The 3rd Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2019/), Bayesian Advanced stream, Univeristy of Potsdam
 
-#### 2018
+#### 2016 – 2018
 
 * Workshop Advanced Methods: Bayesian Statistics with R, University of Potsdam
-
-#### 2017
-
 * fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
 * Internship at the [NOLA Lab](http://www.uni-potsdam.de/nola/index.html), University of Potsdam
-
-#### 2016
-
 * fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
 * Workshop on Standardised Tests of Cognitive and Language Development in Children (SETK 2, SETK 3-5, Bayley-III, KABC-II), University of Potsdam
 
@@ -94,12 +88,9 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 * Conference travel award, [Potsdam Graduate School](https://www.uni-potsdam.de/en/pogs/), University of Potsdam (EUR 500)
 * Financial support for test subjects as part of the dissertation, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 760)
 
-#### 2014
+#### 2012 – 2014
 
 * Non-EU student exchange award (a one semester scholarship), Department of Linguistics, University of Vienna (EUR 2,500)
-
-#### 2012
-
 * Non-EU student exchange award (a one semester scholarship), Department of German Studies, University of Vienna (EUR 2,500)
 
 ### Experimental techniques and programming languages
