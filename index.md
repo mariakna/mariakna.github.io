@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maria Korochkina
-subtitle: Cognitive neuroscientist & aspiring marathon kayaker
+subtitle: Cognitive neuroscientist
 ---
 
 <span style="color:red">STAND WITH UKRAINE!</span> [Here](https://docs.google.com/document/d/1agAW4CQEdi5cDCSa8l8C5ez6Yflz5zaVIzMEgehqwq0/edit?fbclid=IwAR1GYhmR4HHO7v7Y7mDnaOZgESlU93Zx1_sXkbpYR-GOWzgIzIxhUN_yihk) <span style="color:red"> is what you can do to help.
