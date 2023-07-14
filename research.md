@@ -22,6 +22,8 @@ subtitle: Papers, talks, posters etc.
 
 #### 2023
 
+* **Korochkina, M.**, Marelli, M., Brysbaert, M., and Rastle, K. (2023). The Children and Young People’s Books Lexicon (CYP-LEX): How does book language change as children transition into and through adolescence? **Talk** given at the [EPS](https://eps.ac.uk/) meeting in Swansea, UK, July 12-14, 2023. [[slides]](/talks/slides_eps_july2023.pdf)
+
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2023). Behavioural and electrophysiological markers of integration in novel word learning. **Talk** given at the [EPS](https://eps.ac.uk/) meeting in London, UK, January 4-6, 2023. [[slides]](/talks/EPS23_talk.pdf)
 
 #### 2022
