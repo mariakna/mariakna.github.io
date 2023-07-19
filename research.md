@@ -14,6 +14,10 @@ subtitle: Papers, talks, posters etc.
 
 * **Korochkina, M.**, Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlates of encoding in novel word learning. *Collabra: Psychology*, 9(1): 57525. [[doi]](https://doi.org/10.1525/collabra.57525) [[pe-registration, pre-print, data & scripts]](https://osf.io/mg4kr/)
 
+#### 2022
+
+* **Korochkina, M.** (2022). Learning of new words: Behavioural and electrophysiological correlates of encoding and integration. *PhD Thesis*. [[doi]](https://doi.org/10.25949/23707128.v1)
+
 #### 2021
 
 * **Korochkina, M.**, Bürki, A., & Nickels, L. (2021). Apples and oranges: How does learning context affect novel word learning? *Journal of Memory and Language*, 120, 104246. [[doi]](https://doi.org/10.1016/j.jml.2021.104246) [[pre-registration, pre-print, data & scripts]](https://osf.io/g7ftz/)
