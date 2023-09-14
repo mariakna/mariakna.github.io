@@ -8,6 +8,10 @@ subtitle: Papers, talks, posters etc.
 
 #### Under review
 
+* Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2023). Global literacy goals constrained by inadequate foundational decoding skills for pupils in low-and-middle-income countries. 
+
+* Lombard, A., Ulicheva, A., **Korochkina, M.**, & Rastle, K. (2023). The regularity of polysemy patterns in the mind: Computational and experimental data.
+
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2023). What can we learn about integration of novel words into semantic memory from automatic semantic priming? [[pre-print]](https://psyarxiv.com/vup25/) [[pre-registration, data & scripts]](https://osf.io/ycukn/)
 
 #### 2023
@@ -25,6 +29,9 @@ subtitle: Papers, talks, posters etc.
 ### Conference contributions
 
 #### 2023
+
+* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). What do children read as they transition into and through adolescence? Insights from CYP-LEX, a new large-scale
+lexicon of books for children and young people. **Talk** given at the [annual meeting of the Cognitive and Developmental sections of the British Psychological Society (BPS)](https://cogdev2023.org.uk/), Bristol, UK, 12-14 September, 2023. [[slides]](/talks/bps2023_slides.pdf)
 
 * **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). The Children and Young People's Books Lexicon
 (CYP-LEX): A lexical database of books directed at children and young adults. **Talk** given at the [ESCoP](https://escop2023.org/) conference in Porto, Portugal, 6-9 September, 2023. [[slides]](/talks/Korochkina_et_al_ESCoP2023.pdf)
