@@ -11,7 +11,7 @@ subtitle: Papers, talks, posters etc.
 * Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2023). Global literacy goals constrained by inadequate foundational decoding skills for pupils in low-and-middle-income countries. [[pre-print]](https://psyarxiv.com/2qxm9/) 
 
 * Lombard, A., Ulicheva, A., **Korochkina, M.**, & Rastle, K. (2023). The regularity of polysemy patterns in the mind: Computational and experimental data. [[data and analysis code]](https://osf.io/uhy75/)
-* 
+
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2023). What can we learn about integration of novel words into semantic memory from automatic semantic priming? [[pre-print]](https://psyarxiv.com/vup25/) [[pre-registration, data, and analysis code]](https://osf.io/ycukn/)
 
 #### 2023
