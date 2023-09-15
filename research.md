@@ -8,7 +8,7 @@ subtitle: Papers, talks, posters etc.
 
 #### Under review
 
-* Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2023). Global literacy goals constrained by inadequate foundational decoding skills for pupils in low-and-middle-income countries. 
+* Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2023). Global literacy goals constrained by inadequate foundational decoding skills for pupils in low-and-middle-income countries.[[pre-print]](https://psyarxiv.com/2qxm9/) 
 
 * Lombard, A., Ulicheva, A., **Korochkina, M.**, & Rastle, K. (2023). The regularity of polysemy patterns in the mind: Computational and experimental data.
 
