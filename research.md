@@ -30,6 +30,8 @@ subtitle: Papers, talks, posters etc.
 
 #### 2023
 
+* **Korochkina, M.**, Bürki, A., & Nickels, L. (2023). Apples and oranges: How does learning context affect novel word learning? **Talk** given at the [Contextual Diversity Workshop](https://sites.google.com/view/contextual-diversity-workshop/programme-and-information) organised by the Experimental Psychological Society (EPS), University College London, UK, 21-22 September, 2023. [[slides]](/talks/cd_workshop_korochkina.pdf)
+
 * **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). What do children read as they transition into and through adolescence? Insights from CYP-LEX, a new large-scale
 lexicon of books for children and young people. **Talk** given at the [annual meeting of the Cognitive and Developmental sections of the British Psychological Society (BPS)](https://cogdev2023.org.uk/), Bristol, UK, 12-14 September, 2023. [[slides]](/talks/bps2023_slides.pdf)
 
