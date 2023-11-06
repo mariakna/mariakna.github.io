@@ -14,7 +14,7 @@ I am interested in how we learn, retain, consolidate, and forget new information
 
 I am the organiser of the [ReproducibiliTea journal club](https://reproducibilitea.org/journal-clubs/#RHUL) at Royal Holloway. Please fill out [this short form](https://docs.google.com/forms/d/e/1FAIpQLScWUrF8_Catl-w7q70Puxkp69o-GnmSP3K1nRTjXMpISFkzBg/viewform?vc=0&c=0&w=1&flr=0) if you'd like to be added to our mailing list.
   
-Outside of work, you can find me kayaking, hiking, or playing guitar. I am also a keen reader, and I really like to knit and make pottery. 
+Outside of work, you can find me kayaking, hiking, playing guitar, or in the gym :relaxed: I am also a keen reader, and I really like to knit and make pottery. 
 
 ### Contact
 
