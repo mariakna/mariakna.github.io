@@ -85,7 +85,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ### Natural languages
 
-German – English – Swedish – Russian – Icelandic (beginner)
+German – English – Swedish – Russian – Icelandic (beginner) – BSL (beginner)
 
 
 
