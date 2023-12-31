@@ -8,13 +8,13 @@ subtitle: Papers, talks, posters etc.
 
 #### Under review
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). The Children and Young People's Books Lexicon (CYP-LEX): A large-scale lexical database of books read by children and young people in the United Kingdom. [[pre-print]](https://osf.io/preprints/psyarxiv/nha8t/)
-
 * Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2023). Global literacy goals constrained by inadequate foundational decoding skills for pupils in low- and middle-income countries. [[pre-print]](https://psyarxiv.com/2qxm9/) 
 
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2023). What can we learn about integration of novel words into semantic memory from automatic semantic priming? [[pre-print]](https://psyarxiv.com/vup25/) [[pre-registration, data, and analysis code]](https://osf.io/ycukn/)
 
 #### In press
+
+* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). The Children and Young People's Books Lexicon (CYP-LEX): A large-scale lexical database of books read by children and young people in the United Kingdom. *Quarterly Journal of Experimental Psychology*. [[pre-print]](https://osf.io/preprints/psyarxiv/nha8t/)
 
 * Lombard, A., Ulicheva, A., **Korochkina, M.**, & Rastle, K. (In press). The regularity of polysemy patterns in the mind: Computational and experimental data. *GLOSSA Psycholinguistics*. [[data and analysis code]](https://osf.io/uhy75/)
 
