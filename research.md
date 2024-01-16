@@ -14,7 +14,7 @@ subtitle: Papers, talks, posters etc.
 
 #### In press
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (In press). The Children and Young People's Books Lexicon (CYP-LEX): A large-scale lexical database of books read by children and young people in the United Kingdom. *Quarterly Journal of Experimental Psychology*. [[pre-print]](https://osf.io/preprints/psyarxiv/nha8t/)
+* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (In press). The Children and Young People's Books Lexicon (CYP-LEX): A large-scale lexical database of books read by children and young people in the United Kingdom. *Quarterly Journal of Experimental Psychology*. [[pre-print]](https://osf.io/preprints/psyarxiv/nha8t/) [[The CYP-LEX database]](https://doi.org/10.17605/OSF.IO/SQU49)
 
 * Lombard, A., Ulicheva, A., **Korochkina, M.**, & Rastle, K. (In press). The regularity of polysemy patterns in the mind: Computational and experimental data. *GLOSSA Psycholinguistics*. [[data and analysis code]](https://osf.io/uhy75/)
 
