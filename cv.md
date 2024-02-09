@@ -4,40 +4,38 @@ title: Curriculum Vitae
 ---
 
 For conference contributions and publications please see [research output](https://mariakna.github.io/research/).<br>
-A PDF version (including research output) is available [here](CV_MKorochkina.pdf).
+A (short) PDF version (including research output) is available [here](maria_cv.pdf).
 
 ### Education
 
 * *2018 – 2022*: PhD in Cognitive Science, joint degree from Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Australia), [IDEALAB PhD programme](https://phd-idealab.com/)
-* *2016 – 2018*: MSc in Experimental & Clinical Linguistics ([ECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam
-* *2015 – 2016*: MSc in Linguistics, University of Potsdam (switched to MSc ECL after the first two semesters)
+* *2015 – 2018*: MSc in Experimental & Clinical Linguistics ([ECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam
 * *2010 – 2015*: Diploma in Philology (equivalent to BA & MA), Lomonosov Moscow State University, Russia
-  * 2 semesters at the University of Vienna, Austria (winter 2012/2013 & 2014/2015)
 
 ### Academic employment
 
 * *Jan 2023 – present*: Honorary Postdoctoral Fellow, Macquarie University, Australia
 * *June 2022 – present*: Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway University of London, UK
 * *Feb 2020 – June 2022*: Academic Tutor, Macquarie University (see Teaching)
-* *Nov 2019 – Jan 2020*: Research Assistant, [Language Research Group](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/medicine-and-health-sciences/departments-and-centres/department-of-cognitive-science/our-research/language), Macquarie University
+* *Nov 2019 – Jan 2020*: Research Assistant, [Language Research Group](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-cognitive-science/our-research/language), Macquarie University
 * *Apr 2017 – June 2018*: Research Assistant, [VasishthLab](https://vasishth.github.io/), University of Potsdam
-* *July 2016 – Aug 2018*: Research Assistant, [Neurocognition of Language Lab (NOLA)](http://www.uni-potsdam.de/nola/index.html), University of Potsdam
+* *July 2016 – Aug 2018*: Research Assistant, [NOLA Lab](http://www.uni-potsdam.de/nola/index.html), University of Potsdam
 
 #### Teaching
 
-* *27 March 2023*: Instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), R-Users meeting, Royal Holloway University of London
+* *27 March 2023*: Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway University of London
 * Academic Tutor, Macquarie University
   * *Session 1, 2021 &amp; 2022*: [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide)
   * *Session 2, 2020 &amp; 2021*: [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide)
   * *Session 2, 2020 &amp; 2021*: [SPHL3311 Acquired Speech and Language Disorders](https://unitguides.mq.edu.au/unit_offerings/134147/unit_guide)
-  * *Session 1, 2020*: [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide) (also on [GitHub](https://crossley.github.io/cogs2020_2020/index.html))
-* *18 Feb 2021*: Instructor, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs) (part of a series of webinars and online workshops in research training; see [here](https://www.eventbrite.co.uk/e/2021-eresearch-training-kickoff-at-macquarie-university-tickets-136557911389)), Macquarie University
-* *21 – 25 Sept 2020*: Helper, [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/) Workshop (Software Carpentry), Macquarie University
+  * *Session 1, 2020*: [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide)
+* *18 Feb 2021*: Workshop instructor, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs), Macquarie University
+* *21 – 25 Sept 2020*: Helper, [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/) Software Carpentry workshop, Macquarie University
 
 ### Academic service
 
 * Reviewer for [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics) 
-* Organiser of the [ReproducibiliTea journal club](https://osf.io/m4hn7/) at Royal Holloway University of London
+* Organiser of the [ReproducibiliTea journal club](https://osf.io/m4hn7/), Royal Holloway, University of London
 
 ### Additional training and qualifications
 
@@ -85,7 +83,7 @@ A PDF version (including research output) is available [here](CV_MKorochkina.pdf
 
 ### Natural languages
 
-German – English – Swedish – Russian – Icelandic (beginner) – BSL (beginner)
+German – English – Swedish – Russian – BSL (beginner) – Icelandic (beginner) 
 
 
 
