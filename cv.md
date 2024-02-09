@@ -9,21 +9,21 @@ A (short) PDF version (including research output) is available [here](maria_cv.p
 ### Education
 
 * *2018 – 2022*: PhD in Cognitive Science, joint degree from Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Australia), [IDEALAB PhD programme](https://phd-idealab.com/)
-* *2015 – 2018*: MSc in Experimental & Clinical Linguistics ([ECL](https://www.uni-potsdam.de/en/iecl/index)), University of Potsdam
-* *2010 – 2015*: Diploma in Philology (equivalent to BA & MA), Lomonosov Moscow State University, Russia
+* *2015 – 2018*: MSc in Experimental & Clinical Linguistics, University of Potsdam, ([IECL](https://www.uni-potsdam.de/en/iecl/index)) programme
+* *2010 – 2015*: BA & MA in Philology, Lomonosov Moscow State University, Russia
 
 ### Academic employment
 
-* *Jan 2023 – present*: Honorary Postdoctoral Fellow, Macquarie University, Australia
-* *June 2022 – present*: Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway University of London, UK
-* *Feb 2020 – June 2022*: Academic Tutor, Macquarie University (see Teaching)
+* *Jan 2023 – ongoing*: Honorary Postdoctoral Fellow, Macquarie University
+* *June 2022 – ongoing*: Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway, University of London
+* *Feb 2020 – June 2022*: Academic Tutor, Macquarie University
 * *Nov 2019 – Jan 2020*: Research Assistant, [Language Research Group](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-cognitive-science/our-research/language), Macquarie University
 * *Apr 2017 – June 2018*: Research Assistant, [VasishthLab](https://vasishth.github.io/), University of Potsdam
 * *July 2016 – Aug 2018*: Research Assistant, [NOLA Lab](http://www.uni-potsdam.de/nola/index.html), University of Potsdam
 
-#### Teaching
+#### Teaching experience
 
-* *27 March 2023*: Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway University of London
+* *27 March 2023*: Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
 * Academic Tutor, Macquarie University
   * *Session 1, 2021 &amp; 2022*: [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide)
   * *Session 2, 2020 &amp; 2021*: [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide)
