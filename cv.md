@@ -8,6 +8,11 @@ A (short) PDF version (including research output) is available [here](maria_cv.p
 
 ### Education
 
+|           |                  |
+|:----------|:--------------- |
+| 2018-2022 | PhD |
+| 2015-2018 | MSc |
+
 * *2018 – 2022*: PhD in Cognitive Science, joint degree from Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Australia), [IDEALAB PhD programme](https://phd-idealab.com/)
 * *2015 – 2018*: MSc in Experimental & Clinical Linguistics, University of Potsdam, [IECL](https://www.uni-potsdam.de/en/iecl/index) programme
 * *2010 – 2015*: BA & MA in Philology, Lomonosov Moscow State University, Russia
@@ -21,7 +26,7 @@ A (short) PDF version (including research output) is available [here](maria_cv.p
 * *Apr 2017 – June 2018*: Research Assistant, [VasishthLab](https://vasishth.github.io/), University of Potsdam
 * *July 2016 – Aug 2018*: Research Assistant, [NOLA Lab](http://www.uni-potsdam.de/nola/index.html), University of Potsdam
 
-#### Teaching experience
+### Teaching experience
 
 * *27 March 2023*: Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
 * Academic Tutor, Macquarie University
@@ -39,49 +44,39 @@ A (short) PDF version (including research output) is available [here](maria_cv.p
 
 ### Additional training and qualifications
 
-#### 2019 – 2022
-
-* [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python), DataCamp [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/intro_nlp_datacamp_certificate.pdf)
-* [The 6th Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2022/), Bayesian Advanced stream, Univeristy of Potsdam
-* Badged instructor, [The Carpentries](https://carpentries.org/)
-* MOOC [Python Data Structures](https://www.coursera.org/learn/python-data), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part2.pdf)
-* MOOC [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part1.pdf)
-* Workshop [MATLAB Fundamentals](https://www.eventbrite.co.uk/e/matlab-fundamentals-at-macquarie-university-tickets-111336725142) with MathWorks, Macquarie University
-* MOOC [Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+1T2020/home), edX (Audit)
-* MOOC [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology?#enroll), University of Chicago [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/Coursera%203FM8UYY27R4_certificate.pdf)
-* Workshop on Australasian Magnetoencephalography (WAM) 2019: Neurocognitive clinical applications of MEG: Present and future, Macquarie University
-* [Introduction to Python](https://mq-software-carpentry.github.io/2019-12-03-intro-to-python/), Software Carpentry Workshop, Macquarie University
-* [The 3rd Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2019/), Bayesian Advanced stream, Univeristy of Potsdam
-
-#### 2016 – 2018
-
-* Workshop Advanced Methods: Bayesian Statistics with R, University of Potsdam
-* fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
-* Internship at the [NOLA Lab](http://www.uni-potsdam.de/nola/index.html), University of Potsdam
-* fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
-* Workshop on Standardised Tests of Cognitive and Language Development in Children (SETK 2, SETK 3-5, Bayley-III, KABC-II), University of Potsdam
+* 2022: [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python), DataCamp [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/intro_nlp_datacamp_certificate.pdf)
+* 2022: [The 6th Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2022/), Bayesian Advanced stream, Univeristy of Potsdam
+* 2021: Badged instructor, [The Carpentries](https://carpentries.org/)
+* 2020: MOOC [Python Data Structures](https://www.coursera.org/learn/python-data), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part2.pdf)
+* 2020: MOOC [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part1.pdf)
+* 2020: Workshop [MATLAB Fundamentals](https://www.eventbrite.co.uk/e/matlab-fundamentals-at-macquarie-university-tickets-111336725142) with MathWorks, Macquarie University
+* 2020: MOOC [Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+1T2020/home), edX (Audit)
+* 2020: MOOC [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology?#enroll), University of Chicago [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/Coursera%203FM8UYY27R4_certificate.pdf)
+* 2019: Workshop on Australasian Magnetoencephalography (WAM): Neurocognitive clinical applications of MEG: Present and future, Macquarie University
+* 2019: [Introduction to Python](https://mq-software-carpentry.github.io/2019-12-03-intro-to-python/), Software Carpentry Workshop, Macquarie University
+* 2019: [The 3rd Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2019/), Bayesian Advanced stream, Univeristy of Potsdam
+* 2018: Workshop Advanced Methods: Bayesian Statistics with R, University of Potsdam
+* 2017: fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
+* 2016: Internship at the [NOLA Lab](http://www.uni-potsdam.de/nola/index.html), University of Potsdam
+* 2016: fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
+* 2016: Workshop on Standardised Tests of Cognitive and Language Development in Children (SETK 2, SETK 3-5, Bayley-III, KABC-II), University of Potsdam
 
 ### Honors & awards
 
-#### 2019 – 2023
-
-* [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association (GBP 500)
-* [Postgraduate Research Fund](https://students.mq.edu.au/study/my-research-program/grants-and-funding), Macquarie University (AUD 5,000)
-* Conference travel award, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 1,000)
-* Conference travel award, [Potsdam Graduate School](https://www.uni-potsdam.de/en/pogs/), University of Potsdam (EUR 500)
-* Financial support for test subjects as part of the dissertation, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 760)
-
-#### 2012 – 2014
-
-* Non-EU student exchange award (a one semester scholarship), Department of Linguistics, University of Vienna (EUR 2,500)
-* Non-EU student exchange award (a one semester scholarship), Department of German Studies, University of Vienna (EUR 2,500)
+* 2023: [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association (GBP 500)
+* 2020: [Postgraduate Research Fund](https://students.mq.edu.au/study/my-research-program/grants-and-funding), Macquarie University (AUD 5,000)
+* 2019: Conference travel award, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 1,000)
+* 2019: Conference travel award, [Potsdam Graduate School](https://www.uni-potsdam.de/en/pogs/), University of Potsdam (EUR 500)
+* 2019: Financial support for test subjects as part of the dissertation, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 760)
+* 2014: Non-EU student exchange award (a one semester scholarship), Department of Linguistics, University of Vienna (EUR 2,500)
+* 2012: Non-EU student exchange award (a one semester scholarship), Department of German Studies, University of Vienna (EUR 2,500)
 
 ### Experimental techniques and programming languages
 
 * Behavioural – EEG – Computational modelling
 * Matlab – Python – R – Stata – HTML – LaTeX
 
-### Natural languages
+### Language skills
 
 German – English – Swedish – Russian – BSL (beginner) – Icelandic (beginner) 
 
