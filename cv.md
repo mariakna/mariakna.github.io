@@ -8,7 +8,6 @@ A (short) PDF version (including research output) is available [here](maria_cv.p
 
 ### Education
 
-|           |                  |
 |:----------|:--------------- |
 | 2018-2022 | PhD |
 | 2015-2018 | MSc |
