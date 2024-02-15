@@ -10,12 +10,11 @@ subtitle: Papers, talks, posters etc.
 
 * Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2023). Global literacy goals constrained by inadequate foundational decoding skills for pupils in low- and middle-income countries. [[pre-print]](https://psyarxiv.com/2qxm9/) 
 
-* **Korochkina, M.**, Nickels, L., & Bürki, A. (2023). What can we learn about integration of novel words into semantic memory from automatic semantic priming? [[pre-print]](https://psyarxiv.com/vup25/) [[pre-registration, data, and analysis code]](https://osf.io/ycukn/)
-
 #### Peer-reviewed
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). The Children and Young People's Books Lexicon (CYP-LEX): A large-scale lexical database of books read by children and young people in the United Kingdom. *Quarterly Journal of Experimental Psychology*. [[doi]](https://doi.org/10.1177/17470218241229694) [[The CYP-LEX database]](https://doi.org/10.17605/OSF.IO/SQU49)
-* Lombard, A., Ulicheva, A., **Korochkina, M.**, & Rastle, K. (2024). The regularity of polysemy patterns in the mind: Computational and experimental data. *GLOSSA Psycholinguistics*, 3(1): 3, 1--24. [[doi]](https://doi.org/10.5070/G60111327) [[data and analysis code]](https://osf.io/uhy75/)
+* **Korochkina, M.**, Nickels, L., & Bürki, A. (In press). What can we learn about integration of novel words into semantic memory from automatic semantic priming? *Language, Cognition, and Neuroscience* [[pre-registration, pre-print, data, and analysis code]](https://osf.io/ycukn/)
+* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (In press). The Children and Young People's Books Lexicon (CYP-LEX): A large-scale lexical database of books read by children and young people in the United Kingdom. *Quarterly Journal of Experimental Psychology*. [[doi]](https://doi.org/10.1177/17470218241229694) [[The CYP-LEX database]](https://doi.org/10.17605/OSF.IO/SQU49)
+* Lombard, A., Ulicheva, A., **Korochkina, M.**, & Rastle, K. (In press). The regularity of polysemy patterns in the mind: Computational and experimental data. *GLOSSA Psycholinguistics*, 3(1): 3, 1--24. [[doi]](https://doi.org/10.5070/G60111327) [[data and analysis code]](https://osf.io/uhy75/)
 * **Korochkina, M.**, Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlates of encoding in novel word learning. *Collabra: Psychology*, 9(1): 57525. [[doi]](https://doi.org/10.1525/collabra.57525) [[pe-registration, pre-print, data, and analysis code]](https://osf.io/mg4kr/)
 * **Korochkina, M.**, Bürki, A., & Nickels, L. (2021). Apples and oranges: How does learning context affect novel word learning? *Journal of Memory and Language*, 120, 104246. [[doi]](https://doi.org/10.1016/j.jml.2021.104246) [[pre-registration, pre-print, data, and analysis code]](https://osf.io/g7ftz/)
 
