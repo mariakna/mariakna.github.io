@@ -21,8 +21,10 @@ A (short) PDF version (including research output) is available [here](maria_cv.p
 * Apr 2017 – June 2018, Research Assistant, [VasishthLab](https://vasishth.github.io/), University of Potsdam
 * July 2016 – Aug 2018, Research Assistant, [NOLA Lab](http://www.uni-potsdam.de/nola/index.html), University of Potsdam
 
-### Teaching experience
+### Teaching & educating
 
+* 27 March 2024, Presenter, Getting Started with Version Control, ReproducibiliTea meeting series, Royal Holloway, University of London
+* 11 March 2024, Presenter, Getting Started with LaTeX, ReproducibiliTea meeting series, Royal Holloway, University of London
 * 27 March 2023, Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
 * Academic Tutor, Macquarie University
   * Session 1, 2021 &amp; 2022. [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide)
@@ -46,6 +48,13 @@ A (short) PDF version (including research output) is available [here](maria_cv.p
 * 2019, Financial support for test subjects as part of the dissertation, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 760)
 * 2014, Non-EU student exchange award (a one semester scholarship), Department of Linguistics, University of Vienna (EUR 2,500)
 * 2012, Non-EU student exchange award (a one semester scholarship), Department of German Studies, University of Vienna (EUR 2,500)
+
+### Scientific societies
+
+* [The British Neuroscience Association](https://www.bna.org.uk/)
+* [The Experimental Psychology Society](https://eps.ac.uk/)
+* [Society for the Scientific Study of Reading](https://www.triplesr.org/)
+* [The European Society for Cognitive Psychology](https://www.escop.eu/)
 
 ### Additional training and qualifications
 
