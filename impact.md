@@ -12,7 +12,7 @@ Kathy and I also wrote an accessible [blog post](https://www.rastlelab.com/post/
 
 Within a month of its publication, our paper has attracted a lot of attention from teachers, teacher educators, and literacy charities (see below). It has been highlighted that the "implications [of this research] can be profound for the choices we make to help pupils learn language".
 
-* Our paper has achieved a very high [Altmetric score](https://www.altmetric.com/) and is thus in the top 5% of research outputs ever tracked by Altmetric; it has been viewed and downloaded more than 1,000 times
+* Our paper has achieved a very high [Altmetric score](https://www.altmetric.com/) and is thus in the top 5% of research outputs ever tracked by Altmetric
 * This research was featured in magazines aimed at education professionals, e.g., [TES](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner)
-* Our research was also featured in blogs for British teachers and educators, e.g., in the [3Rs newsletter](https://alexquigley.substack.com/p/the-3rs-reading-writing-and-research-fbf) by Alex Quigley
-* Our blog post has been viewed more than 1,300 times
+* Our research was also mentioned in publications targeting British teachers and educators, e.g., in the [3Rs newsletter](https://alexquigley.substack.com/p/the-3rs-reading-writing-and-research-fbf) by Alex Quigley
+* The original research article has been viewed and downloaded more than 1,000 times, and the associated blog post has been viewed more than 1,300 times
