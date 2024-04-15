@@ -55,6 +55,7 @@ A (short) PDF version (including research output) is available [here](maria_cv.p
 * [The Experimental Psychology Society](https://eps.ac.uk/)
 * [Society for the Scientific Study of Reading](https://www.triplesr.org/)
 * [The European Society for Cognitive Psychology](https://www.escop.eu/)
+* [Psychonomic Society](https://www.psychonomic.org/page/about)
 
 ### Additional training and qualifications
 
