@@ -4,7 +4,7 @@ title: Maria Korochkina
 subtitle: Cognitive neuroscientist studying learning & memory
 ---
 
-I am a postdoctoral research fellow in the [Rastle lab](https://www.rastlelab.com/home) at Royal Holloway, University of London, England. My research interests revolve around memory and learning. In particular, I am interested in how we learn and forget, and in how these processes are influenced by the context in which new information is encountered, our prior knowledge, and the properties of the new information we are trying to learn. I am also curious about how all these things change as we age.
+I am a postdoctoral research fellow in the [Rastle lab](https://www.rastlelab.com/home) at Royal Holloway, University of London, England. My research interests revolve around memory and learning. In particular, I am interested in how we learn and forget, and in how these processes are influenced by the context in which new information is encountered, our prior knowledge, and the properties of the information we are trying to learn. I am also curious about how all these things change as we age.
 
 My current line of research explores how children acquire meaningful morphological information through reading. This project is a collaboration with [Kathy Rastle](https://pure.royalholloway.ac.uk/portal/en/persons/kathy-rastle(b536d15d-f070-4b97-bf6e-004ed7e86c55).html), [Marc Brysbaert](http://crr.ugent.be/members/marc-brysbaert), and [Marco Marelli](https://www.marcomarelli.net).
 
