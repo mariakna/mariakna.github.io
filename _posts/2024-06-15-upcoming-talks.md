@@ -14,8 +14,8 @@ The conference season has started! Here's what I'll be doing this summer:
   -  **5 July**: Korochkina, M., Marelli, M., Brysbaert, M., & Rastle, K. *What can children learn about English morphology through book reading?* **Talk** at the [EPS meeting](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://eps.ac.uk/wp-content/uploads/2024/06/EPS-York-Meeting-Programme.pdf), York
   -  **11 July**: Korochkina, M., Marelli, M., Brysbaert, M., & Rastle, K. *The nature of morphemic regularities in children’s literature: What do British children learn about derivational morphology when they read?* **Talk** at the [SSSR meeting](https://www.triplesr.org/submissions-and-programme), Copenhagen
 - Workshop on the nuts and bolts of pre-registration:
-  - **10 July**: Korochkina, M. *Pre-registration and open materials* **Invited talk** at the [SSSR pre-conference](https://www.triplesr.org/submissions-and-programme), Copenhagen
+  - **10 July**: Korochkina, M. *Pre-registration and open materials.* **Invited talk** at the [SSSR pre-conference](https://www.triplesr.org/submissions-and-programme), Copenhagen
 - Ongoing work on the nature of vocabulary in books popular with British children & young people:
-  - **7 September**: Korochkina, M., & Rastle, K. *Words in books: a challenge, a blessing, or both?* **Talk* at [researchED National Conference](https://researched.org.uk/event/researched-national-conference-2024/), London
+  - **7 September**: Korochkina, M., & Rastle, K. *Words in books: a challenge, a blessing, or both?* **Talk** at [researchED National Conference](https://researched.org.uk/event/researched-national-conference-2024/), London
  
-  - Please come along! :)    
+Please come along! :)    
