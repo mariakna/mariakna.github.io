@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upcoming talks
-subtitle: EPS, Research & Practice at RHUL, SSSR
+subtitle: EPS, Research & Practice at RHUL, SSSR, researchED
 tags: [research, outreach, conferences]
 comments: true
 ---
