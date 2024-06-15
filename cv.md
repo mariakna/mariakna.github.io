@@ -23,9 +23,9 @@ A (short) PDF version (including research output) is available [here](maria_cv.p
 
 ### Teaching & educating
 
-* 10 June 2024, Speaker, ReproducibiliTea journal club: Fostering open science and reproducible research, Festival of Research, Royal Holloway, University of London
-* 27 March 2024, Presenter, Getting Started with Version Control, ReproducibiliTea meeting series, Royal Holloway, University of London
-* 11 March 2024, Presenter, Getting Started with LaTeX, ReproducibiliTea meeting series, Royal Holloway, University of London
+* 10 June 2024, Speaker, *ReproducibiliTea journal club: Fostering open science and reproducible research*, Festival of Research, Royal Holloway, University of London
+* 27 March 2024, Presenter, *Getting Started with Version Control*, ReproducibiliTea meeting series, Royal Holloway, University of London
+* 11 March 2024, Presenter, *Getting Started with LaTeX*, ReproducibiliTea meeting series, Royal Holloway, University of London
 * 27 March 2023, Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
 * Academic Tutor, Macquarie University
   * Session 1, 2021 &amp; 2022. [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide)
