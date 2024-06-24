@@ -6,11 +6,11 @@ subtitle: Papers, talks, posters etc.
 
 ### Publications
 
-#### Under review
+#### Journal articles under review
 
 * Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2023). Global literacy goals constrained by inadequate foundational decoding skills for pupils in low- and middle-income countries. [[pre-print]](https://psyarxiv.com/2qxm9/) 
 
-#### Peer-reviewed
+#### Peer-reviewed journal articles
 
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2024). What can we learn about integration of novel words into semantic memory from automatic semantic priming? *Language, Cognition, and Neuroscience*, 39(4), 455--488. [https://doi.org/10.1080/23273798.2024.2328586](https://doi.org/10.1080/23273798.2024.2328586) [[pre-registration, pre-print, data, and analysis code]](https://osf.io/ycukn/)
 * **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). The Children and Young People's Books Lexicon (CYP-LEX): A large-scale lexical database of books read by children and young people in the United Kingdom. *Quarterly Journal of Experimental Psychology*. [https://doi.org/10.1177/17470218241229694](https://doi.org/10.1177/17470218241229694) [[The CYP-LEX database, supplemetary files, and analysis code]](https://doi.org/10.17605/OSF.IO/SQU49)
@@ -22,13 +22,13 @@ subtitle: Papers, talks, posters etc.
 
 * **Korochkina, M.** (2022). Learning of new words: Behavioural and electrophysiological correlates of encoding and integration. *PhD Thesis*. [https://doi.org/10.25949/23707128.v1](https://doi.org/10.25949/23707128.v1)
 
-#### Media and outreach
+### Outreach contributions
+
+* **Korochkina, M.**, & Rastle K. (2024). What does it take to read and understand the GCSE English Literature texts? **Talk** given at the [Working Together: Research and Practice event 2024](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/research/serns/serns-events/2024/), The South East Research Network for Schools, Egham, UK, 21 June 2024. [[slides]](/talks/korochkina_rastle_serns_2024.pdf)
 
 * **Korochkina, M.**, & Rastle K. (2024). What words do children encounter when they read for pleasure? Accessible [blog post](https://www.rastlelab.com/post/what-words-do-children-encounter-when-they-read-for-pleasure).  
 
-### Conference contributions
-
-* **Korochkina, M.**, & Rastle, K. (2024). What does it take to read and understand the GCSE English Literature texts? **Talk** given at the [Working Together: Research and Practice event 2024](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/research/serns/serns-events/2024/), The South East Research Network for Schools, Egham, UK, 21 June 2024. [[slides]](/talks/korochkina_rastle_serns_2024.pdf)
+### Research conference contributions
 
 * **Korochkina, M.**, Bürki, A., & Nickels, L. (2023). Apples and oranges: How does learning context affect novel word learning? **Talk** given at the [Contextual Diversity Workshop](https://sites.google.com/view/contextual-diversity-workshop/programme-and-information) organised by the Experimental Psychological Society (EPS), University College London, UK, 21-22 September 2023. [[slides]](/talks/cd_workshop_korochkina.pdf)
 
@@ -53,3 +53,5 @@ lexicon of books for children and young people. **Talk** given at the [annual me
 * **Korochkina, M.**, Bürki, A., & Nickels, L. (2019). Semantic integration of new vocabulary: Does learning context matter? **Poster** presented at [ESCoP](https://escop2019.webs.ull.es/) in Tenerife, Spain, 25-28 September 2019. [[poster]](/posters/poster_escop2019_mkorochkina.pdf) 
 
 * **Korochkina, M.**, Bürki, A., & Nickels, L. (2019). The effect of the learning context on novel word learning. **Poster** presented at [AMLaP](https://neuro.hse.ru/amlap2019/) in Moscow, Russia, 6-8 September 2019. [[poster]](/posters/poster_amlap2019_mkorochkina.pdf)
+
+
