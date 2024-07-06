@@ -28,7 +28,7 @@ A (short) PDF version (including research output) is available [here](maria_cv.p
 * 11 March 2024, Presenter, *Getting Started with LaTeX*, ReproducibiliTea meeting series, Royal Holloway, University of London
 * 27 March 2023, Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
 * Academic Tutor, Macquarie University
-  * Session 1, 2021 &amp; 2022. [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide)
+  * Session 1, 2021 &amp; 2022, [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide)
   * Session 2, 2020 &amp; 2021, [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide)
   * Session 2, 2020 &amp; 2021, [SPHL3311 Acquired Speech and Language Disorders](https://unitguides.mq.edu.au/unit_offerings/134147/unit_guide)
   * Session 1, 2020, [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide)
