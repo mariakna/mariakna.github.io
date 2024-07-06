@@ -22,13 +22,9 @@ subtitle: Papers, talks, posters etc.
 
 * **Korochkina, M.** (2022). Learning of new words: Behavioural and electrophysiological correlates of encoding and integration. *PhD Thesis*. [https://doi.org/10.25949/23707128.v1](https://doi.org/10.25949/23707128.v1)
 
-### Outreach contributions
-
-* **Korochkina, M.**, & Rastle K. (2024). What does it take to read and understand the GCSE English Literature texts? **Talk** given at the [Working Together: Research and Practice event 2024](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/research/serns/serns-events/2024/), The South East Research Network for Schools, Egham, UK, 21 June 2024. [[slides]](/talks/korochkina_rastle_serns_2024.pdf)
-
-* **Korochkina, M.**, & Rastle K. (2024). What words do children encounter when they read for pleasure? Accessible [blog post](https://www.rastlelab.com/post/what-words-do-children-encounter-when-they-read-for-pleasure).  
-
 ### Research conference contributions
+
+* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). What can children learn about English morphology through book reading? **Talk** given at the [EPS](https://eps.ac.uk/) meeting in York, UK, 3-5 July 2024. [[slides]](/talks/eps_york2024.pdf)
 
 * **Korochkina, M.**, Bürki, A., & Nickels, L. (2023). Apples and oranges: How does learning context affect novel word learning? **Talk** given at the [Contextual Diversity Workshop](https://sites.google.com/view/contextual-diversity-workshop/programme-and-information) organised by the Experimental Psychological Society (EPS), University College London, UK, 21-22 September 2023. [[slides]](/talks/cd_workshop_korochkina.pdf)
 
