@@ -6,7 +6,7 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 ### Outreach contributions
 
-* **Korochkina, M.**, & Rastle K. (2024). What words do children encounter when they read for pleasure? [*Nomanis*](https://info.multilit.com/hubfs/NOMANIS-17-JUN24/PDFS/KOROCHKINA-RASTLE-JUN-24.pdf?__hstc=131911440.0a752b2e859c7aa14b101689b005316e.1720425142027.1720425142027.1720425142027.1&__hssc=131911440.1.1720425142027&__hsfp=3981457101), issue 17 (re-publication of the original blog post). 
+* **Korochkina, M.**, & Rastle K. (2024). What words do children encounter when they read for pleasure? *Nomanis*, [Issue 17](https://www.nomanis.com.au/blog/issue-17-june-2024). (This article originally appeared on the [Rastle Lab blog](https://www.rastlelab.com/post/what-words-do-children-encounter-when-they-read-for-pleasure))
 
 * **Korochkina, M.**, & Rastle K. (2024). What does it take to read and understand the GCSE English Literature texts? **Talk** given at the [Working Together: Research and Practice event 2024](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/research/serns/serns-events/2024/), The South East Research Network for Schools, Egham, UK, 21 June 2024. [[slides]](/talks/korochkina_rastle_serns_2024.pdf)
 
