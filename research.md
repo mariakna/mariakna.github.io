@@ -24,6 +24,10 @@ subtitle: Papers, talks, posters etc.
 
 ### Research conference contributions
 
+* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). The nature of morphemic regularities in children’s literature: What do British children learn about derivational morphology when they read? **Talk** given at the [SSSR](https://www.triplesr.org/) 31st annual conference in Copenhagen, Denmark, 11-14 July 2024. [[slides]](/talks/sssr_symp_talk.pdf)
+
+* **Korochkina, M.** (2024). Pre-registration & Open Materials: The What, Why, & How. **Invited talk** given at the *Opening up Open Science: Nuts and Bolts for Beginners* workshop, [SSSR](https://www.triplesr.org/) 31st annual conference, Copenhagen, Denmark, 10 July 2024. [[slides]](/talks/preconf_workshop_talk.pdf)
+
 * **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). What can children learn about English morphology through book reading? **Talk** given at the [EPS](https://eps.ac.uk/) meeting in York, UK, 3-5 July 2024. [[slides]](/talks/eps_york2024.pdf)
 
 * **Korochkina, M.**, Bürki, A., & Nickels, L. (2023). Apples and oranges: How does learning context affect novel word learning? **Talk** given at the [Contextual Diversity Workshop](https://sites.google.com/view/contextual-diversity-workshop/programme-and-information) organised by the Experimental Psychological Society (EPS), University College London, UK, 21-22 September 2023. [[slides]](/talks/cd_workshop_korochkina.pdf)
