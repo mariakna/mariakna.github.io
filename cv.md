@@ -14,7 +14,6 @@ A (short) PDF version (including research output) is available [here](maria_cv.p
 
 ### Academic employment
 
-* Jan 2023 – ongoing, Honorary Postdoctoral Fellow, School of Psychological Sciences, Macquarie University
 * June 2022 – ongoing, Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway, University of London
 * Feb 2020 – June 2022, Academic Tutor, Macquarie University
 * Nov 2019 – Jan 2020, Research Assistant, [Language Research Group](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-cognitive-science/our-research/language), Macquarie University
