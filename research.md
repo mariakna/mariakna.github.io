@@ -8,7 +8,7 @@ subtitle: Papers, talks, posters etc.
 
 #### In press
 
-* Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2024). Global literacy goals constrained by inadequate foundational decoding skills for pupils in low- and middle-income countries. *Nature Human Behaviour* [[pre-print]](https://psyarxiv.com/2qxm9/) 
+* Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (In press). Global literacy goals constrained by inadequate foundational decoding skills for pupils in low- and middle-income countries. *Nature Human Behaviour* [[pre-print]](https://psyarxiv.com/2qxm9/) 
 
 #### Peer-reviewed journal articles
 
