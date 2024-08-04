@@ -6,11 +6,17 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 ### Outreach contributions
 
+#### Publications
+
+* **Korochkina, M.**, & Rastle K. (2024). What makes GCSE English Literature so hard for students? *tes*, published online on 4 August 2024. [Link to the online version](https://www.tes.com/magazine/teaching-learning/secondary/what-makes-gcse-english-lit-so-hard-students)
+
 * **Korochkina, M.**, & Rastle K. (2024). What words do children encounter when they read for pleasure? *Nomanis*, [Issue 17](https://www.nomanis.com.au/blog/issue-17-june-2024) (This article originally appeared on the [Rastle Lab blog](https://www.rastlelab.com/post/what-words-do-children-encounter-when-they-read-for-pleasure)).
 
-* **Korochkina, M.**, & Rastle K. (2024). What does it take to read and understand the GCSE English Literature texts? **Talk** given at the [Working Together: Research and Practice event 2024](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/research/serns/serns-events/2024/), The South East Research Network for Schools, Egham, UK, 21 June 2024. [[slides]](/talks/korochkina_rastle_serns_2024.pdf)
+* **Korochkina, M.**, & Rastle K. (2024). What words do children encounter when they read for pleasure? Accessible [blog post](https://www.rastlelab.com/post/what-words-do-children-encounter-when-they-read-for-pleasure).
 
-* **Korochkina, M.**, & Rastle K. (2024). What words do children encounter when they read for pleasure? Accessible [blog post](https://www.rastlelab.com/post/what-words-do-children-encounter-when-they-read-for-pleasure).  
+#### Talks
+
+* **Korochkina, M.**, & Rastle K. (2024). What does it take to read and understand the GCSE English Literature texts? **Talk** given at the [Working Together: Research and Practice event 2024](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/research/serns/serns-events/2024/), The South East Research Network for Schools, Egham, UK, 21 June 2024. [[slides]](/talks/korochkina_rastle_serns_2024.pdf)
 
 ### CYP-LEX - A large-scale lexical database of books read by British children aged 7-16
 
