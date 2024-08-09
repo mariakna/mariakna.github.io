@@ -6,6 +6,10 @@ subtitle: Papers, talks, posters etc.
 
 ### Publications
 
+#### Pre-prints / articles under review
+
+* **Korochkina, M.**, & Rastle, K. (2024). The vocabulary barrier in the General Certificate of Secondary Education  (GCSE) in English Literature. [[pre-print]](https://doi.org/10.31219/osf.io/vg8c3)
+
 #### In press
 
 * Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (In press). Global literacy goals constrained by inadequate foundational decoding skills for pupils in low- and middle-income countries. *Nature Human Behaviour* [[pre-print]](https://psyarxiv.com/2qxm9/) 
