@@ -36,9 +36,9 @@ A (short) PDF version (including research output and outreach activities) is ava
 
 ### Academic and administrative service
 
-* Reviewer for [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics) 
-* Organiser, [ReproducibiliTea journal club](https://osf.io/m4hn7/), Royal Holloway, University of London
-* Postdoc representative in a successful bid for the Athena Swan silver award, Royal Holloway, University of London
+* *Peer-review:* Reviewer for [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics) 
+* *Open science:* Organiser, [ReproducibiliTea journal club](https://osf.io/m4hn7/), Royal Holloway, University of London
+* *EDI:* Postdoc representative in a successful bid for the Athena Swan silver award, Royal Holloway, University of London
 
 ### Awards and funding
 
@@ -56,35 +56,33 @@ A (short) PDF version (including research output and outreach activities) is ava
 * [The Experimental Psychology Society](https://eps.ac.uk/)
 * [Society for the Scientific Study of Reading](https://www.triplesr.org/)
 * [The European Society for Cognitive Psychology](https://www.escop.eu/)
-* [Psychonomic Society](https://www.psychonomic.org/page/about)
+* [The Psychonomic Society](https://www.psychonomic.org/page/about)
 
-### Additional training and qualifications
+### Further training and development
 
 * 2022, [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python), DataCamp [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/intro_nlp_datacamp_certificate.pdf)
 * 2022, [The 6th Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2022/), Bayesian Advanced stream, Univeristy of Potsdam
-* 2021, Badged instructor, [The Carpentries](https://carpentries.org/)
 * 2020, MOOC [Python Data Structures](https://www.coursera.org/learn/python-data), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part2.pdf)
 * 2020, MOOC [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part1.pdf)
-* 2020, Workshop [MATLAB Fundamentals](https://www.eventbrite.co.uk/e/matlab-fundamentals-at-macquarie-university-tickets-111336725142) with MathWorks, Macquarie University
+* 2020, Workshop [MATLAB Fundamentals](https://www.eventbrite.co.uk/e/matlab-fundamentals-at-macquarie-university-tickets-111336725142), MathWorks, Macquarie University
 * 2020, MOOC [Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+1T2020/home), edX (Audit)
 * 2020, MOOC [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology?#enroll), University of Chicago [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/Coursera%203FM8UYY27R4_certificate.pdf)
-* 2019, Workshop on Australasian Magnetoencephalography (WAM): Neurocognitive clinical applications of MEG: Present and future, Macquarie University
+* 2019, Workshop *Australasian Magnetoencephalography (WAM): Neurocognitive clinical applications of MEG: Present and future*, Macquarie University
 * 2019, [Introduction to Python](https://mq-software-carpentry.github.io/2019-12-03-intro-to-python/), Software Carpentry Workshop, Macquarie University
 * 2019, [The 3rd Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2019/), Bayesian Advanced stream, Univeristy of Potsdam
-* 2018, Workshop Advanced Methods: Bayesian Statistics with R, University of Potsdam
+* 2018, Workshop *Advanced Methods: Bayesian Statistics with R*, University of Potsdam
 * 2017, fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
-* 2016, Internship at the [NOLA Lab](http://www.uni-potsdam.de/nola/index.html), University of Potsdam
 * 2016, fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
-* 2016, Workshop on Standardised Tests of Cognitive and Language Development in Children (SETK 2, SETK 3-5, Bayley-III, KABC-II), University of Potsdam
+* 2016, Workshop *Standardised Tests of Cognitive and Language Development in Children (SETK 2, SETK 3-5, Bayley-III, KABC-II)*, University of Potsdam
 
 ### Experimental techniques and programming languages
 
-* Behavioural – EEG – Computational modelling – fNIRS
-* Matlab – Python – R – Stata – HTML – LaTeX
+* Behavioural – EEG – Computational modelling – fNIRS – Eye-tracking
+* MATLAB – Python – R – Stan – HTML – LaTeX – OpenSesame – Presentation Neurobehavioral Systems – Stata
 
 ### Language skills
 
-German – English – Swedish – Russian – BSL (beginner) – Icelandic (beginner) 
+German – English – Swedish – Russian – British Sign Language (beginner) – Icelandic (beginner)
 
 
 
