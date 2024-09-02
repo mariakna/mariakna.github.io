@@ -8,7 +8,7 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 #### Publications
 
-* **Korochkina, M.**, & Rastle K. (2024). What makes GCSE English Literature so hard for students? *tes*, published online on 4 August 2024. [Link to the online version](https://www.tes.com/magazine/teaching-learning/secondary/what-makes-gcse-english-lit-so-hard-students)
+* **Korochkina, M.**, & Rastle K. (2024). What makes GCSE English Literature so hard for students? *Tes*, published online on 4 August 2024. [Link to the online version](https://www.tes.com/magazine/teaching-learning/secondary/what-makes-gcse-english-lit-so-hard-students)
 
 * **Korochkina, M.**, & Rastle K. (2024). What words do children encounter when they read for pleasure? *Nomanis*, [Issue 17](https://www.nomanis.com.au/blog/issue-17-june-2024) (Originally appeared on the [Rastle Lab blog](https://www.rastlelab.com/post/what-words-do-children-encounter-when-they-read-for-pleasure), see below).
 
@@ -30,6 +30,6 @@ Within a month of its publication, our paper has attracted a lot of attention fr
 
 * Both the research article and the associated blog post viewed and downloaded more than 1,500 times
 * In the top 5% of research outputs ever tracked by [Altmetric](https://www.altmetric.com/)
-* Featured in publications aimed at, and written by, different education stakeholders, e.g., [*tes*](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner), [3Rs newsletter by Alex Quigley](https://alexquigley.substack.com/p/the-3rs-reading-writing-and-research-fbf)
+* Featured in publications aimed at, and written by, different education stakeholders, e.g., [*Tes*](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner), [3Rs newsletter by Alex Quigley](https://alexquigley.substack.com/p/the-3rs-reading-writing-and-research-fbf)
 * Data used to inform the [FFT](https://fft.org.uk/)'s reading schemes and teacher materials
 
