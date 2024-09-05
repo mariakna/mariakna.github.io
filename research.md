@@ -10,12 +10,9 @@ subtitle: Papers, talks, posters etc.
 
 * **Korochkina, M.**, & Rastle, K. (2024). The vocabulary barrier in the General Certificate of Secondary Education  (GCSE) in English Literature. [[pre-print]](https://doi.org/10.31219/osf.io/vg8c3)
 
-#### In press
-
-* Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (In press). Inadequate foundational decoding skills constrain global literacy goals for pupils in low- and middle-income countries. *Nature Human Behaviour* [[pre-print]](https://psyarxiv.com/2qxm9/) 
-
 #### Peer-reviewed journal articles
 
+* Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (In press). Inadequate foundational decoding skills constrain global literacy goals for pupils in low- and middle-income countries. *Nature Human Behaviour* [[pre-print]](https://psyarxiv.com/2qxm9/) 
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2024). What can we learn about integration of novel words into semantic memory from automatic semantic priming? *Language, Cognition, and Neuroscience*, 39(4), 455--488. [https://doi.org/10.1080/23273798.2024.2328586](https://doi.org/10.1080/23273798.2024.2328586) [[pre-registration, pre-print, data, and analysis code]](https://osf.io/ycukn/)
 * **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). The Children and Young People's Books Lexicon (CYP-LEX): A large-scale lexical database of books read by children and young people in the United Kingdom. *Quarterly Journal of Experimental Psychology*. [https://doi.org/10.1177/17470218241229694](https://doi.org/10.1177/17470218241229694) [[The CYP-LEX database, supplemetary files, and analysis code]](https://doi.org/10.17605/OSF.IO/SQU49)
 * Lombard, A., Ulicheva, A., **Korochkina, M.**, & Rastle, K. (2024). The regularity of polysemy patterns in the mind: Computational and experimental data. *GLOSSA Psycholinguistics*, 3(1): 3, 1--24. [https://doi.org/10.5070/G60111327](https://doi.org/10.5070/G60111327) [[data and analysis code]](https://osf.io/uhy75/)
