@@ -12,7 +12,7 @@ I did my PhD at Macquarie University and University of Potsdam through the [IDEA
 
 I care deeply about **open science** and healthy research culture. At Royal Holloway, I am the organiser of the [ReproducibiliTea journal club](https://reproducibilitea.org/journal-clubs/#RHUL), where we alternate between paper discussions and more hands-on "how-to" sessions on various aspects of research life. Please fill out [this short form](https://docs.google.com/forms/d/e/1FAIpQLScWUrF8_Catl-w7q70Puxkp69o-GnmSP3K1nRTjXMpISFkzBg/viewform?vc=0&c=0&w=1&flr=0) if you'd like to be added to our mailing list.
 
-I am also passionate about **making research accessible to the wider community** and strive to engage diverse voices in research to drive meaningful societal change. I am always keen to collaborate with learning and education stakeholders, so please get in touch if you are interested in a collaboraion!
+I'm passionate about **making research accessible and involving diverse voices** to drive positive change. If you're a teacher, parent, educator, or policymaker interested in collaborating, I'd love to hear from you!
   
 Outside of work, you can find me kayaking, hiking, playing guitar, or in the gym. I am also a keen reader, and I really like to knit and make pottery. 
 
