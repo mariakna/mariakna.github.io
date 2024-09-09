@@ -16,7 +16,7 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 #### Talks
 
-* **Korochkina, M.** and Rastle, K. (2024). Words in books: A challenge, a blessing, or both? **Invited talk** given at the [ResearchED National Conference](https://researched.org.uk/event/researched-national-conference-2024/), London, UK, 7 September 2024. [[slides]](/talks/ResearchED_KorochkinaRastle.pdf)
+* **Korochkina, M.** and Rastle, K. (2024). Words in books: A challenge, a blessing, or both? **Invited talk** given at the [ResearchED National Conference](https://researched.org.uk/event/researched-national-conference-2024/), London, UK, 7 September 2024. [[slides]](/talks/ResearchED2024_KorochkinaRastle.pdf)
 
 * **Korochkina, M.** (2024). What does it take to read and understand the GCSE English Literature texts? **Talk** given at the [Working Together: Research and Practice event 2024](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/research/serns/serns-events/2024/), The South East Research Network for Schools, Egham, UK, 21 June 2024. [[slides]](/talks/korochkina_rastle_serns_2024.pdf)
 
