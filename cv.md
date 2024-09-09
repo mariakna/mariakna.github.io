@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 For conference contributions and publications please see [research output](https://mariakna.github.io/research/).<br>
 For outreach contributions please see [impact and outreach](https://mariakna.github.io/impact/).<br>
-A PDF version (including research output and outreach activities) is available [here](maria_cv.pdf).
+A PDF version of my CV (including research output and outreach activities) is available [here](maria_cv.pdf).
 
 ### Education
 
@@ -44,11 +44,11 @@ A PDF version (including research output and outreach activities) is available [
 
 * 2023, [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association; read the media announcement [here](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/)
 * 2021, Funding award for an 8-week instructor training with [The Carpentries](https://carpentries.org/), Macquarie University
-* 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/my-research-program/grants-and-funding)
+* 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding), Macquarie University
 * 2019, Conference travel award, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam
 * 2019, Conference travel award, [Potsdam Graduate School](https://www.uni-potsdam.de/en/pogs/), University of Potsdam
-* 2019, Financial support for test subjects as part of the dissertation, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam
-* 2012 & 2014, Non-EU student exchange award (a one semester scholarship), Department of German Studies & Department of Linguistics, University of Vienna
+* 2019, Financial support for participant testing and recruitment, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam
+* 2012 & 2014, Non-EU student exchange awards, Department of German Studies & Department of Linguistics, University of Vienna
 
 ### Scientific societies
 
