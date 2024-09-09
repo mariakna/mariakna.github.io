@@ -27,7 +27,7 @@ subtitle: Papers, talks, posters etc.
 
 #### Talks
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). The nature of morphemic regularities in children’s literature: What do British children learn about derivational morphology when they read? **Talk** given at the 31st annual meeting of the [Society for the Scientific Study of Reading](https://www.triplesr.org/), Copenhagen, Denmark, 11-14 July 2024. [[slides]](/talks/sssr_symp_talk.pdf)
+* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). The nature of morphemic regularities in children's literature: What do British children learn about derivational morphology when they read? **Talk** given at the 31st annual meeting of the [Society for the Scientific Study of Reading](https://www.triplesr.org/), Copenhagen, Denmark, 11-14 July 2024. [[slides]](/talks/sssr_symp_talk.pdf)
 
 * **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). What can children learn about English morphology through book reading? **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), York, UK, 3-5 July 2024. [[slides]](/talks/eps_york2024.pdf)
 
