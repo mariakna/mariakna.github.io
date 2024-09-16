@@ -31,6 +31,8 @@ subtitle: Papers, talks, posters etc.
 
 * **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). What can children learn about English morphology through book reading? **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), York, UK, 3-5 July 2024. [[slides]](/talks/eps_york2024.pdf)
 
+* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). Vocabulary and morphological complexity in books popular with British children. **Talk** given at the annual meeting of the Forum for Research in Literacy and Language (FRiLL), Reading, UK, 11 December 2023. [[slides]](/talks/frill_dec23_slides.pdf) 
+
 * **Korochkina, M.**, Bürki, A., & Nickels, L. (2023). Apples and oranges: How does learning context affect novel word learning? **Talk** given at the [Contextual Diversity Workshop](https://sites.google.com/view/contextual-diversity-workshop/programme-and-information) organised by the [Experimental Psychology Society](https://eps.ac.uk/), London, UK, 21-22 September 2023. [[slides]](/talks/cd_workshop_korochkina.pdf)
 
 * **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). What do children read as they transition into and through adolescence? Insights from CYP-LEX, a new large-scale
