@@ -22,6 +22,11 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 ### Impact
 
+#### External Publications Featuring My Research
+
+* Quigley, A. (24 September, 2024). The rare vocabulary problem in English Literature. [[link to article]](https://alexquigley.co.uk/the-rare-vocabulary-problem-in-english-literature-gcse/)
+* Quigley, A. (15 April, 2024). In the battle of books vs videos, there is a clear winner for literacy. *Tes* [[link to article]](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner)
+
 #### CYP-LEX - A large-scale lexical database of books read by British children aged 7-16
 
 The CYP-LEX project is a collaboration with [Kathy Rastle](https://pure.royalholloway.ac.uk/en/persons/kathy-rastle), [Marc Brysbaert](https://research.ugent.be/web/person/marc-brysbaert-0/en), and [Marco Marelli](https://www.marcomarelli.net/). The aim of this work was to create a lexical database of words that British children aged 7-16 encounter when they read for pleasure. To this end, we built a corpus of 1,200 books popular with children and young people in the UK, and analysed the properties of words used in these books. The associated [research article](https://journals.sagepub.com/doi/10.1177/17470218241229694) came out in March 2024, and is publicly available and free to download. We also wrote an accessible [blog post](https://www.rastlelab.com/post/what-words-do-children-encounter-when-they-read-for-pleasure) explaining the key insights from our analysis.
@@ -30,6 +35,6 @@ Within a month of its publication, our paper has attracted a lot of attention fr
 
 * Both the research article and the associated blog post viewed and downloaded more than 1,500 times
 * In the top 5% of research outputs ever tracked by [Altmetric](https://www.altmetric.com/)
-* Featured in publications aimed at, and written by, different education stakeholders, e.g., [*Tes*](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner), [3Rs newsletter by Alex Quigley](https://alexquigley.substack.com/p/the-3rs-reading-writing-and-research-fbf)
+* Featured in publications aimed at, and written by, different education stakeholders, e.g., *Tes*, 3Rs newsletter by [Alex Quigley](https://alexquigley.co.uk/)
 * Data used to inform the [FFT](https://fft.org.uk/)'s reading schemes and teacher materials
 
