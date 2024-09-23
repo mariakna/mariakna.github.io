@@ -24,8 +24,8 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 #### External Publications Featuring My Research
 
-* Quigley, A. (24 September, 2024). The rare vocabulary problem in English Literature. [[link to article]](https://alexquigley.co.uk/the-rare-vocabulary-problem-in-english-literature-gcse/)
-* Quigley, A. (15 April, 2024). In the battle of books vs videos, there is a clear winner for literacy. *Tes* [[link to article]](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner)
+* Quigley, A. (24 September 2024). The rare vocabulary problem in English Literature. [[link to article]](https://alexquigley.co.uk/the-rare-vocabulary-problem-in-english-literature-gcse/)
+* Quigley, A. (15 April 2024). In the battle of books vs videos, there is a clear winner for literacy. *Tes* [[link to article]](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner)
 
 #### CYP-LEX - A large-scale lexical database of books read by British children aged 7-16
 
