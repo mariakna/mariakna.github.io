@@ -44,6 +44,8 @@ Society for Cognitive Psychology](https://escop2023.org/), Porto, Portugal, 6-9 
 
 * **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). The Children and Young People’s Books Lexicon (CYP-LEX): How does book language change as children transition into and through adolescence? **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), Swansea, UK, 12-14 July 2023. [[slides]](/talks/slides_eps_july2023.pdf)
 
+* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). A novel large-scale lexical database of books for children and young people. **Talk** given at a departmental meeting, Royal Holloway, University of London, UK, 31 May 2023. [[slides]](/talks/salon_talk23.pdf)
+
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2023). Behavioural and electrophysiological markers of integration in novel word learning. **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), London, UK, 4-6 January 2023. [[slides]](/talks/EPS23_talk.pdf)
 
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2021). Behavioural and electrophysiological markers of integration in novel word learning. **Talk** given at the annual meeting of the [Society for the Neurobiology of Language](https://2021.neurolang.org/), online attendance, 5-8 October 2021. [[slides for the Slide Slam Session]](/posters/SNL2021_E4_Korochkina.pdf) [[supporting documentation]](/posters/SNL2021_E4_KorochkinaNickelsB%C3%BCrki_supporting_documentation.pdf)
