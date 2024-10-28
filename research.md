@@ -6,9 +6,10 @@ subtitle: Papers, talks, posters etc.
 
 ### Publications
 
-#### Pre-prints / articles under review
+#### Under review
 
-* **Korochkina, M.**, & Rastle, K. (2024). The vocabulary barrier in the General Certificate of Secondary Education  (GCSE) in English Literature. [[pre-print]](https://doi.org/10.31219/osf.io/vg8c3)
+* **Korochkina, M.**, & Rastle, K. (2024). Morphology in children's books: What's there and what's useful for learning? [[pre-print]](https://osf.io/preprints/osf/63pb4?view_only=)
+* **Korochkina, M.**, & Rastle, K. (2024). The vocabulary barrier in the General Certificate of Secondary Education (GCSE) in English Literature. [[pre-print]](https://doi.org/10.31219/osf.io/vg8c3)
 
 #### Peer-reviewed journal articles
 
@@ -27,41 +28,43 @@ subtitle: Papers, talks, posters etc.
 
 #### Talks
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). The nature of morphemic regularities in children's literature: What do British children learn about derivational morphology when they read? **Talk** given at the 31st annual meeting of the [Society for the Scientific Study of Reading](https://www.triplesr.org/), Copenhagen, Denmark, 11-14 July 2024. [[slides]](/talks/sssr_symp_talk.pdf)
+* What do children learn from books, and how to talk to teachers about it. **Talk** given at a departmental meeting, Royal Holloway, University of London, UK, 23 October 2024. [[slides]](/talks/PsychSalon231024.pdf)
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). What can children learn about English morphology through book reading? **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), York, UK, 3-5 July 2024. [[slides]](/talks/eps_york2024.pdf)
+* The nature of morphemic regularities in children's literature: What do British children learn about derivational morphology when they read? **Talk** given at the 31st annual meeting of the [Society for the Scientific Study of Reading](https://www.triplesr.org/), Copenhagen, Denmark, 11-14 July 2024. [[slides]](/talks/sssr_symp_talk.pdf)
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). Vocabulary and morphological complexity in books popular with British children. **Talk** given at the annual meeting of the Forum for Research in Literacy and Language (FRiLL), Reading, UK, 11 December 2023. [[slides]](/talks/frill_dec23_slides.pdf) 
+* What can children learn about English morphology through book reading? **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), York, UK, 3-5 July 2024. [[slides]](/talks/eps_york2024.pdf)
 
-* **Korochkina, M.**, Bürki, A., & Nickels, L. (2023). Apples and oranges: How does learning context affect novel word learning? **Talk** given at the [Contextual Diversity Workshop](https://sites.google.com/view/contextual-diversity-workshop/programme-and-information) organised by the [Experimental Psychology Society](https://eps.ac.uk/), London, UK, 21-22 September 2023. [[slides]](/talks/cd_workshop_korochkina.pdf)
+* Vocabulary and morphological complexity in books popular with British children. **Talk** given at the annual meeting of the Forum for Research in Literacy and Language (FRiLL), Reading, UK, 11 December 2023. [[slides]](/talks/frill_dec23_slides.pdf) 
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). What do children read as they transition into and through adolescence? Insights from CYP-LEX, a new large-scale
+* Apples and oranges: How does learning context affect novel word learning? **Talk** given at the [Contextual Diversity Workshop](https://sites.google.com/view/contextual-diversity-workshop/programme-and-information) organised by the [Experimental Psychology Society](https://eps.ac.uk/), London, UK, 21-22 September 2023. [[slides]](/talks/cd_workshop_korochkina.pdf)
+
+* What do children read as they transition into and through adolescence? Insights from CYP-LEX, a new large-scale
 lexicon of books for children and young people. **Talk** given at the [annual meeting of the Cognitive and Developmental sections of the British Psychological Society (BPS)](https://cogdev2023.org.uk/), Bristol, UK, 12-14 September 2023. [[slides]](/talks/bps2023_slides.pdf)
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). The Children and Young People's Books Lexicon
+* The Children and Young People's Books Lexicon
 (CYP-LEX): A lexical database of books directed at children and young adults. **Talk** given at the 23rd meeting of the [European
 Society for Cognitive Psychology](https://escop2023.org/), Porto, Portugal, 6-9 September 2023. [[slides]](/talks/Korochkina_et_al_ESCoP2023.pdf)
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). The Children and Young People’s Books Lexicon (CYP-LEX): How does book language change as children transition into and through adolescence? **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), Swansea, UK, 12-14 July 2023. [[slides]](/talks/slides_eps_july2023.pdf)
+* The Children and Young People’s Books Lexicon (CYP-LEX): How does book language change as children transition into and through adolescence? **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), Swansea, UK, 12-14 July 2023. [[slides]](/talks/slides_eps_july2023.pdf)
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2023). A novel large-scale lexical database of books for children and young people. **Talk** given at a departmental meeting, Royal Holloway, University of London, UK, 31 May 2023. [[slides]](/talks/salon_talk23.pdf)
+* A novel large-scale lexical database of books for children and young people. **Talk** given at a departmental meeting, Royal Holloway, University of London, UK, 31 May 2023. [[slides]](/talks/salon_talk23.pdf)
 
-* **Korochkina, M.**, Nickels, L., & Bürki, A. (2023). Behavioural and electrophysiological markers of integration in novel word learning. **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), London, UK, 4-6 January 2023. [[slides]](/talks/EPS23_talk.pdf)
+* Behavioural and electrophysiological markers of integration in novel word learning. **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), London, UK, 4-6 January 2023. [[slides]](/talks/EPS23_talk.pdf)
 
-* **Korochkina, M.**, Nickels, L., & Bürki, A. (2021). Behavioural and electrophysiological markers of integration in novel word learning. **Talk** given at the annual meeting of the [Society for the Neurobiology of Language](https://2021.neurolang.org/), online attendance, 5-8 October 2021. [[slides for the Slide Slam Session]](/posters/SNL2021_E4_Korochkina.pdf) [[supporting documentation]](/posters/SNL2021_E4_KorochkinaNickelsB%C3%BCrki_supporting_documentation.pdf)
+* Behavioural and electrophysiological markers of integration in novel word learning. **Talk** given at the annual meeting of the [Society for the Neurobiology of Language](https://2021.neurolang.org/), online attendance, 5-8 October 2021. [[slides for the Slide Slam Session]](/posters/SNL2021_E4_Korochkina.pdf) [[supporting documentation]](/posters/SNL2021_E4_KorochkinaNickelsB%C3%BCrki_supporting_documentation.pdf)
 
-* **Korochkina, M.**, Nickels, L., & Bürki, A. (2020). A behavioural and electrophysiological investigation of novel word learning. **Talk** given at the [Words in the World](http://wordsintheworld.ca/wow-conference-2020/), online attendance, 16-18 October 2020. [[slides]](/talks/wow2020_talk22_korochkina_nickels_buerki.pdf) 
+* A behavioural and electrophysiological investigation of novel word learning. **Talk** given at the [Words in the World](http://wordsintheworld.ca/wow-conference-2020/), online attendance, 16-18 October 2020. [[slides]](/talks/wow2020_talk22_korochkina_nickels_buerki.pdf) 
 
 #### Posters
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). Learning in the wild: What can children learn about morphemic statistical regularities through reading? **Poster** to be presented at the [65th annual meeting of the Psychonomic Society](https://www.psychonomic.org/page/2024annualmeeting), New York City, USA.
+* Learning in the wild: What can children learn about morphemic statistical regularities through reading? **Poster** to be presented at the [65th annual meeting of the Psychonomic Society](https://www.psychonomic.org/page/2024annualmeeting), New York City, USA.
 
-* **Korochkina, M.**, Sowman, P.F., Nickels, L., & Bürki, A. (2022). Neural correlates of encoding in learning of novel names for novel concepts. **Poster** presented at the [Architectures & Mechanisms for Language Processing](https://amlap2022.york.ac.uk/) conference, York, United Kingdom, 7-9 September 2022. [[poster]](/posters/korochkina_et_al_amlap2022_poster.pdf)
+* Neural correlates of encoding in learning of novel names for novel concepts. **Poster** presented at the [Architectures & Mechanisms for Language Processing](https://amlap2022.york.ac.uk/) conference, York, United Kingdom, 7-9 September 2022. [[poster]](/posters/korochkina_et_al_amlap2022_poster.pdf)
 
-* **Korochkina, M.**, Nickels, L., & Bürki, A. (2020). Behavioural and electrophysiological markers of integration in novel word learning. **Poster** presented at the [61st annual meeting of the Psychonomic Society](https://www.psychonomic.org/general/custom.asp?page=2020annualmeeting), online attendance, 19-22 November 2020. [[slides]](/posters/Psynom20_Korochkina_Nickels_Buerki_ID_2235.pdf)
+* Behavioural and electrophysiological markers of integration in novel word learning. **Poster** presented at the [61st annual meeting of the Psychonomic Society](https://www.psychonomic.org/general/custom.asp?page=2020annualmeeting), online attendance, 19-22 November 2020. [[slides]](/posters/Psynom20_Korochkina_Nickels_Buerki_ID_2235.pdf)
 
-* **Korochkina, M.**, Bürki, A., & Nickels, L. (2019). Semantic integration of new vocabulary: Does learning context matter? **Poster** presented at the 21st meeting of the [European Society for Cognitive Psychology](https://escop2019.webs.ull.es/), Tenerife, Spain, 25-28 September 2019. [[poster]](/posters/poster_escop2019_mkorochkina.pdf) 
+* Semantic integration of new vocabulary: Does learning context matter? **Poster** presented at the 21st meeting of the [European Society for Cognitive Psychology](https://escop2019.webs.ull.es/), Tenerife, Spain, 25-28 September 2019. [[poster]](/posters/poster_escop2019_mkorochkina.pdf) 
 
-* **Korochkina, M.**, Bürki, A., & Nickels, L. (2019). The effect of the learning context on novel word learning. **Poster** presented at the [Architectures & Mechanisms for Language Processing](https://neuro.hse.ru/amlap2019/), Moscow, Russia, 6-8 September 2019. [[poster]](/posters/poster_amlap2019_mkorochkina.pdf)
+* The effect of the learning context on novel word learning. **Poster** presented at the [Architectures & Mechanisms for Language Processing](https://neuro.hse.ru/amlap2019/), Moscow, Russia, 6-8 September 2019. [[poster]](/posters/poster_amlap2019_mkorochkina.pdf)
 
 
