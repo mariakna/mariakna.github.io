@@ -28,7 +28,7 @@ subtitle: Papers, talks, posters etc.
 
 #### Talks
 
-* What do children learn from books, and how to talk to teachers about it. **Talk** given at a departmental meeting, Royal Holloway, University of London, UK, 23 October 2024. [[slides]](/talks/PsychSalon231024.pdf)
+* What do children learn from books, and how to talk to teachers about it. **Talk** given at a departmental meeting, Royal Holloway, University of London, UK, 23 October 2024. [[slides]](/talks/PsychSalon231024 .pdf)
 
 * The nature of morphemic regularities in children's literature: What do British children learn about derivational morphology when they read? **Talk** given at the 31st annual meeting of the [Society for the Scientific Study of Reading](https://www.triplesr.org/), Copenhagen, Denmark, 11-14 July 2024. [[slides]](/talks/sssr_symp_talk.pdf)
 
