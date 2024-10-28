@@ -33,7 +33,7 @@ The CYP-LEX project is a collaboration with [Kathy Rastle](https://pure.royalhol
 
 Within a month of its publication, our paper has attracted a lot of attention from teachers, teacher educators, and literacy charities (see below). It has been highlighted that the "implications [of this research] can be profound for the choices we make to help pupils learn language".
 
-* Both the research article and the associated blog post viewed and downloaded more than 1,500 times
+* Both the research article and the associated blog post viewed and downloaded more than 1,900 & 1,600 times, respectively
 * In the top 5% of research outputs ever tracked by [Altmetric](https://www.altmetric.com/)
 * Featured in publications aimed at, and written by, different education stakeholders, e.g., *Tes*, 3Rs newsletter by [Alex Quigley](https://alexquigley.co.uk/)
 * Data used to inform the [FFT](https://fft.org.uk/)'s reading schemes and teacher materials
