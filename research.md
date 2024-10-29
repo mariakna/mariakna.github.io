@@ -8,7 +8,7 @@ subtitle: Papers, talks, posters etc.
 
 #### Under review
 
-* **Korochkina, M.**, & Rastle, K. (2024). Morphology in children's books: What's there and what's useful for learning? [[pre-print]](https://osf.io/preprints/osf/63pb4?view_only=)
+* **Korochkina, M.**, & Rastle, K. (2024). Morphology in children's books: What's there and what's useful for learning? [[pre-print]](https://doi.org/10.31219/osf.io/63pb4)
 * **Korochkina, M.**, & Rastle, K. (2024). The vocabulary barrier in the General Certificate of Secondary Education (GCSE) in English Literature. [[pre-print]](https://doi.org/10.31219/osf.io/vg8c3)
 
 #### Peer-reviewed journal articles
