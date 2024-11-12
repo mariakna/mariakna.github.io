@@ -22,11 +22,11 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 ### Collaborations with industry
 
-[A paper](https://doi.org/10.1038/s41562-024-02028-x) published in *Nature Human Behaviour*, in collaboration with The World Bank, reveals that students in low- and middle-income countries are failing to acquire the most basic skills necessary for reading comprehension. The findings highlight that evidence-based phonics instruction is needed to support global literacy goals.
+In a [paper](https://doi.org/10.1038/s41562-024-02028-x) published in *Nature Human Behaviour*, in collaboration with The World Bank, we show that students in low- and middle-income countries are failing to acquire the most basic skills necessary for reading comprehension. Our findings highlight that evidence-based phonics instruction is needed to support global literacy goals.
 
 ### External publications featuring my research
 
-* Teaching methods must change to address globally poor reading skills, experts say. *Phys.org* (11 November 2024) [[link]](https://phys.org/news/2024-11-methods-globally-poor-skills-experts.html), [[link to original media announcement]](https://www.royalholloway.ac.uk/about-us/news/teaching-methods-must-change-to-address-globally-poor-reading-skills-experts-say/)
+* Teaching methods must change to address globally poor reading skills, experts say. *Phys.org* (11 November 2024) [[link]](https://phys.org/news/2024-11-methods-globally-poor-skills-experts.html)
 * Quigley, A. (24 September 2024). The rare vocabulary problem in English Literature. [[link to article]](https://alexquigley.co.uk/the-rare-vocabulary-problem-in-english-literature-gcse/)
 * Quigley, A. (15 April 2024). In the battle of books vs videos, there is a clear winner for literacy. *Tes* [[link to article]](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner)
 
