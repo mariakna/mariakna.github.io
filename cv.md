@@ -10,7 +10,6 @@ A PDF version of my CV (including research output and outreach activities) is av
 ### Education
 
 * 2018 – 2022, PhD in Cognitive Science, joint degree from Macquarie University (Australia) and Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Trento (Italy), [IDEALAB PhD programme](https://phd-idealab.com/)
-* 2021, Badged Instructor, [The Carpentries](https://carpentries.org/)
 * 2015 – 2018, MSc in Experimental & Clinical Linguistics, University of Potsdam, [IECL](https://www.uni-potsdam.de/en/iecl/index) programme
 * 2010 – 2015, BA & MA in Philology, Lomonosov Moscow State University, Russia
 
@@ -22,8 +21,7 @@ A PDF version of my CV (including research output and outreach activities) is av
 
 ### Teaching & educating
 
-* 10 July 2024, Invited Speaker, *Pre-registraion & Open Materials: The What, Why, and How*, "Opening Up Open Science: Nuts and Bolts for Beginners" workshop, 31st annual meeting of the Society for the Scientific Study of Reading
-* 10 June 2024, Invited Speaker, *ReproducibiliTea journal club: Fostering open science and reproducible research*, Festival of Research, Royal Holloway, University of London
+* 10 July 2024, Instructor, *Pre-registraion & Open Materials: The What, Why, and How*, "Opening Up Open Science: Nuts and Bolts for Beginners" workshop, 31st annual meeting of the Society for the Scientific Study of Reading
 * 27 March 2023, Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
 * 7 Nov 2022 – ongoing, Instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
 * Academic Tutor, Macquarie University
@@ -60,8 +58,13 @@ A PDF version of my CV (including research output and outreach activities) is av
 
 ### Further training and development
 
+* 2024, Workshop *Storytelling with Impact: Visual storytelling*, [Nifty Fox Creative](https://www.niftyfoxcreative.com/)
+* 2024, Workshop *Storytelling with Impact: Unleash the power of narrative*, [Duncan Yellowlees Training](https://www.duncanyellowlees.com/)
+* 2024, Workshop *Storytelling to Success: Developing your Narrative CV*, Researcher Development and Culture, University of Leeds
+* 2023, Workshop *Effective Grant Writing*, Royal Holloway, University of London
 * 2022, [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python), DataCamp [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/intro_nlp_datacamp_certificate.pdf)
 * 2022, [The 6th Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2022/), Bayesian Advanced stream, Univeristy of Potsdam
+* 2021, *Badged Instructor* training, [The Carpentries](https://carpentries.org/)
 * 2020, MOOC [Python Data Structures](https://www.coursera.org/learn/python-data), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part2.pdf)
 * 2020, MOOC [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part1.pdf)
 * 2020, Workshop [MATLAB Fundamentals](https://www.eventbrite.co.uk/e/matlab-fundamentals-at-macquarie-university-tickets-111336725142), MathWorks, Macquarie University
@@ -77,7 +80,7 @@ A PDF version of my CV (including research output and outreach activities) is av
 
 ### Experimental techniques and programming languages
 
-* Behavioural – EEG – Computational modelling – fNIRS – Eye-tracking
+* Behavioural – EEG – Computational modelling – Eye-tracking – fNIRS
 * MATLAB – Python – R – Stan – HTML – LaTeX – OpenSesame – Presentation Neurobehavioral Systems – Stata
 
 ### Language skills
