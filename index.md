@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maria Korochkina
-subtitle: Cognitive neuroscientist studying language & memory
+subtitle: Cognitive neuroscientist studying language & learning
 ---
 
 I am interested in how we learn and forget, and I study these processes using language as a model system. My research focuses on how learning is shaped by the context in which we encounter new information, our existing knowledge, and the characteristics of the material we’re trying to learn. I’m particularly curious about how these mechanisms evolve as we age.
