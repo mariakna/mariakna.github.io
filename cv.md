@@ -53,7 +53,7 @@ A PDF version of my CV (including research output and outreach activities) is av
 * Behavioural – EEG – Computational modelling – Eye-tracking – fNIRS
 * MATLAB – Python – R – Stan – HTML – LaTeX – OpenSesame – Presentation Neurobehavioral Systems – Stata
 
-* ### Scientific societies
+### Scientific societies
 
 * [The British Neuroscience Association](https://www.bna.org.uk/)
 * [The Experimental Psychology Society](https://eps.ac.uk/)
