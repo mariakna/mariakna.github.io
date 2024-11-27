@@ -48,7 +48,12 @@ A PDF version of my CV (including research output and outreach activities) is av
 * 2019, Financial support for participant testing and recruitment, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam
 * 2012 & 2014, Non-EU student exchange awards, Department of German Studies & Department of Linguistics, University of Vienna
 
-### Scientific societies
+### Experimental techniques and programming languages
+
+* Behavioural – EEG – Computational modelling – Eye-tracking – fNIRS
+* MATLAB – Python – R – Stan – HTML – LaTeX – OpenSesame – Presentation Neurobehavioral Systems – Stata
+
+* ### Scientific societies
 
 * [The British Neuroscience Association](https://www.bna.org.uk/)
 * [The Experimental Psychology Society](https://eps.ac.uk/)
@@ -78,16 +83,9 @@ A PDF version of my CV (including research output and outreach activities) is av
 * 2016, fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
 * 2016, Workshop *Standardised Tests of Cognitive and Language Development in Children (SETK 2, SETK 3-5, Bayley-III, KABC-II)*, University of Potsdam
 
-### Experimental techniques and programming languages
-
-* Behavioural – EEG – Computational modelling – Eye-tracking – fNIRS
-* MATLAB – Python – R – Stan – HTML – LaTeX – OpenSesame – Presentation Neurobehavioral Systems – Stata
-
 ### Language skills
 
 German – English – Swedish – Russian – British Sign Language (beginner) – Icelandic (beginner)
-
-
 
 
 
