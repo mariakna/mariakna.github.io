@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 For conference contributions and publications please see [research output](https://mariakna.github.io/research/).<br>
 For outreach contributions please see [impact and outreach](https://mariakna.github.io/impact/).<br>
-A PDF version of my CV (including research output and outreach activities) is available [here](maria_cv.pdf).
+A PDF version (including research output and outreach activities) is available [here](maria_cv.pdf).
 
 ### Education
 
