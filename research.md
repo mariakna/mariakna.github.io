@@ -57,7 +57,7 @@ Society for Cognitive Psychology](https://escop2023.org/), Porto, Portugal, 6-9 
 
 #### Posters
 
-* Learning in the wild: What can children learn about morphemic statistical regularities through reading? **Poster** to be presented at the [65th annual meeting of the Psychonomic Society](https://www.psychonomic.org/page/2024annualmeeting), New York City, USA.
+* Learning in the wild: What can children learn about morphemic statistical regularities through reading? **Poster** presented at the [65th annual meeting of the Psychonomic Society](https://www.psychonomic.org/page/2024annualmeeting), New York City, USA.
 
 * Neural correlates of encoding in learning of novel names for novel concepts. **Poster** presented at the [Architectures & Mechanisms for Language Processing](https://amlap2022.york.ac.uk/) conference, York, United Kingdom, 7-9 September 2022. [[poster]](/posters/korochkina_et_al_amlap2022_poster.pdf)
 
