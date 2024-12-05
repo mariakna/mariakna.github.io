@@ -62,6 +62,7 @@ A PDF version (including research output and outreach activities) is available [
 
 ### Further training and development
 
+* 2024, Workshop *Introduction to Research Impact*, [Social Science Impact Accelerator](https://www.royalholloway.ac.uk/research-and-teaching/industry/working-with-us/social-science-impact-accelerator/), Royal Holloway, University of London
 * 2024, Workshop *Storytelling with Impact: Visual storytelling*, [Nifty Fox Creative](https://www.niftyfoxcreative.com/)
 * 2024, Workshop *Storytelling with Impact: Unleash the power of narrative*, [Duncan Yellowlees Training](https://www.duncanyellowlees.com/)
 * 2024, Workshop *Storytelling to Success: Developing your Narrative CV*, Researcher Development and Culture, University of Leeds
