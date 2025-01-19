@@ -10,9 +10,7 @@ Presently, I am a postdoctoral research fellow in the [Rastle lab](https://www.r
 
 I did my PhD at Macquarie University and University of Potsdam through the [IDEALAB](https://phd-idealab.com/) PhD programme. This work examined neural and behavioural underpinnings of encoding and consolidation in learning of novel words in one's first and later acquired languages. I was supervised by [Audrey Bürki](https://audreyburki.github.io/Website/), [Lyndsey Nickels](https://researchers.mq.edu.au/en/persons/lyndsey-nickels), and [Paul Sowman](https://researchers.mq.edu.au/en/persons/paul-sowman). 
 
-I have a strong interest in **applied statistics** and care deeply about **open science** and healthy research culture. At Royal Holloway, I am the organiser of the [ReproducibiliTea journal club](https://reproducibilitea.org/journal-clubs/#RHUL), where we alternate between paper discussions and more hands-on "how-to" sessions on various aspects of research life. Please fill out [this short form](https://docs.google.com/forms/d/e/1FAIpQLScWUrF8_Catl-w7q70Puxkp69o-GnmSP3K1nRTjXMpISFkzBg/viewform?vc=0&c=0&w=1&flr=0) if you'd like to be added to our mailing list.
-
-I'm passionate about **making research accessible and involving diverse voices** to drive positive change. If you're an educator, parent, or policymaker interested in collaborating, I'd love to hear from you!
+I have a strong interest in **applied statistics** and care deeply about **open science** and healthy research culture. I am also passionate about **making research accessible** and **involving diverse voices into research** to drive positive change. If you're an educator, parent, or policymaker interested in collaborating, I'd love to hear from you!
   
 Outside of work, you can find me kayaking, hiking, playing guitar, or in the gym. I am also a keen reader, and I really like to knit and make pottery. 
 
