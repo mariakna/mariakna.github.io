@@ -21,6 +21,7 @@ A PDF version (including research output and outreach activities) is available [
 
 ### Teaching & educating
 
+* Oct 2024 – ongoing, Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/)
 * 10 July 2024, Instructor, *Pre-registraion & Open Materials: The What, Why, and How*, "Opening Up Open Science: Nuts and Bolts for Beginners" workshop, 31st annual meeting of the Society for the Scientific Study of Reading
 * 27 March 2023, Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
 * 7 Nov 2022 – ongoing, Instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
