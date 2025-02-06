@@ -22,7 +22,7 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 ### Collaborations with industry
 
-In a [recent collaboration with The World Bank](https://doi.org/10.1038/s41562-024-02028-x), we show that students in low- and middle-income countries are failing to acquire the most basic skills necessary for reading comprehension. Our findings highlight that evidence-based phonics instruction is needed to support global literacy goals.
+In a [recent collaboration with The World Bank](https://doi.org/10.1038/s41562-024-02028-x), we show that students in low- and middle-income countries are failing to acquire the most basic skills necessary for reading comprehension. Our findings highlight that evidence-based phonics instruction is needed to support global literacy goals. A short blog post summarising this work is available [here](https://communities.springernature.com/posts/the-science-of-reading-can-help-to-turn-around-the-reading-crisis-in-low-and-middle-income-countries) and [here](https://blogs.worldbank.org/en/education/The-science-of-reading-can-help-to-turn-around-reading-crisis). 
 
 ### External publications featuring my research
 
