@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maria Korochkina
-subtitle: Researching learning of and through language
+subtitle: Researching how we learn and use language across the lifespan
 ---
 
 I am a researcher interested in how we acquire knowledge of language and use language to facilitate learning and knowledge acquisition in other domains and across the lifespan. I study these questions using tools from cognitive science and neuroscience.
