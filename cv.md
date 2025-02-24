@@ -35,7 +35,7 @@ A short PDF version (including research output and outreach activities) is avail
 
 ### Awards and funding
 
-* 2023, [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association; read the media announcement [here](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/) (includes a GBP 500 cash prize)
+* 2023, [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association; read the media announcement [here](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/) (includes GBP 500 cash)
 * 2021, Funding award for an 8-week instructor training with [The Carpentries](https://carpentries.org/), Macquarie University (USD 1,500)
 * 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding), Macquarie University (AUD 5,000)
 * 2019, Conference travel award, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 1,000)
