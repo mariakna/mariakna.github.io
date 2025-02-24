@@ -35,13 +35,14 @@ A short PDF version (including research output and outreach activities) is avail
 
 ### Awards and funding
 
-* 2023, [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association; read the media announcement [here](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/)
-* 2021, Funding award for an 8-week instructor training with [The Carpentries](https://carpentries.org/), Macquarie University
-* 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding), Macquarie University
-* 2019, Conference travel award, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam
-* 2019, Conference travel award, [Potsdam Graduate School](https://www.uni-potsdam.de/en/pogs/), University of Potsdam
-* 2019, Financial support for participant testing and recruitment, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam
-* 2012 & 2014, Non-EU student exchange awards, Department of German Studies & Department of Linguistics, University of Vienna
+* 2023, [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association; read the media announcement [here](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/) (includes a GBP 500 cash prize)
+* 2021, Funding award for an 8-week instructor training with [The Carpentries](https://carpentries.org/), Macquarie University (USD 1,500)
+* 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding), Macquarie University (AUD 5,000)
+* 2019, Conference travel award, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 1,000)
+* 2019, Conference travel award, [Potsdam Graduate School](https://www.uni-potsdam.de/en/pogs/), University of Potsdam (EUR 500)
+* 2019, Financial support for participant testing and recruitment, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 500)
+* 2018 – 2022, IDEALAB PhD Fellowship, a highly competitive fellowship providing full tuition, stipend, & international travel costs (University of Potsdam & Macquarie University)
+* 2012 & 2014, Non-EU student exchange awards, Department of German Studies & Department of Linguistics, University of Vienna (EUR 5,000)
 
 ### Experimental techniques and programming languages
 
