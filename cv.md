@@ -13,13 +13,13 @@ A short PDF version (including research output and outreach activities) is avail
 * 2015 – 2018, MSc in Experimental & Clinical Linguistics, University of Potsdam, [IECL](https://www.uni-potsdam.de/en/iecl/index) programme
 * 2010 – 2015, BA & MA in Philology, Lomonosov Moscow State University, Russia
 
-### Academic employment
+### Academic appointments
 
 * June 2022 – ongoing, Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway, University of London
 * Feb 2020 – June 2022, Academic Tutor, Macquarie University
 * July 2016 – Aug 2018, Research Assistant, [NOLA Lab](http://www.uni-potsdam.de/nola/index.html) & [VasishthLab](https://vasishth.github.io/), University of Potsdam
 
-### Teaching & educating
+### Teaching & mentoring
 
 * Oct 2024 – ongoing, Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/)
 * 10 July 2024, Instructor, *Pre-registraion & Open Materials: The What, Why, and How*, "Opening Up Open Science: Nuts and Bolts for Beginners" workshop, 31st annual meeting of the Society for the Scientific Study of Reading
