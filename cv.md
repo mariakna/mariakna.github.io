@@ -41,7 +41,7 @@ A short PDF version (including research output and outreach activities) is avail
 * 2019, Conference travel award, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 1,000)
 * 2019, Conference travel award, [Potsdam Graduate School](https://www.uni-potsdam.de/en/pogs/), University of Potsdam (EUR 500)
 * 2019, Financial support for participant testing and recruitment, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 500)
-* 2018 – 2022, IDEALAB PhD Fellowship, a highly competitive fellowship providing full tuition, stipend, & international travel costs (University of Potsdam & Macquarie University)
+* 2018 – 2022, [IDEALAB](https://phd-idealab.com/) PhD Fellowship, a highly competitive fellowship providing full tuition, stipend, and international travel costs
 * 2012 & 2014, Non-EU student exchange awards, Department of German Studies & Department of Linguistics, University of Vienna (EUR 5,000)
 
 ### Experimental techniques and programming languages
