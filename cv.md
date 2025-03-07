@@ -20,10 +20,8 @@ A short PDF version (including research output and outreach activities) is avail
 * Feb 2020 – June 2022, Academic Tutor, Macquarie University
 * July 2016 – Aug 2018, Research Assistant, [NOLA Lab](http://www.uni-potsdam.de/nola/index.html) & [VasishthLab](https://vasishth.github.io/), University of Potsdam
 
-### Teaching & mentoring
+### Teaching & educating
 
-* Oct 2024 – ongoing, Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/)
-* 10 July 2024, Instructor, *Pre-registraion & Open Materials: The What, Why, and How*, "Opening Up Open Science: Nuts and Bolts for Beginners" workshop, 31st annual meeting of the Society for the Scientific Study of Reading
 * 27 March 2023, Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
 * 7 Nov 2022 – ongoing, Instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
 * Academic Tutor, Macquarie University
@@ -60,9 +58,15 @@ A short PDF version (including research output and outreach activities) is avail
 
 ### Academic service
 
-* *Peer-review:* Reviewer for [Psychological Science](https://journals.sagepub.com/home/pss), [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Instructional Science](https://link.springer.com/journal/11251), [Journal of Research in Reading](https://onlinelibrary.wiley.com/journal/14679817), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics)
-* *Reviewer* for the [2024 Architectures and Mechanisms for Language Processing (AMLaP) conference](https://amlap2024.ed.ac.uk/), Edinburgh, Scotland
-* *Open science:* Organiser & instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
+* *Peer-review*
+  * Reviewer for [Psychological Science](https://journals.sagepub.com/home/pss), [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Instructional Science](https://link.springer.com/journal/11251), [Journal of Research in Reading](https://onlinelibrary.wiley.com/journal/14679817), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics)
+  * *Conference abstract reviewer* for the [2024 Architectures and Mechanisms for Language Processing (AMLaP) conference](https://amlap2024.ed.ac.uk/), Edinburgh, Scotland
+* *Open science*
+  * Organiser & instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
+  * Instructor, *Pre-registraion & Open Materials: The What, Why, and How*, "Opening Up Open Science: Nuts and Bolts for Beginners" workshop, 31st annual meeting of the Society for the Scientific Study of Reading, Denmark, 10 July 2024
+* *Equality, diversity, and inclusion*
+  * Postdoc rep in a successful bid for the Athena Swan Silver Award, Royal Holloway, University of London
+  *  Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/) 
 
 ### Further training and development
 
