@@ -8,6 +8,8 @@ subtitle: Papers, talks, posters etc.
 
 #### Under review
 
+* **Korochkina, M.**, Cooper, H., Brysbaert, M., & Rastle, K. (2025). Morpheme knowledge is shaped by information available through orthography. Pre-print is available [here](https://doi.org/10.31219/osf.io/ad3jh_v1).
+
 * **Korochkina, M.**, & Rastle, K. (2024). Morphology in children's books: What's there and what's useful for learning? Pre-print is available [here](https://doi.org/10.31219/osf.io/63pb4).
 
 #### Peer-reviewed journal articles
