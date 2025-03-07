@@ -9,9 +9,10 @@ A short PDF version (including research output and outreach activities) is avail
 
 ### Education
 
-* 2018 – 2022, PhD in Cognitive Science, joint degree from Macquarie University (Australia) and Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Trento (Italy), [IDEALAB PhD programme](https://phd-idealab.com/)
-* 2015 – 2018, MSc in Experimental & Clinical Linguistics, University of Potsdam, [IECL](https://www.uni-potsdam.de/en/iecl/index) programme
-* 2010 – 2015, BA & MA in Philology, Lomonosov Moscow State University, Russia
+* 2022, PhD in Cognitive Science, joint degree from Macquarie University (Australia) and Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Trento (Italy), [IDEALAB PhD programme](https://phd-idealab.com/)
+* 2018, MSc in Experimental & Clinical Linguistics, University of Potsdam, [IECL](https://www.uni-potsdam.de/en/iecl/index) programme
+* 2015, BA & MA in Philology, Lomonosov Moscow State University, Russia
+   * 2012 & 2014, Non-EU student exchange, University of Vienna, Austria
 
 ### Academic appointments
 
