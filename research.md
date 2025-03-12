@@ -14,7 +14,7 @@ subtitle: Papers, talks, posters etc.
 
 #### Peer-reviewed journal articles
 
-* **Korochkina, M.**, & Rastle, K. (In press). The vocabulary barrier in the General Certificate of Secondary Education (GCSE) in English Literature. *The Use of English*. Pre-print is available [here](https://doi.org/10.31219/osf.io/vg8c3).
+* **Korochkina, M.**, & Rastle, K. (2025). The vocabulary barrier in the General Certificate of Secondary Education (GCSE) in English Literature. *The Use of English*, 76(2), 12--26. [https://englishassociation.ac.uk/the-use-of-english/](https://englishassociation.ac.uk/the-use-of-english/). Pre-print is available [here](https://doi.org/10.31219/osf.io/vg8c3).
 
 * Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2024). Inadequate foundational decoding skills constrain global literacy goals for pupils in low- and middle-income countries. *Nature Human Behaviour*. [https://doi.org/10.1038/s41562-024-02028-x](https://doi.org/10.1038/s41562-024-02028-x). Pre-print is available [here](https://psyarxiv.com/2qxm9/), data and analysis code [here](https://osf.io/6s23f/).
 
