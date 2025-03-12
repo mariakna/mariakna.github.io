@@ -28,7 +28,7 @@ subtitle: Papers, talks, posters etc.
 
 * **Korochkina, M.**, Bürki, A., & Nickels, L. (2021). Apples and oranges: How does learning context affect novel word learning? *Journal of Memory and Language*, 120, 104246. [https://doi.org/10.1016/j.jml.2021.104246](https://doi.org/10.1016/j.jml.2021.104246). Pre-registration, pre-print, data, and analysis code are available [here](https://osf.io/g7ftz/).
 
-#### Theses
+#### Other 
 
 * **Korochkina, M.** (2022). Learning of new words: Behavioural and electrophysiological correlates of encoding and integration. *PhD Thesis*. [https://doi.org/10.25949/23707128.v1](https://doi.org/10.25949/23707128.v1)
 
