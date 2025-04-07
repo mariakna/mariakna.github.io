@@ -36,6 +36,8 @@ subtitle: Papers, talks, posters etc.
 
 #### Talks
 
+* What and how do we learn about morphemes through reading experience? **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), Lancaster, UK, 2-4 April 2025. [[slides]](/talks/eps_april2025.pdf) 
+
 * The graded nature of morphological information in text, and what it means for morpheme learning. **Talk** given at a meeting of the Forum for Research in Literacy and Language (FRiLL), Reading, UK, 12 December 2024 (with Holly Cooper). [[slides]](/talks/frill_dec2024.pdf) 
 
 * What do children learn from books, and how to talk to teachers about it. **Talk** given at a departmental meeting, Royal Holloway, University of London, UK, 23 October 2024. [[slides]](/talks/PsychSalon231024.pdf) 
