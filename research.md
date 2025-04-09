@@ -8,7 +8,7 @@ subtitle: Papers, talks, posters etc.
 
 #### Under review
 
-* **Korochkina, M.**, Cooper, H., Brysbaert, M., & Rastle, K. (2025). Morpheme knowledge is shaped by information available through orthography. Pre-print: [(https://doi.org/10.31219/osf.io/ad3jh_v1](https://doi.org/10.31219/osf.io/ad3jh_v1), data and analysis code: [https://osf.io/yq9h7/](https://osf.io/yq9h7/).
+* **Korochkina, M.**, Cooper, H., Brysbaert, M., & Rastle, K. (2025). Morpheme knowledge is shaped by information available through orthography. Pre-print: [https://doi.org/10.31219/osf.io/ad3jh_v1](https://doi.org/10.31219/osf.io/ad3jh_v1), data and analysis code: [https://osf.io/yq9h7/](https://osf.io/yq9h7/).
 
 #### Peer-reviewed journal articles
 
