@@ -8,25 +8,25 @@ subtitle: Papers, talks, posters etc.
 
 #### Under review
 
-* **Korochkina, M.**, Cooper, H., Brysbaert, M., & Rastle, K. (2025). Morpheme knowledge is shaped by information available through orthography. Pre-print is available [here](https://doi.org/10.31219/osf.io/ad3jh_v1).
-
-* **Korochkina, M.**, & Rastle, K. (2024). Morphology in children's books: What's there and what's useful for learning? Pre-print is available [here](https://doi.org/10.31219/osf.io/63pb4).
+* **Korochkina, M.**, Cooper, H., Brysbaert, M., & Rastle, K. (2025). Morpheme knowledge is shaped by information available through orthography. Pre-print: [(https://doi.org/10.31219/osf.io/ad3jh_v1](https://doi.org/10.31219/osf.io/ad3jh_v1), data and analysis code: [https://osf.io/yq9h7/](https://osf.io/yq9h7/).
 
 #### Peer-reviewed journal articles
 
-* **Korochkina, M.**, & Rastle, K. (2025). The vocabulary barrier in the General Certificate of Secondary Education (GCSE) in English Literature. *The Use of English*, 76(2), 12--26. [https://englishassociation.ac.uk/the-use-of-english/](https://englishassociation.ac.uk/the-use-of-english/). Pre-print is available [here](https://doi.org/10.31219/osf.io/vg8c3).
+* **Korochkina, M.**, & Rastle, K. (In press). Morphology in children's books, and what it means for learning. *npj Science of Learning*. Pre-print, data, and analysis code: [https://osf.io/vab95/](https://osf.io/vab95/).
 
-* Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2024). Inadequate foundational decoding skills constrain global literacy goals for pupils in low- and middle-income countries. *Nature Human Behaviour*. [https://doi.org/10.1038/s41562-024-02028-x](https://doi.org/10.1038/s41562-024-02028-x). Pre-print is available [here](https://psyarxiv.com/2qxm9/), data and analysis code [here](https://osf.io/6s23f/).
+* **Korochkina, M.**, & Rastle, K. (2025). The vocabulary barrier in the General Certificate of Secondary Education (GCSE) in English Literature. *The Use of English*, 76(2), 12--26. [https://englishassociation.ac.uk/the-use-of-english/](https://englishassociation.ac.uk/the-use-of-english/). Pre-print, data, and analysis code: [https://osf.io/hqvd3/](https://osf.io/hqvd3/).
 
-* **Korochkina, M.**, Nickels, L., & Bürki, A. (2024). What can we learn about integration of novel words into semantic memory from automatic semantic priming? *Language, Cognition, and Neuroscience*, 39(4), 455--488. [https://doi.org/10.1080/23273798.2024.2328586](https://doi.org/10.1080/23273798.2024.2328586). Pre-registration, pre-print, data, and analysis code are available [here](https://osf.io/ycukn/).
+* Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2024). Inadequate foundational decoding skills constrain global literacy goals for pupils in low- and middle-income countries. *Nature Human Behaviour*. [https://doi.org/10.1038/s41562-024-02028-x](https://doi.org/10.1038/s41562-024-02028-x). Pre-print: [https://psyarxiv.com/2qxm9/](https://psyarxiv.com/2qxm9/), data and analysis code: [https://osf.io/6s23f/](https://osf.io/6s23f/).
 
-* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). The Children and Young People's Books Lexicon (CYP-LEX): A large-scale lexical database of books read by children and young people in the United Kingdom. *Quarterly Journal of Experimental Psychology*, 77(12), 2418--2438. [https://doi.org/10.1177/17470218241229694](https://doi.org/10.1177/17470218241229694). The CYP-LEX database, supplementary files, and analysis code are available [here](https://doi.org/10.17605/OSF.IO/SQU49).
+* **Korochkina, M.**, Nickels, L., & Bürki, A. (2024). What can we learn about integration of novel words into semantic memory from automatic semantic priming? *Language, Cognition, and Neuroscience*, 39(4), 455--488. [https://doi.org/10.1080/23273798.2024.2328586](https://doi.org/10.1080/23273798.2024.2328586). Pre-registration, pre-print, data, and analysis code: [https://osf.io/ycukn/](https://osf.io/ycukn/).
 
-* Lombard, A., Ulicheva, A., **Korochkina, M.**, & Rastle, K. (2024). The regularity of polysemy patterns in the mind: Computational and experimental data. *GLOSSA Psycholinguistics*, 3(1): 3, 1--24. [https://doi.org/10.5070/G60111327](https://doi.org/10.5070/G60111327). Data and analyis code are available [here](https://osf.io/uhy75/).
+* **Korochkina, M.**, Marelli, M., Brysbaert, M., & Rastle, K. (2024). The Children and Young People's Books Lexicon (CYP-LEX): A large-scale lexical database of books read by children and young people in the United Kingdom. *Quarterly Journal of Experimental Psychology*, 77(12), 2418--2438. [https://doi.org/10.1177/17470218241229694](https://doi.org/10.1177/17470218241229694). The CYP-LEX database, supplementary files, and analysis code: [https://doi.org/10.17605/OSF.IO/SQU49](https://doi.org/10.17605/OSF.IO/SQU49).
 
-* **Korochkina, M.**, Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlates of encoding in novel word learning. *Collabra: Psychology*, 9(1): 57525. [https://doi.org/10.1525/collabra.57525](https://doi.org/10.1525/collabra.57525). Pre-registration, pre-print, data, and analysis code are available [here](https://osf.io/mg4kr/).
+* Lombard, A., Ulicheva, A., **Korochkina, M.**, & Rastle, K. (2024). The regularity of polysemy patterns in the mind: Computational and experimental data. *GLOSSA Psycholinguistics*, 3(1): 3, 1--24. [https://doi.org/10.5070/G60111327](https://doi.org/10.5070/G60111327). Data and analyis code: [https://osf.io/uhy75/](https://osf.io/uhy75/).
 
-* **Korochkina, M.**, Bürki, A., & Nickels, L. (2021). Apples and oranges: How does learning context affect novel word learning? *Journal of Memory and Language*, 120, 104246. [https://doi.org/10.1016/j.jml.2021.104246](https://doi.org/10.1016/j.jml.2021.104246). Pre-registration, pre-print, data, and analysis code are available [here](https://osf.io/g7ftz/).
+* **Korochkina, M.**, Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlates of encoding in novel word learning. *Collabra: Psychology*, 9(1): 57525. [https://doi.org/10.1525/collabra.57525](https://doi.org/10.1525/collabra.57525). Pre-registration, pre-print, data, and analysis code: [https://osf.io/mg4kr/](https://osf.io/mg4kr/).
+
+* **Korochkina, M.**, Bürki, A., & Nickels, L. (2021). Apples and oranges: How does learning context affect novel word learning? *Journal of Memory and Language*, 120, 104246. [https://doi.org/10.1016/j.jml.2021.104246](https://doi.org/10.1016/j.jml.2021.104246). Pre-registration, pre-print, data, and analysis code: [https://osf.io/g7ftz/](https://osf.io/g7ftz/).
 
 #### Other 
 
