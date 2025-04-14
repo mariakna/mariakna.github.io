@@ -16,7 +16,7 @@ subtitle: Papers, talks, posters etc.
 
 * **Korochkina, M.**, & Rastle, K. (2025). The vocabulary barrier in the General Certificate of Secondary Education (GCSE) in English Literature. *The Use of English*, 76(2), 12--26. [https://englishassociation.ac.uk/the-use-of-english/](https://englishassociation.ac.uk/the-use-of-english/). Pre-print, data, and analysis code: [https://osf.io/hqvd3/](https://osf.io/hqvd3/).
 
-* Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2024). Inadequate foundational decoding skills constrain global literacy goals for pupils in low- and middle-income countries. *Nature Human Behaviour*. [https://doi.org/10.1038/s41562-024-02028-x](https://doi.org/10.1038/s41562-024-02028-x). Pre-print: [https://psyarxiv.com/2qxm9/](https://psyarxiv.com/2qxm9/), data and analysis code: [https://osf.io/6s23f/](https://osf.io/6s23f/).
+* Crawford, M., Raheel, N., **Korochkina, M.**, & Rastle, K. (2024). Inadequate foundational decoding skills constrain global literacy goals for pupils in low- and middle-income countries. *Nature Human Behaviour*, 9, 74--83. [https://doi.org/10.1038/s41562-024-02028-x](https://doi.org/10.1038/s41562-024-02028-x). Pre-print: [https://psyarxiv.com/2qxm9/](https://psyarxiv.com/2qxm9/), data and analysis code: [https://osf.io/6s23f/](https://osf.io/6s23f/).
 
 * **Korochkina, M.**, Nickels, L., & Bürki, A. (2024). What can we learn about integration of novel words into semantic memory from automatic semantic priming? *Language, Cognition, and Neuroscience*, 39(4), 455--488. [https://doi.org/10.1080/23273798.2024.2328586](https://doi.org/10.1080/23273798.2024.2328586). Pre-registration, pre-print, data, and analysis code: [https://osf.io/ycukn/](https://osf.io/ycukn/).
 
