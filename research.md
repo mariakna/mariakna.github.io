@@ -12,7 +12,7 @@ subtitle: Papers, talks, posters etc.
 
 #### Peer-reviewed journal articles
 
-* **Korochkina, M.**, & Rastle, K. (2025). Morphology in children's books, and what it means for learning. *npj Science of Learning*, 10, 22. [https://doi.org/10.1038/s41539-025-00313-6](https://doi.org/10.1038/s41539-025-00313-6) Pre-print, data, and analysis code: [https://osf.io/vab95/](https://osf.io/vab95/).
+* **Korochkina, M.**, & Rastle, K. (2025). Morphology in children's books, and what it means for learning. *npj Science of Learning*, 10, 22. [https://doi.org/10.1038/s41539-025-00313-6](https://doi.org/10.1038/s41539-025-00313-6). Pre-print, data, and analysis code: [https://osf.io/vab95/](https://osf.io/vab95/).
 
 * **Korochkina, M.**, & Rastle, K. (2025). The vocabulary barrier in the General Certificate of Secondary Education (GCSE) in English Literature. *The Use of English*, 76(2), 12--26. [https://englishassociation.ac.uk/the-use-of-english/](https://englishassociation.ac.uk/the-use-of-english/). Pre-print, data, and analysis code: [https://osf.io/hqvd3/](https://osf.io/hqvd3/).
 
