@@ -60,16 +60,17 @@ A short PDF version (including research output and outreach activities) is avail
 
 * *Peer-review*
   * Reviewer for [Psychological Science](https://journals.sagepub.com/home/pss), [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Instructional Science](https://link.springer.com/journal/11251), [Journal of Research in Reading](https://onlinelibrary.wiley.com/journal/14679817), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics)
-  * Conference abstract reviewer for the [2024 Architectures and Mechanisms for Language Processing (AMLaP) conference](https://amlap2024.ed.ac.uk/), Edinburgh, Scotland
+  * Conference abstract reviewer for the [2024](https://amlap2024.ed.ac.uk/) (Edinburgh, Scotland) and [2025](https://amlap2025.ff.cuni.cz/) (Prague, Czechia) editions of the Architectures and Mechanisms for Language Processing (AMLaP) conference
 * *Open science*
   * Organiser & instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
   * Instructor, *Pre-registraion & Open Materials: The What, Why, and How*, "Opening Up Open Science: Nuts and Bolts for Beginners" workshop, 31st annual meeting of the Society for the Scientific Study of Reading, Denmark, 10 July 2024
 * *Equality, diversity, and inclusion*
   * Postdoc rep in a successful bid for the Athena Swan Silver Award, Royal Holloway, University of London
-  *  Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/) 
+  * Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/) 
 
 ### Further training and development
 
+* 2025, EPS-funded research workshop, [*Best practices for the processing and analysis of eye movements during reading*](https://sites.google.com/view/eye-movements-workshop/home?authuser=0), UCL
 * 2024, Workshop *Introduction to Research Impact*, [Social Science Impact Accelerator](https://www.royalholloway.ac.uk/research-and-teaching/industry/working-with-us/social-science-impact-accelerator/), Royal Holloway, University of London
 * 2024, Workshop *Storytelling with Impact: Visual storytelling*, [Nifty Fox Creative](https://www.niftyfoxcreative.com/)
 * 2024, Workshop *Storytelling with Impact: Unleash the power of narrative*, [Duncan Yellowlees Training](https://www.duncanyellowlees.com/)
