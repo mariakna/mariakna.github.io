@@ -8,6 +8,8 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 #### Publications
 
+* **Korochkina, M.**, & Rastle K. (2025). What can children learn about morphology from reading for fun? Accessible [blog post](https://www.rastlelab.com/post/what-can-children-learn-about-morphology-from-reading-for-fun).
+
 * **Korochkina, M.**, & Rastle K. (2024). What makes GCSE English Literature so hard for students? *Tes*, published online on 4 August 2024. [Link to the online version](https://www.tes.com/magazine/teaching-learning/secondary/what-makes-gcse-english-lit-so-hard-students)
 
 * **Korochkina, M.**, & Rastle K. (2024). What words do children encounter when they read for pleasure? *Nomanis*, [Issue 17](https://www.nomanis.com.au/blog/issue-17-june-2024) (Originally appeared on the [Rastle Lab blog](https://www.rastlelab.com/post/what-words-do-children-encounter-when-they-read-for-pleasure), see below).
