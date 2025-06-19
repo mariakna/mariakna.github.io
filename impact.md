@@ -29,8 +29,9 @@ In a [recent collaboration with The World Bank](https://doi.org/10.1038/s41562-0
 
 ### External publications featuring my research
 
-* Kaffenberger, M. (25 November 2024). Child literacy in low- and middle-income countries. *Nature Human Behaviour*. [[link]](https://doi.org/10.1038/s41562-024-02056-7)
-* Teaching methods must change to address globally poor reading skills, experts say. *Phys.org* (11 November 2024) [[link]](https://phys.org/news/2024-11-methods-globally-poor-skills-experts.html)
-* Quigley, A. (24 September 2024). The rare vocabulary problem in English Literature. [[link to article]](https://alexquigley.co.uk/the-rare-vocabulary-problem-in-english-literature-gcse/)
-* Quigley, A. (15 April 2024). In the battle of books vs videos, there is a clear winner for literacy. *Tes* [[link to article]](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner)
+* [Child literacy in low- and middle-income countries](https://doi.org/10.1038/s41562-024-02056-7)
+* [The science of reading can help to turn around the reading crisis in low- and middle-income countries](https://blogs.worldbank.org/en/education/The-science-of-reading-can-help-to-turn-around-reading-crisis)
+* [Teaching methods must change to address globally poor reading skills, experts say](https://phys.org/news/2024-11-methods-globally-poor-skills-experts.html)
+* [The rare vocabulary problem in English Literature](https://alexquigley.co.uk/the-rare-vocabulary-problem-in-english-literature-gcse/)
+* [In the battle of books vs videos, there is a clear winner for literacy](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner). *Tes*.
 
