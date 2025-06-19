@@ -22,30 +22,31 @@ A short PDF version (including research output and outreach activities) is avail
 
 ### Teaching & educating
 
-* 27 March 2023, Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
+* 20 June 2025 – ongoing, Data analysis training developer, [South East Doctoral Training Arc (SEDARC)](https://www.sedarc.ac.uk/) 
 * 7 Nov 2022 – ongoing, Instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
+* 27 March 2023, Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
 * Academic Tutor, Macquarie University
   * Session 1, 2021 &amp; 2022, [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide)
   * Session 2, 2020 &amp; 2021, [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide)
   * Session 2, 2020 &amp; 2021, [SPHL3311 Acquired Speech and Language Disorders](https://unitguides.mq.edu.au/unit_offerings/134147/unit_guide)
   * Session 1, 2020, [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide)
 * 18 Feb 2021, Workshop instructor, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs), Macquarie University
-* 21 – 25 Sept 2020, Co-instructor, [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/) Software Carpentry workshop, Macquarie University
+* 21 – 25 Sept 2020, Workshop co-instructor, [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/) Software Carpentry
 
 ### Awards and funding
 
-* 2023, [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association; read the media announcement [here](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/) (includes GBP 500 cash)
-* 2021, Funding award for an 8-week instructor training with [The Carpentries](https://carpentries.org/), Macquarie University (USD 1,500)
-* 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding), Macquarie University (AUD 5,000)
+* 2023, [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association; read the media announcement [here](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/)
+* 2021, Funding award for an 8-week instructor training with [The Carpentries](https://carpentries.org/) (USD 1,500), awarded by Macquarie University's Research and Innovation team
+* 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding), Macquarie University (AUD 5,000); competitive university-wide award for international conferences and lab visits
 * 2019, Conference travel award, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 1,000)
 * 2019, Conference travel award, [Potsdam Graduate School](https://www.uni-potsdam.de/en/pogs/), University of Potsdam (EUR 500)
 * 2019, Financial support for participant testing and recruitment, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 500)
 * 2018 – 2022, [IDEALAB](https://phd-idealab.com/) PhD Fellowship, a highly competitive fellowship providing full tuition, stipend, and international travel costs
-* 2012 & 2014, Non-EU student exchange awards, Department of German Studies & Department of Linguistics, University of Vienna (EUR 5,000)
+* 2012 & 2014, Non-EU student exchange awards, Department of German Studies & Department of Linguistics, University of Vienna (EUR 5,000); competitive awards providing tuition and stipend for 2 semesters
 
 ### Experimental techniques and programming languages
 
-* Behavioural – EEG – Computational modelling – Eye-tracking – fNIRS
+* Behavioural – EEG – Natural Language Processing (NLP) – Computational modelling – Eye-tracking – fNIRS
 * MATLAB – Python – R – Stan – HTML – LaTeX – OpenSesame – Presentation Neurobehavioral Systems – Stata
 
 ### Scientific societies
@@ -64,6 +65,7 @@ A short PDF version (including research output and outreach activities) is avail
 * *Open science*
   * Organiser & instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
   * Instructor, *Pre-registraion & Open Materials: The What, Why, and How*, "Opening Up Open Science: Nuts and Bolts for Beginners" workshop, 31st annual meeting of the Society for the Scientific Study of Reading, Denmark, 10 July 2024
+  * Invited speaker, Festival of Research 2024, Royal Holloway, University of London
 * *Equality, diversity, and inclusion*
   * Postdoc rep in a successful bid for the Athena Swan Silver Award, Royal Holloway, University of London
   * Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/) 
@@ -77,7 +79,7 @@ A short PDF version (including research output and outreach activities) is avail
 * 2024, Workshop *Storytelling to Success: Developing your Narrative CV*, Researcher Development and Culture, University of Leeds
 * 2023, Workshop *Effective Grant Writing*, Royal Holloway, University of London
 * 2022, [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python), DataCamp [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/intro_nlp_datacamp_certificate.pdf)
-* 2022, [The 6th Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2022/), Bayesian Advanced stream, Univeristy of Potsdam
+* 2022, [The 6th Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2022/), Bayesian Advanced stream, University of Potsdam
 * 2021, *Badged Instructor* training, [The Carpentries](https://carpentries.org/)
 * 2020, MOOC [Python Data Structures](https://www.coursera.org/learn/python-data), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part2.pdf)
 * 2020, MOOC [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part1.pdf)
@@ -86,7 +88,7 @@ A short PDF version (including research output and outreach activities) is avail
 * 2020, MOOC [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology?#enroll), University of Chicago [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/Coursera%203FM8UYY27R4_certificate.pdf)
 * 2019, Workshop *Australasian Magnetoencephalography (WAM): Neurocognitive clinical applications of MEG: Present and future*, Macquarie University
 * 2019, [Introduction to Python](https://mq-software-carpentry.github.io/2019-12-03-intro-to-python/), Software Carpentry Workshop, Macquarie University
-* 2019, [The 3rd Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2019/), Bayesian Advanced stream, Univeristy of Potsdam
+* 2019, [The 3rd Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2019/), Bayesian Advanced stream, University of Potsdam
 * 2018, Workshop *Advanced Methods: Bayesian Statistics with R*, University of Potsdam
 * 2017, fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
 * 2016, fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
