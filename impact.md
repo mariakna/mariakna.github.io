@@ -29,6 +29,7 @@ In a [recent collaboration with The World Bank](https://doi.org/10.1038/s41562-0
 
 ### External publications featuring my research
 
+* [Deep Dive: Morphology Instruction and Children's Books](https://metametricsinc.com/neenas-top-reading-research-picks-for-july-2025/?utm_campaign=Hub_Reading+Research+Recap&utm_medium=email&utm_content=370891175&utm_source=hs_email&_hsmi=370891175&_hsenc=p2ANqtz--4bLIEqi779LP0RiixAOiu7ddRdcA8KGA1XxbvnsDYAXiP9n9kCwxBSvjAFVofl8UEbLzWR6UIybVZImLnkoqD7jvDTA&hsCtaAttrib=192477348882), MetaMetrics
 * [Child literacy in low- and middle-income countries](https://doi.org/10.1038/s41562-024-02056-7)
 * [The science of reading can help to turn around the reading crisis in low- and middle-income countries](https://blogs.worldbank.org/en/education/The-science-of-reading-can-help-to-turn-around-reading-crisis)
 * [Teaching methods must change to address globally poor reading skills, experts say](https://phys.org/news/2024-11-methods-globally-poor-skills-experts.html)
