@@ -8,7 +8,7 @@ subtitle: Papers, talks, posters etc.
 
 #### Peer-reviewed journal articles
 
-**Korochkina, M.**, Cooper, H., Brysbaert, M., & Rastle, K. (In press). Morpheme knowledge is shaped by information available through orthography. *Psychonomic Bulletin & Review*. Pre-print: [https://doi.org/10.31219/osf.io/ad3jh_v1](https://doi.org/10.31219/osf.io/ad3jh_v1), data and analysis code: [https://osf.io/yq9h7/](https://osf.io/yq9h7/).
+* **Korochkina, M.**, Cooper, H., Brysbaert, M., & Rastle, K. (In press). Morpheme knowledge is shaped by information available through orthography. *Psychonomic Bulletin & Review*. Pre-print: [https://doi.org/10.31219/osf.io/ad3jh_v1](https://doi.org/10.31219/osf.io/ad3jh_v1), data and analysis code: [https://osf.io/yq9h7/](https://osf.io/yq9h7/).
 
 * **Korochkina, M.**, & Rastle, K. (2025). Morphology in children's books, and what it means for learning. *npj Science of Learning*, 10: 22. [https://doi.org/10.1038/s41539-025-00313-6](https://doi.org/10.1038/s41539-025-00313-6). Pre-print, data, and analysis code: [https://osf.io/vab95/](https://osf.io/vab95/).
 
