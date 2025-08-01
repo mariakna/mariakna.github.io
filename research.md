@@ -6,6 +6,10 @@ subtitle: Papers, talks, posters etc.
 
 ### Publications
 
+#### Articles under review
+
+* **Korochkina, M.**, Marelli, M., & Rastle, K. (Under review). Morphemes in the wild: Modelling affix learning from the noisy landscape of natural text. Pre-print at [https://doi.org/10.31234/osf.io/yzcqm_v1](https://doi.org/10.31234/osf.io/yzcqm_v1). 
+
 #### Peer-reviewed journal articles
 
 * **Korochkina, M.**, Cooper, H., Brysbaert, M., & Rastle, K. (In press). Morpheme knowledge is shaped by information available through orthography. *Psychonomic Bulletin & Review*. Pre-print, data, and analysis code: [https://osf.io/yq9h7/](https://osf.io/yq9h7/).
