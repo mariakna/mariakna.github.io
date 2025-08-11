@@ -29,10 +29,17 @@ In a [recent collaboration with The World Bank](https://doi.org/10.1038/s41562-0
 
 ### External publications featuring my research
 
-* [Deep Dive: Morphology Instruction and Children's Books](https://metametricsinc.com/neenas-top-reading-research-picks-for-july-2025/?utm_campaign=Hub_Reading+Research+Recap&utm_medium=email&utm_content=370891175&utm_source=hs_email&_hsmi=370891175&_hsenc=p2ANqtz--4bLIEqi779LP0RiixAOiu7ddRdcA8KGA1XxbvnsDYAXiP9n9kCwxBSvjAFVofl8UEbLzWR6UIybVZImLnkoqD7jvDTA&hsCtaAttrib=192477348882), MetaMetrics
-* [Child literacy in low- and middle-income countries](https://doi.org/10.1038/s41562-024-02056-7)
-* [The science of reading can help to turn around the reading crisis in low- and middle-income countries](https://blogs.worldbank.org/en/education/The-science-of-reading-can-help-to-turn-around-reading-crisis)
-* [Teaching methods must change to address globally poor reading skills, experts say](https://phys.org/news/2024-11-methods-globally-poor-skills-experts.html)
-* [The rare vocabulary problem in English Literature](https://alexquigley.co.uk/the-rare-vocabulary-problem-in-english-literature-gcse/)
-* [In the battle of books vs videos, there is a clear winner for literacy](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner). *Tes*.
+* [Deep Dive: Morphology Instruction and Children's Books](https://metametricsinc.com/neenas-top-reading-research-picks-for-july-2025/?utm_campaign=Hub_Reading+Research+Recap&utm_medium=email&utm_content=370891175&utm_source=hs_email&_hsmi=370891175&_hsenc=p2ANqtz--4bLIEqi779LP0RiixAOiu7ddRdcA8KGA1XxbvnsDYAXiP9n9kCwxBSvjAFVofl8UEbLzWR6UIybVZImLnkoqD7jvDTA&hsCtaAttrib=192477348882) ( MetaMetrics)
+* [Research Bites: Research round-up for evidence-based practices](https://theeducatorsroom.com/research-bites-research-round-up-for-evidence-based-practices/) (The Educator's Room)
+* [Phrase It](https://helenarkell.org.uk/product/phrase-it-pack-5/): a card game to build word recognition and reading fluency skills based on the CYP-LEX database (Helen Arkell Dyslexia Charity)
+* [Let's read it again: the power of storytime replays](https://researchschool.org.uk/greenshaw/news/lets-read-it-again-the-power-of-storytime-replays) (Research Schools Network)
+* [Child literacy in low- and middle-income countries](https://doi.org/10.1038/s41562-024-02056-7) (Nature Human Behaviour)
+* [The science of reading can help to turn around the reading crisis in low- and middle-income countries](https://blogs.worldbank.org/en/education/The-science-of-reading-can-help-to-turn-around-reading-crisis) (The World Bank)
+* [Teaching methods must change to address globally poor reading skills, experts say](https://phys.org/news/2024-11-methods-globally-poor-skills-experts.html) (Phys.org)
+* [The rare vocabulary problem in English Literature](https://alexquigley.co.uk/the-rare-vocabulary-problem-in-english-literature-gcse/) (Alex Quigley)
+* [In the battle of books vs videos, there is a clear winner for literacy](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner) (Tes)
+* [Big rocks for reading achievement](https://readingsimplified.com/big-rocks-for-reading-achievement/) (Reading Simplified)
+* [Strategies for small group reading](https://greatheightsenglishhub.org/strategies-for-small-group-reading/) (Great Heights English Hub)
+* [What Is Morphology? Should Teachers Include It in Reading Instruction?](https://www.edweek.org/teaching-learning/what-is-morphology-should-teachers-include-it-in-reading-instruction/2023/11) (Education Week)
+* [Books as rocket fuel](https://researchschool.org.uk/greenshaw/news/books-as-rocket-fuel) ((Research Schools Network)
 
