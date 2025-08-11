@@ -41,5 +41,5 @@ In a [recent collaboration with The World Bank](https://doi.org/10.1038/s41562-0
 * [Big rocks for reading achievement](https://readingsimplified.com/big-rocks-for-reading-achievement/) (Reading Simplified)
 * [Strategies for small group reading](https://greatheightsenglishhub.org/strategies-for-small-group-reading/) (Great Heights English Hub)
 * [What Is Morphology? Should Teachers Include It in Reading Instruction?](https://www.edweek.org/teaching-learning/what-is-morphology-should-teachers-include-it-in-reading-instruction/2023/11) (Education Week)
-* [Books as rocket fuel](https://researchschool.org.uk/greenshaw/news/books-as-rocket-fuel) ((Research Schools Network)
+* [Books as rocket fuel](https://researchschool.org.uk/greenshaw/news/books-as-rocket-fuel) (Research Schools Network)
 
