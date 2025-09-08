@@ -38,6 +38,9 @@ subtitle: Papers, talks, posters etc.
 
 #### Talks
 
+* Morpheme knowledge is shaped by information available through orthography. **Talk** given at the 24th meeting of the [European
+Society for Cognitive Psychology](https://www.escop2025.com/), Sheffield, UK, 1-6 September 2025. [[slides]](/talks/korochkina_escop2025.pdf)
+
 * What and how do we learn about morphemes through reading experience? **Talk** given at the annual meeting of the [Experimental Psychology Society](https://eps.ac.uk/), Lancaster, UK, 2-4 April 2025. [[slides]](/talks/eps_april2025.pdf) 
 
 * The graded nature of morphological information in text, and what it means for morpheme learning. **Talk** given at a meeting of the Forum for Research in Literacy and Language (FRiLL), Reading, UK, 12 December 2024 (with Holly Cooper). [[slides]](/talks/frill_dec2024.pdf) 
