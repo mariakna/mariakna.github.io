@@ -36,9 +36,9 @@ subtitle: Papers, talks, posters etc.
 
 * **Korochkina, M.** (2022). Learning of new words: Behavioural and electrophysiological correlates of encoding and integration. *PhD Thesis*. [https://doi.org/10.25949/23707128.v1](https://doi.org/10.25949/23707128.v1)
 
-### Research conference contributions
+### Talks
 
-#### Talks
+* Learning affixes through text experience: A new theoretical and computational framework. **Invited talk**, Language group seminar, MRC Cognition and Brain Sciences Unit (CBU), University of Cambridge, 9 October 2025. [[slides]](/talks/korochkina_cbu_talk_091025.pdf)
 
 * Morpheme knowledge is shaped by information available through orthography. **Talk** given at the 24th meeting of the [European
 Society for Cognitive Psychology](https://www.escop2025.com/), Sheffield, UK, 1-6 September 2025. [[slides]](/talks/korochkina_escop2025.pdf)
@@ -74,7 +74,7 @@ Society for Cognitive Psychology](https://escop2023.org/), Porto, Portugal, 6-9 
 
 * A behavioural and electrophysiological investigation of novel word learning. **Talk** given at the [Words in the World](http://wordsintheworld.ca/wow-conference-2020/), online attendance, 16-18 October 2020. [[slides]](/talks/wow2020_talk22_korochkina_nickels_buerki.pdf) 
 
-#### Posters
+### Posters
 
 * Learning in the wild: What can children learn about morphemic statistical regularities through reading? **Poster** presented at the [65th annual meeting of the Psychonomic Society](https://www.psychonomic.org/page/2024annualmeeting), New York City, USA.
 
