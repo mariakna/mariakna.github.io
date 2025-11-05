@@ -16,10 +16,12 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 #### Talks
 
+* *The power of reading for children's outcomes: What every parent needs to know*. **Invited webinar** for [Tooled Up Education](https://www.tooledupeducation.com/), 5 November 2025. [[slides]](/talks/korochkina_tooled_up_educ_051125.pdf)
+
 * *The words children and young people encounter when they read for pleasure, and what it means for learning*. **Talk** given at the [Working Together: Research and Practice meeting 2025](https://www.royalholloway.ac.uk/research-and-education/departments-and-schools/psychology/research/serns/serns-events/2025/), The South East Research Network for Schools,
 Egham, UK, 27 June 2025. [[slides]](/talks/korochkina_serns2025.pdf)
 
-* *Words in books: A challenge, a blessing, or both?* **Invited talk** given at the [ResearchED National Conference](https://researched.org.uk/event/researched-national-conference-2024/), London, UK, 7 September 2024. [[slides]](/talks/ResearchED2024_KorochkinaRastle.pdf)
+* *Words in books: A challenge, a blessing, or both?* **Invited talk** (with Kathy Rastle) given at the [ResearchED National Conference](https://researched.org.uk/event/researched-national-conference-2024/), London, UK, 7 September 2024. [[slides]](/talks/ResearchED2024_KorochkinaRastle.pdf)
 
 * *What does it take to read and understand the GCSE English Literature texts?* **Talk** given at the [Working Together: Research and Practice event 2024](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/research/serns/serns-events/2024/), The South East Research Network for Schools, Egham, UK, 21 June 2024. [[slides]](/talks/korochkina_rastle_serns_2024.pdf)
 
