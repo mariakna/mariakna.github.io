@@ -8,7 +8,7 @@ subtitle: Papers, talks, posters etc.
 
 #### Articles under review
 
-* Cooper, H., **Korochkina, M.**, Brysbaert, M., & Rastle, K. (Under review). Assessing text experience in British primary school children: New validated title and author recognition tests. Pre-print at [https://doi.org/10.31234/osf.io/r2ybv_v1](https://doi.org/10.31234/osf.io/r2ybv_v1).
+* Cooper, H., **Korochkina, M.**, Brysbaert, M., & Rastle, K. (Under review). Assessing text experience in British primary school children: New validated title and author recognition tests. Pre-print at [https://doi.org/10.31234/osf.io/r2ybv_v2](https://doi.org/10.31234/osf.io/r2ybv_v2).
 
 * **Korochkina, M.**, Marelli, M., & Rastle, K. (Under review). Morphemes in the wild: Modelling affix learning from the noisy landscape of natural text. Pre-print at [https://doi.org/10.31234/osf.io/yzcqm_v1](https://doi.org/10.31234/osf.io/yzcqm_v1). 
 
