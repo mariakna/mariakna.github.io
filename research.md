@@ -38,6 +38,8 @@ subtitle: Papers, talks, posters etc.
 
 ### Talks
 
+* Assessing text experience in British primary school children: New validated Title and Author Recognition Tests. **Talk** given at a meeting of the Forum for Research in Literacy and Language (FRiLL), Reading, UK, 15 December 2025. [[slides]](/talks/korochkina_frill_dec25.pdf) 
+
 * Learning affixes through text experience: A new theoretical and computational framework. **Invited talk**, Language group seminar, MRC Cognition and Brain Sciences Unit (CBU), University of Cambridge, 9 October 2025. [[slides]](/talks/korochkina_cbu_talk_091025.pdf)
 
 * Morpheme knowledge is shaped by information available through orthography. **Talk** given at the 24th meeting of the [European
