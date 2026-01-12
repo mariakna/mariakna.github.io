@@ -16,7 +16,8 @@ A short PDF version (including research output and outreach activities) is avail
 
 ### Academic appointments
 
-* June 2022 – ongoing, Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway, University of London
+* Jan 2026 – ongoing, Vice-Chancellor's Research Prize Fellow (tenure-track), Institute of Health and Neurodevelopment, Aston University
+* June 2022 – Dec 2025, Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway, University of London
 * Feb 2020 – June 2022, Academic Tutor, Macquarie University
 * July 2016 – Aug 2018, Research Assistant, [NOLA Lab](http://www.uni-potsdam.de/nola/index.html) & [VasishthLab](https://vasishth.github.io/), University of Potsdam
 
