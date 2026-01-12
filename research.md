@@ -8,11 +8,11 @@ subtitle: Papers, talks, posters etc.
 
 #### Articles under review
 
-* Cooper, H., **Korochkina, M.**, Brysbaert, M., & Rastle, K. (Under review). Assessing text experience in British primary school children: New validated title and author recognition tests. Pre-print at [https://doi.org/10.31234/osf.io/r2ybv_v2](https://doi.org/10.31234/osf.io/r2ybv_v2).
-
 * **Korochkina, M.**, Marelli, M., & Rastle, K. (Under review). Morphemes in the wild: Modelling affix learning from the noisy landscape of natural text. Pre-print at [https://doi.org/10.31234/osf.io/yzcqm_v2](https://doi.org/10.31234/osf.io/yzcqm_v2). 
 
 #### Peer-reviewed journal articles
+
+* Cooper, H., **Korochkina, M.**, Brysbaert, M., & Rastle, K. (In press). Assessing text experience in British primary school children: New validated title and author recognition tests. *Quarterly Journal of Experimental Psychology*. Pre-print, data, and analysis code: [https://osf.io/gmv72](https://osf.io/gmv72).
 
 * **Korochkina, M.**, Cooper, H., Brysbaert, M., & Rastle, K. (2026). Morpheme knowledge is shaped by information available through orthography. *Psychonomic Bulletin & Review*, 33, 3. [https://doi.org/10.3758/s13423-025-02830-2](https://doi.org/10.3758/s13423-025-02830-2). Pre-print, data, and analysis code: [https://osf.io/yq9h7/](https://osf.io/yq9h7/).
 
