@@ -6,11 +6,9 @@ subtitle: Papers, talks, posters etc.
 
 ### Publications
 
-#### Articles under review
-
-* **Korochkina, M.**, Marelli, M., & Rastle, K. (Under review). Morphemes in the wild: Modelling affix learning from the noisy landscape of natural text. Pre-print at [https://doi.org/10.31234/osf.io/yzcqm_v2](https://doi.org/10.31234/osf.io/yzcqm_v2). 
-
 #### Peer-reviewed journal articles
+
+* **Korochkina, M.**, Marelli, M., & Rastle, K. (In press). Morphemes in the wild: Modelling affix learning from the noisy landscape of natural text. *Journal of Memory and Language*. Pre-print, data, and analysis code: [https://osf.io/sf2bh](https://osf.io/sf2bh). 
 
 * Cooper, H., **Korochkina, M.**, Brysbaert, M., & Rastle, K. (In press). Assessing text experience in British primary school children: New validated title and author recognition tests. *Quarterly Journal of Experimental Psychology*. Pre-print, data, and analysis code: [https://osf.io/gmv72](https://osf.io/gmv72).
 
