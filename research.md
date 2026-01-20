@@ -6,11 +6,11 @@ subtitle: Papers, talks, posters etc.
 
 ### Publications
 
-#### Peer-reviewed journal articles
-
-* **Korochkina, M.**, Marelli, M., & Rastle, K. (In press). Morphemes in the wild: Modelling affix learning from the noisy landscape of natural text. *Journal of Memory and Language*. Pre-print, data, and analysis code: [https://osf.io/sf2bh](https://osf.io/sf2bh). 
+#### Peer-reviewed journal articles 
 
 * Cooper, H., **Korochkina, M.**, Brysbaert, M., & Rastle, K. (In press). Assessing text experience in British primary school children: New validated title and author recognition tests. *Quarterly Journal of Experimental Psychology*. Pre-print, data, and analysis code: [https://osf.io/gmv72](https://osf.io/gmv72).
+
+* **Korochkina, M.**, Marelli, M., & Rastle, K. (2026). Morphemes in the wild: Modelling affix learning from the noisy landscape of natural text. *Journal of Memory and Language*, 148, 104746. [https://doi.org/10.1016/j.jml.2026.104746](https://doi.org/10.1016/j.jml.2026.104746). Pre-print, data, and analysis code: [https://osf.io/sf2bh](https://osf.io/sf2bh). 
 
 * **Korochkina, M.**, Cooper, H., Brysbaert, M., & Rastle, K. (2026). Morpheme knowledge is shaped by information available through orthography. *Psychonomic Bulletin & Review*, 33, 3. [https://doi.org/10.3758/s13423-025-02830-2](https://doi.org/10.3758/s13423-025-02830-2). Pre-print, data, and analysis code: [https://osf.io/yq9h7/](https://osf.io/yq9h7/).
 
