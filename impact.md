@@ -31,6 +31,7 @@ In a [recent collaboration with The World Bank](https://doi.org/10.1038/s41562-0
 
 ### External publications featuring my research
 
+* [Tooled Up Education - The Power of Reading Books, Vocabulary, and Learning](https://www.tooledupeducation.com/research/the-power-of-reading-books-vocabulary-and-learning): I was named **Researcher of the Month** by Tooled Up Education, an organisation that provides evidence-based resources for parents and educators.
 * [Deep Dive: Morphology Instruction and Children's Books](https://metametricsinc.com/neenas-top-reading-research-picks-for-july-2025/?utm_campaign=Hub_Reading+Research+Recap&utm_medium=email&utm_content=370891175&utm_source=hs_email&_hsmi=370891175&_hsenc=p2ANqtz--4bLIEqi779LP0RiixAOiu7ddRdcA8KGA1XxbvnsDYAXiP9n9kCwxBSvjAFVofl8UEbLzWR6UIybVZImLnkoqD7jvDTA&hsCtaAttrib=192477348882) (MetaMetrics)
 * [Research Bites: Research round-up for evidence-based practices](https://theeducatorsroom.com/research-bites-research-round-up-for-evidence-based-practices/) (The Educator's Room)
 * [Phrase It](https://helenarkell.org.uk/product/phrase-it-pack-5/): a card game to build word recognition and reading fluency skills based on the CYP-LEX database (Helen Arkell Dyslexia Charity)
