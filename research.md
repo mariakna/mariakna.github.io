@@ -8,7 +8,7 @@ subtitle: Papers, talks, posters etc.
 
 #### Peer-reviewed journal articles 
 
-* Cooper, H., **Korochkina, M.**, Brysbaert, M., & Rastle, K. (In press). Assessing text experience in British primary school children: New validated title and author recognition tests. *Quarterly Journal of Experimental Psychology*. Pre-print, data, and analysis code: [https://osf.io/gmv72](https://osf.io/gmv72).
+* Cooper, H., **Korochkina, M.**, Brysbaert, M., & Rastle, K. (2026). Assessing text experience in British primary school children: New validated title and author recognition tests. *Quarterly Journal of Experimental Psychology*, E-pub ahead of print, [https://doi.org/10.1177/17470218261421104](https://doi.org/10.1177/17470218261421104) Pre-print, data, and analysis code: [https://osf.io/gmv72](https://osf.io/gmv72).
 
 * **Korochkina, M.**, Marelli, M., & Rastle, K. (2026). Morphemes in the wild: Modelling affix learning from the noisy landscape of natural text. *Journal of Memory and Language*, 148, 104746. [https://doi.org/10.1016/j.jml.2026.104746](https://doi.org/10.1016/j.jml.2026.104746). Pre-print, data, and analysis code: [https://osf.io/sf2bh](https://osf.io/sf2bh). 
 
