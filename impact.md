@@ -25,7 +25,7 @@ Egham, UK, 27 June 2025. [[slides]](/talks/korochkina_serns2025.pdf)
 
 * *What does it take to read and understand the GCSE English Literature texts?* **Talk** given at the [Working Together: Research and Practice event 2024](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/research/serns/serns-events/2024/), The South East Research Network for Schools, Egham, UK, 21 June 2024. [[slides]](/talks/korochkina_rastle_serns_2024.pdf)
 
-### External publications featuring my research
+### Media and policy coverage of my research
 
 * [Tooled Up Education - The Power of Reading Books, Vocabulary, and Learning](https://www.tooledupeducation.com/research/the-power-of-reading-books-vocabulary-and-learning): I was recognised as **Researcher of the Month** by Tooled Up Education — an organisation dedicated to providing evidence-based resources for parents and educators — and my work was profiled in a feature article
 * [New paper](https://www.worldbank.org/en/topic/education/brief/global-education-evidence-advisory-panel) by The Global Education Evidence Advisory Panel (GEEAP), highlighting [research](https://www.nature.com/articles/s41562-024-02028-x) I contributed to and calling for low- and middle-income countries to adopt reading instruction informed by the science of reading
