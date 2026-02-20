@@ -25,10 +25,6 @@ Egham, UK, 27 June 2025. [[slides]](/talks/korochkina_serns2025.pdf)
 
 * *What does it take to read and understand the GCSE English Literature texts?* **Talk** given at the [Working Together: Research and Practice event 2024](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/research/serns/serns-events/2024/), The South East Research Network for Schools, Egham, UK, 21 June 2024. [[slides]](/talks/korochkina_rastle_serns_2024.pdf)
 
-### Collaborations with industry
-
-In a [recent collaboration with The World Bank](https://doi.org/10.1038/s41562-024-02028-x), we show that students in low- and middle-income countries are failing to acquire the most basic skills necessary for reading comprehension. Our findings highlight that evidence-based phonics instruction is needed to support global literacy goals. A short blog post summarising this work is available [here](https://communities.springernature.com/posts/the-science-of-reading-can-help-to-turn-around-the-reading-crisis-in-low-and-middle-income-countries) and [here](https://blogs.worldbank.org/en/education/The-science-of-reading-can-help-to-turn-around-reading-crisis). 
-
 ### External publications featuring my research
 
 * [Tooled Up Education - The Power of Reading Books, Vocabulary, and Learning](https://www.tooledupeducation.com/research/the-power-of-reading-books-vocabulary-and-learning): I was recognised as **Researcher of the Month** by Tooled Up Education — an organisation dedicated to providing evidence-based resources for parents and educators — and my work was profiled in a feature article
