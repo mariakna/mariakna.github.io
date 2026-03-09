@@ -22,6 +22,7 @@ Egham, UK, 27 June 2025. [[slides]](/talks/korochkina_serns2025.pdf)
 
 ### Media and policy coverage of my research
 
+* [How a small change to the English curriculum could cut teacher workload](https://www.tes.com/magazine/teaching-learning/general/how-small-change-english-curriculum-could-cut-teacher-workload) by Robert Eaglestone, Tes, March 2026
 * [Tooled Up Education - The Power of Reading Books, Vocabulary, and Learning](https://www.tooledupeducation.com/research/the-power-of-reading-books-vocabulary-and-learning): I was recognised as **Researcher of the Month** by Tooled Up Education — an organisation dedicated to providing evidence-based resources for parents and educators — and my work was profiled in a feature article, January 2026
 * [Spotlight on Basic Education Completion and Foundational Learning in Africa: Revue des cadres nationaux d'évaluation des acquis scolaires](https://unesdoc.unesco.org/ark:/48223/pf0000396122), Global Education Monitoring Report 2025, UNESCO
 * [Spotlight on Basic Education Completion and Foundational Learning in Africa: L'évolution des acquis scolaires au Burundi](https://unesdoc.unesco.org/ark:/48223/pf0000396119), Global Education Monitoring Report 2025, UNESCO
@@ -35,7 +36,7 @@ Egham, UK, 27 June 2025. [[slides]](/talks/korochkina_serns2025.pdf)
 * [The science of reading can help to turn around the reading crisis in low- and middle-income countries](https://blogs.worldbank.org/en/education/The-science-of-reading-can-help-to-turn-around-reading-crisis), World Bank, November 2024
 * [Teaching methods must change to address globally poor reading skills, experts say](https://phys.org/news/2024-11-methods-globally-poor-skills-experts.html), Phys.org, November 2024
 * [The rare vocabulary problem in English Literature](https://alexquigley.co.uk/the-rare-vocabulary-problem-in-english-literature-gcse/), Alex Quigley, September 2024
-* [In the battle of books vs videos, there is a clear winner for literacy](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner), Tes, April 2024
+* [In the battle of books vs videos, there is a clear winner for literacy](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner) by Alex Quigley, Tes, April 2024
 * [Big rocks for reading achievement](https://readingsimplified.com/big-rocks-for-reading-achievement/), Reading Simplified, 2024
 * [Strategies for small group reading](https://greatheightsenglishhub.org/strategies-for-small-group-reading/), Great Heights English Hub, 2024
 * [What Is Morphology? Should Teachers Include It in Reading Instruction?](https://www.edweek.org/teaching-learning/what-is-morphology-should-teachers-include-it-in-reading-instruction/2023/11), Education Week, November 2023
