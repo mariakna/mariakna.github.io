@@ -35,7 +35,7 @@ Egham, UK, 27 June 2025. [[slides]](/talks/korochkina_serns2025.pdf)
 * [Child literacy in low- and middle-income countries](https://doi.org/10.1038/s41562-024-02056-7), News & Views, Nature Human Behaviour, November 2024
 * [The science of reading can help to turn around the reading crisis in low- and middle-income countries](https://blogs.worldbank.org/en/education/The-science-of-reading-can-help-to-turn-around-reading-crisis), World Bank, November 2024
 * [Teaching methods must change to address globally poor reading skills, experts say](https://phys.org/news/2024-11-methods-globally-poor-skills-experts.html), Phys.org, November 2024
-* [The rare vocabulary problem in English Literature](https://alexquigley.co.uk/the-rare-vocabulary-problem-in-english-literature-gcse/), Alex Quigley, September 2024
+* [The rare vocabulary problem in English Literature](https://alexquigley.co.uk/the-rare-vocabulary-problem-in-english-literature-gcse/) by Alex Quigley, September 2024
 * [In the battle of books vs videos, there is a clear winner for literacy](https://www.tes.com/magazine/teaching-learning/general/pupil-literacy-battle-books-vs-videos-winner) by Alex Quigley, Tes, April 2024
 * [Big rocks for reading achievement](https://readingsimplified.com/big-rocks-for-reading-achievement/), Reading Simplified, 2024
 * [Strategies for small group reading](https://greatheightsenglishhub.org/strategies-for-small-group-reading/), Great Heights English Hub, 2024
