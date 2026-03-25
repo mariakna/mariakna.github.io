@@ -36,6 +36,8 @@ subtitle: Papers, talks, posters etc.
 
 ### Talks
 
+* Modelling affix learning from reading: Insights from compositional distributional semantics. **Talk** given at a symposium titled "Language models as tools for psycholinguistics" at the annual meeting of experimental psychologists [TeaP](https://coms.app/teap26/welcome.html) in Tübingen, Germany, 17 March 2026. [[slides]](/talks/korochkina_teap26_170326.pdf)
+
 * Assessing text experience in British primary school children: New validated Title and Author Recognition Tests. **Talk** given at a meeting of the Forum for Research in Literacy and Language (FRiLL), Reading, UK, 15 December 2025. [[slides]](/talks/Korochkina_frill_dec25.pdf) 
 
 * Learning affixes through text experience: A new theoretical and computational framework. **Invited talk**, Language group seminar, MRC Cognition and Brain Sciences Unit (CBU), University of Cambridge, 9 October 2025. [[slides]](/talks/korochkina_cbu_talk_091025.pdf)
