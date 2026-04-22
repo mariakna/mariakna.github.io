@@ -14,6 +14,7 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 #### Talks
 
+* *The words children meet in books: Evidence from a 70-million-word corpus*. **Invited talk** for [Reainssance International](https://www.renaissance.com/), 22 April 2026. [[slides]](/talks/korochkina_renaissance_apr26.pdf)
 * *The power of reading for children's outcomes: What every parent needs to know*. **Invited webinar** for [Tooled Up Education](https://www.tooledupeducation.com/), 5 November 2025. [[slides]](/talks/korochkina_tooled_up_educ_051125.pdf)
 * *The words children and young people encounter when they read for pleasure, and what it means for learning*. **Talk** given at the [Working Together: Research and Practice meeting 2025](https://www.royalholloway.ac.uk/research-and-education/departments-and-schools/psychology/research/serns/serns-events/2025/), The South East Research Network for Schools,
 Egham, UK, 27 June 2025. [[slides]](/talks/korochkina_serns2025.pdf)
