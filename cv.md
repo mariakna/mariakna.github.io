@@ -71,27 +71,27 @@ A short PDF version (including research output and outreach activities) is avail
 
 ### Training and development
 
-* 2025, EPS-funded research workshop, [*Best practices for the processing and analysis of eye movements during reading*](https://sites.google.com/view/eye-movements-workshop/home?authuser=0), UCL
-* 2024, Workshop *Introduction to Research Impact*, [Social Science Impact Accelerator](https://www.royalholloway.ac.uk/research-and-teaching/industry/working-with-us/social-science-impact-accelerator/), Royal Holloway, University of London
-* 2024, Workshop *Storytelling with Impact: Visual storytelling*, [Nifty Fox Creative](https://www.niftyfoxcreative.com/)
-* 2024, Workshop *Storytelling with Impact: Unleash the power of narrative*, [Duncan Yellowlees Training](https://www.duncanyellowlees.com/)
-* 2024, Workshop *Storytelling to Success: Developing your Narrative CV*, Researcher Development and Culture, University of Leeds
-* 2023, Workshop *Effective Grant Writing*, Royal Holloway, University of London
+* 2025, [Best practices for the processing and analysis of eye movements during reading](https://sites.google.com/view/eye-movements-workshop/home?authuser=0), UCL
+* 2024, Introduction to Research Impact, [Social Science Impact Accelerator](https://www.royalholloway.ac.uk/research-and-teaching/industry/working-with-us/social-science-impact-accelerator/), Royal Holloway, University of London
+* 2024, Storytelling with Impact: Visual storytelling, [Nifty Fox Creative](https://www.niftyfoxcreative.com/)
+* 2024, Storytelling with Impact: Unleash the power of narrative, [Duncan Yellowlees Training](https://www.duncanyellowlees.com/)
+* 2024, Storytelling to Success: Developing your Narrative CV, Researcher Development and Culture, University of Leeds
+* 2023, Effective Grant Writing, Royal Holloway, University of London
 * 2022, [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python), DataCamp [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/intro_nlp_datacamp_certificate.pdf)
 * 2022, [The 6th Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2022/), Bayesian Advanced stream, University of Potsdam
-* 2021, *Badged Instructor* training, [The Carpentries](https://carpentries.org/)
-* 2020, MOOC [Python Data Structures](https://www.coursera.org/learn/python-data), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part2.pdf)
-* 2020, MOOC [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part1.pdf)
-* 2020, Workshop [MATLAB Fundamentals](https://www.eventbrite.co.uk/e/matlab-fundamentals-at-macquarie-university-tickets-111336725142), MathWorks, Macquarie University
-* 2020, MOOC [Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+1T2020/home), edX (Audit)
-* 2020, MOOC [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology?#enroll), University of Chicago [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/Coursera%203FM8UYY27R4_certificate.pdf)
-* 2019, Workshop *Australasian Magnetoencephalography (WAM): Neurocognitive clinical applications of MEG: Present and future*, Macquarie University
+* 2021, Badged Instructor, [The Carpentries](https://carpentries.org/)
+* 2020, [Python Data Structures](https://www.coursera.org/learn/python-data), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part2.pdf)
+* 2020, [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python), University of Michigan [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/certificate_python_course_part1.pdf)
+* 2020, [MATLAB Fundamentals](https://www.eventbrite.co.uk/e/matlab-fundamentals-at-macquarie-university-tickets-111336725142), MathWorks, Macquarie University
+* 2020, [Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+1T2020/home), edX
+* 2020, [Understanding the Brain: The Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology?#enroll), University of Chicago [[certificate]](https://github.com/mariakna/mariakna.github.io/blob/master/Coursera%203FM8UYY27R4_certificate.pdf)
+* 2019, Australasian Magnetoencephalography (WAM): Neurocognitive clinical applications of MEG: Present and future, Macquarie University
 * 2019, [Introduction to Python](https://mq-software-carpentry.github.io/2019-12-03-intro-to-python/), Software Carpentry Workshop, Macquarie University
 * 2019, [The 3rd Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2019/), Bayesian Advanced stream, University of Potsdam
-* 2018, Workshop *Advanced Methods: Bayesian Statistics with R*, University of Potsdam
+* 2018, Advanced Methods: Bayesian Statistics with R, University of Potsdam
 * 2017, fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
 * 2016, fNIRS-Workshop, [NIRx Medizintechnik GmbH](https://nirx.net/), Berlin
-* 2016, Workshop *Standardised Tests of Cognitive and Language Development in Children (SETK 2, SETK 3-5, Bayley-III, KABC-II)*, University of Potsdam
+* 2016, Standardised Tests of Cognitive and Language Development in Children (SETK 2, SETK 3-5, Bayley-III, KABC-II), University of Potsdam
 
 ### Language skills
 
