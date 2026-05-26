@@ -36,9 +36,9 @@ A short PDF version (including research output and outreach activities) is avail
 ### Awards and funding
 
 * 2023, [Student Researcher Credibility prize](https://www.bnacredibility.org.uk/prizes), British Neuroscience Association
-* 2021, Funding award for an 8-week instructor training with [The Carpentries](https://carpentries.org/) (USD 1,500), awarded by Macquarie University's Research and Innovation team
-* 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding), Macquarie University (AUD 5,000); competitive university-wide award for international conferences and lab visits
-* 2019, Conference travel & participant recruitment awards, University of Potsdam (EUR 2,000)
+* 2021, Funding award for an 8-week instructor training with [The Carpentries](https://carpentries.org/) (USD 1,500), Macquarie University
+* 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding) (AUD 5,000): competitive university-wide award for international conferences and lab visits, Macquarie University
+* 2019, Conference travel & participant recruitment awards (EUR 2,000), University of Potsdam
 * 2018 – 2022, [IDEALAB](https://phd-idealab.com/) PhD Fellowship, a highly competitive fellowship providing full tuition, stipend, and international travel costs
 * 2012 & 2014, Student exchange awards providing tuition and stipend for 2 semesters, University of Vienna
 
