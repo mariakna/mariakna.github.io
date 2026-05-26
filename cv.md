@@ -7,24 +7,23 @@ For conference contributions and publications please see [research output](https
 For outreach contributions please see [impact and outreach](https://mariakna.github.io/impact/).<br>
 A short PDF version (including research output and outreach activities) is available [here](maria_cv.pdf).
 
+### Academic appointments
+
+* Jan 2026 – present, Vice-Chancellor's Research Prize Fellow (tenure-track), Institute of Health and Neurodevelopment, Aston University
+* June 2022 – Dec 2025, Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway, University of London
+* Feb 2020 – June 2022, Academic Tutor, Macquarie University
+* July 2016 – Aug 2018, Research Assistant, [NOLA Lab](http://www.uni-potsdam.de/nola/index.html) & [VasishthLab](https://vasishth.github.io/), University of Potsdam
+
 ### Education
 
 * 2022, PhD in Cognitive Science, joint degree from Macquarie University (Australia) and Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Trento (Italy), [IDEALAB PhD programme](https://phd-idealab.com/)
 * 2018, MSc in Experimental & Clinical Linguistics, University of Potsdam, [IECL](https://www.uni-potsdam.de/en/iecl/index) programme
 * 2015, BA & MA in Philology, Lomonosov Moscow State University, Russia
-   * 2012 & 2014, Non-EU student exchange, University of Vienna, Austria
-
-### Academic appointments
-
-* Jan 2026 – ongoing, Vice-Chancellor's Research Prize Fellow (tenure-track), Institute of Health and Neurodevelopment, Aston University
-* June 2022 – Dec 2025, Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway, University of London
-* Feb 2020 – June 2022, Academic Tutor, Macquarie University
-* July 2016 – Aug 2018, Research Assistant, [NOLA Lab](http://www.uni-potsdam.de/nola/index.html) & [VasishthLab](https://vasishth.github.io/), University of Potsdam
+   * 2012 & 2014, Student exchange, University of Vienna, Austria
 
 ### Teaching & educating
 
-* 20 June 2025 – ongoing, Data analysis training developer, [South East Doctoral Training Arc (SEDARC)](https://www.sedarc.ac.uk/) 
-* 7 Nov 2022 – ongoing, Instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
+* 20 June 2025 – March 2026, Data analysis training developer, [South East Doctoral Training Arc (SEDARC)](https://www.sedarc.ac.uk/) 
 * 27 March 2023, Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
 * Academic Tutor, Macquarie University
   * Session 1, 2021 &amp; 2022, [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide)
@@ -36,14 +35,12 @@ A short PDF version (including research output and outreach activities) is avail
 
 ### Awards and funding
 
-* 2023, [Student Researcher Credibility prize](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/), British Neuroscience Association; read the media announcement [here](https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/)
+* 2023, [Student Researcher Credibility prize](https://www.bnacredibility.org.uk/prizes), British Neuroscience Association
 * 2021, Funding award for an 8-week instructor training with [The Carpentries](https://carpentries.org/) (USD 1,500), awarded by Macquarie University's Research and Innovation team
 * 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding), Macquarie University (AUD 5,000); competitive university-wide award for international conferences and lab visits
-* 2019, Conference travel award, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 1,000)
-* 2019, Conference travel award, [Potsdam Graduate School](https://www.uni-potsdam.de/en/pogs/), University of Potsdam (EUR 500)
-* 2019, Financial support for participant testing and recruitment, [Commission for Research and Young Academics](https://www.uni-potsdam.de/en/humfak/research/supportforyoungacademics/fundingopportunitiesatthefaculty), University of Potsdam (EUR 500)
+* 2019, Conference travel & participant recruitment awards, University of Potsdam (EUR 2,000)
 * 2018 – 2022, [IDEALAB](https://phd-idealab.com/) PhD Fellowship, a highly competitive fellowship providing full tuition, stipend, and international travel costs
-* 2012 & 2014, Non-EU student exchange awards, Department of German Studies & Department of Linguistics, University of Vienna (EUR 5,000); competitive awards providing tuition and stipend for 2 semesters
+* 2012 & 2014, Student exchange awards providing tuition and stipend for 2 semesters, University of Vienna
 
 ### Experimental techniques and programming languages
 
@@ -53,7 +50,7 @@ A short PDF version (including research output and outreach activities) is avail
 ### Scientific societies
 
 * [The British Neuroscience Association](https://www.bna.org.uk/)
-* [The Experimental Psychology Society](https://eps.ac.uk/)
+* [The Experimental Psychology Society](https://eps.ac.uk/) (elected)
 * [Society for the Scientific Study of Reading](https://www.triplesr.org/)
 * [The European Society for Cognitive Psychology](https://www.escop.eu/)
 * [The Psychonomic Society](https://www.psychonomic.org/page/about)
@@ -61,17 +58,18 @@ A short PDF version (including research output and outreach activities) is avail
 ### Professional service
 
 * *Peer-review*
-  * Reviewer for [Psychological Science](https://journals.sagepub.com/home/pss), [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Cognitive Science](https://onlinelibrary.wiley.com/journal/15516709), [Scientific Data](https://www.nature.com/sdata/), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Instructional Science](https://link.springer.com/journal/11251), [Journal of Research in Reading](https://onlinelibrary.wiley.com/journal/14679817), [Journal of Psycholinguistic Research](https://link.springer.com/journal/10936), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics)
-  * Conference abstract reviewer for the [2024](https://amlap2024.ed.ac.uk/) (Edinburgh, Scotland) and [2025](https://amlap2025.ff.cuni.cz/) (Prague, Czechia) editions of the Architectures and Mechanisms for Language Processing (AMLaP) conference
+  * Editorial Board: [Journal of Psycholinguistic Research](https://link.springer.com/journal/10936)
+  * Reviewer: [Psychological Science](https://journals.sagepub.com/home/pss), [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Cognitive Science](https://onlinelibrary.wiley.com/journal/15516709), [Journal of Cognitive Neuroscience](https://direct.mit.edu/jocn), [Scientific Data](https://www.nature.com/sdata/), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Instructional Science](https://link.springer.com/journal/11251), [Journal of Research in Reading](https://onlinelibrary.wiley.com/journal/14679817), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics)
+  * Conference abstract reviewer: Architectures and Mechanisms for Language Processing (AMLaP) 2024 & 2025
 * *Open science*
-  * Organiser & instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
+  * 2022 –  2025, Organiser & instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
   * Instructor, *Pre-registraion & Open Materials: The What, Why, and How*, "Opening Up Open Science: Nuts and Bolts for Beginners" workshop, 31st annual meeting of the Society for the Scientific Study of Reading, Denmark, 10 July 2024
-  * Invited speaker, Festival of Research 2024, Royal Holloway, University of London
+  * 2024, Invited speaker, Festival of Research, Royal Holloway, University of London
 * *Equality, diversity, and inclusion*
   * Postdoc rep in a successful bid for the Athena Swan Silver Award, Royal Holloway, University of London
-  * Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/) 
+  * 2024 – present, Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/) 
 
-### Further training and development
+### Training and development
 
 * 2025, EPS-funded research workshop, [*Best practices for the processing and analysis of eye movements during reading*](https://sites.google.com/view/eye-movements-workshop/home?authuser=0), UCL
 * 2024, Workshop *Introduction to Research Impact*, [Social Science Impact Accelerator](https://www.royalholloway.ac.uk/research-and-teaching/industry/working-with-us/social-science-impact-accelerator/), Royal Holloway, University of London
