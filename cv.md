@@ -24,14 +24,14 @@ A short PDF version (including research output and outreach activities) is avail
 ### Teaching & educating
 
 * 20 June 2025 – March 2026, Data analysis training developer, [South East Doctoral Training Arc (SEDARC)](https://www.sedarc.ac.uk/) 
-* 27 March 2023, Workshop instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
+* 27 March 2023, Instructor, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
 * Academic Tutor, Macquarie University
   * Session 1, 2021 &amp; 2022, [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide)
   * Session 2, 2020 &amp; 2021, [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide)
   * Session 2, 2020 &amp; 2021, [SPHL3311 Acquired Speech and Language Disorders](https://unitguides.mq.edu.au/unit_offerings/134147/unit_guide)
   * Session 1, 2020, [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide)
-* 18 Feb 2021, Workshop instructor, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs), Macquarie University
-* 21 – 25 Sept 2020, Workshop co-instructor, [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/) Software Carpentry
+* 18 Feb 2021, Instructor, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs), Macquarie University
+* 21 – 25 Sept 2020, Instructor, [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/) Software Carpentry
 
 ### Awards and funding
 
@@ -44,8 +44,8 @@ A short PDF version (including research output and outreach activities) is avail
 
 ### Experimental techniques and programming languages
 
-* Behavioural – EEG – Natural Language Processing (NLP) – Computational modelling – Eye-tracking – fNIRS
-* MATLAB – Python – R – Stan – HTML – LaTeX – OpenSesame – Presentation Neurobehavioral Systems – Stata
+* Behavioural, EEG, corpus linguistics, NLP, Computational modelling, Eye-tracking, fNIRS
+* R, Python, MATLAB, Stan, LaTeX, OpenSesame, Presentation Neurobehavioral Systems
 
 ### Scientific societies
 
@@ -62,11 +62,9 @@ A short PDF version (including research output and outreach activities) is avail
   * Reviewer: [Psychological Science](https://journals.sagepub.com/home/pss), [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Cognitive Science](https://onlinelibrary.wiley.com/journal/15516709), [Journal of Cognitive Neuroscience](https://direct.mit.edu/jocn), [Scientific Data](https://www.nature.com/sdata/), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Instructional Science](https://link.springer.com/journal/11251), [Journal of Research in Reading](https://onlinelibrary.wiley.com/journal/14679817), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics)
   * Conference abstract reviewer: Architectures and Mechanisms for Language Processing (AMLaP) 2024 & 2025
 * *Open science*
-  * 2022 –  2025, Organiser & instructor, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/), Royal Holloway, University of London
+  * 2022 –  2025, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/) Lead, Royal Holloway, University of London
   * Instructor, *Pre-registraion & Open Materials: The What, Why, and How*, "Opening Up Open Science: Nuts and Bolts for Beginners" workshop, 31st annual meeting of the Society for the Scientific Study of Reading, Denmark, 10 July 2024
-  * 2024, Invited speaker, Festival of Research, Royal Holloway, University of London
 * *Equality, diversity, and inclusion*
-  * Postdoc rep in a successful bid for the Athena Swan Silver Award, Royal Holloway, University of London
   * 2024 – present, Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/) 
 
 ### Training and development
