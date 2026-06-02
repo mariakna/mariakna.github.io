@@ -25,8 +25,9 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   News: "blog"
-  CV: "cv"
+  BIO: "cv"
   Research output: "research"
+  Resources: "resources"
   Impact & outreach: "impact"
   
 # Image to show in the navigation bar - image must be a square (width = height)
