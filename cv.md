@@ -6,19 +6,19 @@ title: Curriculum Vitae
 For conference contributions and publications please see [research output](https://mariakna.github.io/research/).<br>
 For outreach contributions please see [impact and outreach](https://mariakna.github.io/impact/).<br>
 
-### Academic appointments
-
-* Jan 2026 – present, Vice-Chancellor's Research Prize Fellow (tenure-track), Institute of Health and Neurodevelopment, Aston University
-* June 2022 – Dec 2025, Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway, University of London
-* Feb 2020 – June 2022, Academic Tutor, Macquarie University
-* July 2016 – Aug 2018, Research Assistant, [NOLA Lab](http://www.uni-potsdam.de/nola/index.html) & [VasishthLab](https://vasishth.github.io/), University of Potsdam
-
 ### Education
 
 * 2022, PhD in Cognitive Science, joint degree from Macquarie University (Australia) and Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Trento (Italy), [IDEALAB PhD programme](https://phd-idealab.com/)
 * 2018, MSc in Experimental & Clinical Linguistics, University of Potsdam, [IECL](https://www.uni-potsdam.de/en/iecl/index) programme
 * 2015, MA in Philology, Lomonosov Moscow State University, Russia
    * 2012 & 2014, Student exchange, University of Vienna, Austria
+
+### Academic appointments
+
+* Jan 2026 – present, Vice-Chancellor's Research Prize Fellow (tenure-track), Institute of Health and Neurodevelopment, Aston University
+* June 2022 – Dec 2025, Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway, University of London
+* Feb 2020 – June 2022, Academic Tutor, Macquarie University
+* July 2016 – Aug 2018, Research Assistant, [NOLA Lab](http://www.uni-potsdam.de/nola/index.html) & [VasishthLab](https://vasishth.github.io/), University of Potsdam
 
 ### Teaching
 
