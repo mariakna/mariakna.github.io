@@ -21,5 +21,5 @@ title: Resources
 * [Introduction to Data Visualisation in R](https://github.com/mariakna/SEDarc2025_Intro_to_Data_Vis_in_R), SEDarc
 * A Gentle and Practical Introduction to Linear Mixed-Effects Models in R (materials TBA), SEDarc
 * Introduction to Logistic Regression in R (materials TBA), SEDarc
-* [Fitting Bayesian Linear-Mixed Effects models with *brms*](https://github.com/mariakna/RHUL_RGroup_BayesLMMs)
+* [Fitting Bayesian Linear-Mixed Effects and Distributional Regression models with *brms*](https://github.com/mariakna/RHUL_RGroup_BayesLMMs)
 * [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs)
