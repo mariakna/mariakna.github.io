@@ -24,7 +24,6 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  News: "blog"
   BIO: "cv"
   Research output: "research"
   Resources: "resources"
