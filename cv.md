@@ -13,7 +13,7 @@ For outreach contributions please see [impact and outreach](https://mariakna.git
 * 2015, MA in Philology, Lomonosov Moscow State University, Russia
    * 2012 & 2014, Student exchange, University of Vienna, Austria
 
-### Academic appointments
+### Appointments
 
 * Jan 2026 – present, Vice-Chancellor's Research Prize Fellow (tenure-track), Institute of Health and Neurodevelopment, Aston University
 * June 2022 – Dec 2025, Postdoctoral Research Fellow, [Rastle Lab](https://www.rastlelab.com/), Royal Holloway, University of London
@@ -22,13 +22,12 @@ For outreach contributions please see [impact and outreach](https://mariakna.git
 
 ### Teaching
 
-* *Postgraduate*
-  * 20 June 2025 – March 2026, [Making Your Research Transparent & Reproducible](https://github.com/mariakna/SEDarc2026_Making_Your_Research_Transparent_and_Reproducible), [Intro to Quantitative Analysis in R](https://github.com/mariakna/SEDarc2025_Intro_to_Quant_Analysis_in_R), [Intro to Data Visualisation in ](https://github.com/mariakna/SEDarc2025_Intro_to_Data_Vis_in_R), [Python for Data and Research: Insights for R Users](https://github.com/mariakna/SEDarc2026_Python_for_Data_and_Research_Insights_for_R_Users), A Gentle and Practical Introduction to Linear Mixed-Effects Models, Introduction to Logistic Regression, [South East Doctoral Training Arc (SEDARC)](https://www.sedarc.ac.uk/)
-  * 2024 – present, Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/) 
+* **Postgraduate**
+  * 2025 – 2026, [Making Your Research Transparent & Reproducible](https://github.com/mariakna/SEDarc2026_Making_Your_Research_Transparent_and_Reproducible), [Intro to Quantitative Analysis in R](https://github.com/mariakna/SEDarc2025_Intro_to_Quant_Analysis_in_R), [Intro to Data Visualisation in ](https://github.com/mariakna/SEDarc2025_Intro_to_Data_Vis_in_R), [Python for Data and Research: Insights for R Users](https://github.com/mariakna/SEDarc2026_Python_for_Data_and_Research_Insights_for_R_Users), A Gentle and Practical Introduction to Linear Mixed-Effects Models, Introduction to Logistic Regression, [South East Doctoral Training Arc (SEDARC)](https://www.sedarc.ac.uk/)
   * 10 July 2024, Pre-registraion & Open Materials: The What, Why, and How, 31st annual meeting of the Society for the Scientific Study of Reading, Denmark
   * 27 March 2023, [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London
   * 18 Feb 2021, [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs), Macquarie University
-* *Undergraduate*
+* **Undergraduate**
   * 2021 – 2022, [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide), Macquarie University
   * 2020 – 2021, [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide), Macquarie University
   * 2020 – 2021, [SPHL3311 Acquired Speech and Language Disorders](https://unitguides.mq.edu.au/unit_offerings/134147/unit_guide), Macquarie University
@@ -44,22 +43,14 @@ For outreach contributions please see [impact and outreach](https://mariakna.git
 * 2018 – 2022, [IDEALAB](https://phd-idealab.com/) PhD Fellowship, a highly competitive fellowship providing full tuition, stipend, and international travel costs
 * 2012 & 2014, Student exchange awards providing tuition and stipend for 2 semesters, University of Vienna
 
-### Professional service
+### Editorial and professional service
 
-* *Peer-review*
-  * Editorial Board: [Journal of Psycholinguistic Research](https://link.springer.com/journal/10936)
-  * Journals: [Psychological Science](https://journals.sagepub.com/home/pss), [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Cognitive Science](https://onlinelibrary.wiley.com/journal/15516709), [Journal of Cognitive Neuroscience](https://direct.mit.edu/jocn), [Scientific Data](https://www.nature.com/sdata/), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Instructional Science](https://link.springer.com/journal/11251), [Journal of Research in Reading](https://onlinelibrary.wiley.com/journal/14679817), [Dyslexia](https://onlinelibrary.wiley.com/journal/10990909), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics), and others
-  * Conferences: Architectures and Mechanisms for Language Processing (AMLaP)
-* *Open science & research culture*
-  * 2022 – 2025, [ReproducibiliTea journal club and workshop series](https://osf.io/m4hn7/) Lead, Royal Holloway, University of London
- 
-### Scientific societies
-
-* [The Experimental Psychology Society](https://eps.ac.uk/) (elected)
-* [The British Neuroscience Association](https://www.bna.org.uk/)
-* [Society for the Scientific Study of Reading](https://www.triplesr.org/)
-* [The European Society for Cognitive Psychology](https://www.escop.eu/)
-* [The Psychonomic Society](https://www.psychonomic.org/page/about)
+* **Editorial Board**: [Journal of Psycholinguistic Research](https://link.springer.com/journal/10936)
+* **Journal reviewer**: [Psychological Science](https://journals.sagepub.com/home/pss), [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Cognitive Science](https://onlinelibrary.wiley.com/journal/15516709), [Journal of Cognitive Neuroscience](https://direct.mit.edu/jocn), [Scientific Data](https://www.nature.com/sdata/), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Instructional Science](https://link.springer.com/journal/11251), [Journal of Research in Reading](https://onlinelibrary.wiley.com/journal/14679817), [Dyslexia](https://onlinelibrary.wiley.com/journal/10990909), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics), and others
+* **Conference reviewer**: Architectures and Mechanisms for Language Processing (AMLaP)
+* **Open science**: 2022 – 2025, [ReproducibiliTea journal club](https://osf.io/m4hn7/) Lead, Royal Holloway, University of London; 2026 – present, ReproducibiliTea journal club Lead, Aston University
+* **Inclusivity**: 2024 – present, Mentor, [In2research](https://in2scienceuk.org/our-programmes/in2research/)
+* **Memberships**: [Experimental Psychology Society](https://eps.ac.uk/), [British Neuroscience Association](https://www.bna.org.uk/), [Society for the Scientific Study of Reading](https://www.triplesr.org/), [European Society for Cognitive Psychology](https://www.escop.eu/), [Psychonomic Society](https://www.psychonomic.org/page/about)
 
 <!--
 
