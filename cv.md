@@ -27,9 +27,7 @@ For outreach contributions please see [impact and outreach](https://mariakna.git
   * Pre-registraion & Open Materials: The What, Why, and How; 31st annual meeting of the Society for the Scientific Study of Reading, Denmark, 10 July 2024
   * [Fitting Bayesian Linear Mixed Effects and Distributional Regression models with brms](https://github.com/mariakna/RHUL_RGroup_BayesLMMs), Royal Holloway, University of London, 27 March 2023
   * [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs), Macquarie University, 18 Feb 2021
-* **Undergraduate**:
-  * [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide), [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide), [SPHL3311 Acquired Speech and Language Disorders](https://unitguides.mq.edu.au/unit_offerings/134147/unit_guide), [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide), Macquarie University, 2020 – 2022
-  * [Introduction to R](https://mq-software-carpentry.github.io/2020-09-21-intro-to-r/), Software Carpentry, 21 – 25 Sept 2020
+* **Undergraduate**: [PSYU3349 Design and Statistics III](https://unitguides.mq.edu.au/unit_offerings/139805/unit_guide), [PSYU2248 Design and Statistics II](https://unitguides.mq.edu.au/unit_offerings/140336/unit_guide), [SPHL3311 Acquired Speech and Language Disorders](https://unitguides.mq.edu.au/unit_offerings/134147/unit_guide), [COGS2020 Experimental Design and Data Analysis for the Cognitive and Brain Sciences](https://unitguides.mq.edu.au/unit_offerings/123650/unit_guide), Macquarie University, 2020 – 2022
 * **Other**: Certified Instructor, [The Carpentries](https://carpentries.org/), 2021 - present
 
 ### Awards and funding
