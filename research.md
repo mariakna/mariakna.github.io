@@ -36,7 +36,7 @@ subtitle: Papers, talks, posters etc.
 
 ### Invited talks 
 
-* The challenges and opportunities of recreational reading: Insights from a 70-mln-word corpus of books popular with British children and young people. University of Birmingham, 5 June 2026.
+* The challenges and opportunities of recreational reading: Insights from a 70-mln-word corpus of books popular with British children and young people. University of Birmingham, 5 June 2026. [[slides]](/talks/korochkina_uob_june2026.pdf)
   
 * Learning affixes through text experience: A new theoretical and computational framework. University of Cambridge, 9 October 2025. [[slides]](/talks/korochkina_cbu_talk_091025.pdf)
 
