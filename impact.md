@@ -12,13 +12,13 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 * [What makes GCSE English Literature so hard for students?](https://www.tes.com/magazine/teaching-learning/secondary/what-makes-gcse-english-lit-so-hard-students) (2024) *Tes*, published online on 4 August 2024.
 * [What words do children encounter when they read for pleasure?](https://www.nomanis.com.au/blog/issue-17-june-2024) (2024) *Nomanis*, Issue 17. Also available as a [blog post](https://www.rastlelab.com/post/what-words-do-children-encounter-when-they-read-for-pleasure).
 
-#### Invited Talks
+#### Invited talks
 
 * The words children meet in books: Evidence from a 70-million-word corpus. [Renaissance International](https://www.renaissance.com/), 22 April 2026. [[slides]](/talks/korochkina_renaissance_apr26.pdf)
 * The power of reading for children's outcomes: What every parent needs to know. [Tooled Up Education](https://www.tooledupeducation.com/), 5 November 2025. [[slides]](/talks/korochkina_tooled_up_educ_051125.pdf)
 * Words in books: A challenge, a blessing, or both? (with Kathy Rastle) [ResearchED National Conference](https://researched.org.uk/event/researched-national-conference-2024/), London, UK, 7 September 2024. [[slides]](/talks/ResearchED2024_KorochkinaRastle.pdf)
 
-#### Other talks 
+#### Regular talks 
 
 * The words children and young people encounter when they read for pleasure, and what it means for learning. [Working Together: Research and Practice](https://www.royalholloway.ac.uk/research-and-education/departments-and-schools/psychology/research/serns/serns-events/2025/), The South East Research Network for Schools,
 Egham, UK, 27 June 2025. [[slides]](/talks/korochkina_serns2025.pdf)
