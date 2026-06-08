@@ -20,6 +20,6 @@ title: Resources
 * [Introduction to Quantitative Analysis in R](https://github.com/mariakna/SEDarc2025_Intro_to_Quant_Analysis_in_R), SEDarc
 * [Introduction to Data Visualisation in R](https://github.com/mariakna/SEDarc2025_Intro_to_Data_Vis_in_R), SEDarc
 * [A Gentle and Practical Introduction to Linear Mixed-Effects Models in R](https://github.com/mariakna/SEDarc2026_Intro_to_LME_models/tree/main), SEDarc
-* Introduction to Logistic Regression in R (materials TBA), SEDarc
+* [Introduction to Logistic Regression in R](https://github.com/mariakna/SEDarc2026_Intro_to_Logistic_Regression), SEDarc
 * [Fitting Bayesian Linear-Mixed Effects and Distributional Regression models with *brms*](https://github.com/mariakna/RHUL_RGroup_BayesLMMs)
 * [Data analysis using (generalised) linear mixed effects models in R](https://github.com/mariakna/MQ-eResearchTraining-GLMMs)
