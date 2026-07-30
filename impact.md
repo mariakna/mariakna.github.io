@@ -14,6 +14,7 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 #### Invited talks
 
+* The vocabulary barrier in English Literature GCSE. [Supporting Vocabulary in Secondary School: A Research and Practice Workshop](https://www.eventbrite.com/e/supporting-vocabulary-in-secondary-school-a-research-practice-workshop-tickets-1988615394176), York, 8 July 2026. [[slides]](/talks/korochkina_vocab_workshop_york26.pdf)
 * The words children meet in books: Evidence from a 70-million-word corpus. [Renaissance International](https://www.renaissance.com/), 22 April 2026. [[slides]](/talks/korochkina_renaissance_apr26.pdf)
 * The power of reading for children's outcomes: What every parent needs to know. [Tooled Up Education](https://www.tooledupeducation.com/), 5 November 2025. [[slides]](/talks/korochkina_tooled_up_educ_051125.pdf)
 * Words in books: A challenge, a blessing, or both? (with Kathy Rastle) [ResearchED National Conference](https://researched.org.uk/event/researched-national-conference-2024/), London, UK, 7 September 2024. [[slides]](/talks/ResearchED2024_KorochkinaRastle.pdf)
