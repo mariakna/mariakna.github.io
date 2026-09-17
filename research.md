@@ -6,6 +6,10 @@ subtitle: Papers, talks, posters etc.
 
 ### Publications
 
+#### Pre-prints under review
+
+* **Korochkina, M.**, Dawson, N., & Colenbrander, D. (2026; under review). BoundBase-EN (BBEN): A database of English bound bases in texts for children and young people. Pre-print: [https://doi.org/10.31234/osf.io/3evtw_v1](https://doi.org/10.31234/osf.io/3evtw_v1).
+
 #### Peer-reviewed journal articles 
 
 * Cooper, H., **Korochkina, M.**, Brysbaert, M., & Rastle, K. (2026). Assessing text experience in British primary school children: New validated title and author recognition tests. *Quarterly Journal of Experimental Psychology*, E-pub ahead of print, [https://doi.org/10.1177/17470218261421104](https://doi.org/10.1177/17470218261421104). Pre-print, data, and analysis code: [https://osf.io/gmv72](https://osf.io/gmv72).
