@@ -32,11 +32,11 @@ For outreach contributions please see [impact and outreach](https://mariakna.git
 ### Awards and funding
 
 * 2026, Principal Investigator Start-Up Fund (£5,000), Aston University
-* 2023, [Student Researcher Credibility prize](https://www.bnacredibility.org.uk/prizes), British Neuroscience Association
-* 2021, Instructor training with [The Carpentries](https://carpentries.org/) (USD 1,500), Macquarie University
-* 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding) (AUD 5,000): competitive university-wide award for international conferences and lab visits, Macquarie University
-* 2019, Conference travel & participant recruitment awards (EUR 2,000), University of Potsdam
-* 2018 – 2022, [IDEALAB](https://phd-idealab.com/) PhD Fellowship, a highly competitive fellowship providing full tuition, stipend, and international travel costs
+* 2023, [Student Researcher Credibility prize](https://www.bnacredibility.org.uk/prizes) (£500), British Neuroscience Association
+* 2021, Instructor training, [The Carpentries](https://carpentries.org/) (A$1,500), Macquarie University
+* 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding) (A$5,000): competitive university-wide award for international conferences and lab visits, Macquarie University
+* 2019, Conference travel & participant recruitment awards (€2,000), University of Potsdam
+* 2018 – 2022, PhD Fellowship (A$250,000), Macquarie University
 * 2012 & 2014, Student exchange awards providing tuition and stipend for 2 semesters, University of Vienna
 
 ### Editorial and professional service
