@@ -31,6 +31,7 @@ For outreach contributions please see [impact and outreach](https://mariakna.git
 
 ### Awards and funding
 
+* 2026, Principal Investigator Start-Up Fund (£5,000), Aston University
 * 2023, [Student Researcher Credibility prize](https://www.bnacredibility.org.uk/prizes), British Neuroscience Association
 * 2021, Instructor training with [The Carpentries](https://carpentries.org/) (USD 1,500), Macquarie University
 * 2020, [Postgraduate Research Fund](https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding) (AUD 5,000): competitive university-wide award for international conferences and lab visits, Macquarie University
@@ -40,6 +41,7 @@ For outreach contributions please see [impact and outreach](https://mariakna.git
 
 ### Editorial and professional service
 
+* **Associate Editor** [Quarterly Journal of Experimental Psychology](https://journals.sagepub.com/home/qjp)
 * **Editorial Board**: [Journal of Psycholinguistic Research](https://link.springer.com/journal/10936)
 * **Journal reviewer**: [Psychological Science](https://journals.sagepub.com/home/pss), [Psychonomic Bulletin &amp; Review](https://www.springer.com/journal/13423/?gclid=CjwKCAjwscGjBhAXEiwAswQqNFXe14yGu9kzduNuSp92mNkr3KhOgbLB_G63MLwdLOl66a-jgCaQ5xoCQ4UQAvD_BwE), [Behavior Research Methods](https://www.springer.com/journal/13428), [Journal of Memory and Language](https://www.sciencedirect.com/journal/journal-of-memory-and-language), [Cognitive Science](https://onlinelibrary.wiley.com/journal/15516709), [Journal of Experimental Psychology: General](https://www.apa.org/pubs/journals/xge), [Journal of Cognitive Neuroscience](https://direct.mit.edu/jocn), [Scientific Data](https://www.nature.com/sdata/), [Language, Cognition, & Neuroscience](https://www.tandfonline.com/journals/plcp21), [Instructional Science](https://link.springer.com/journal/11251), [Scientific Studies of Reading](https://www.tandfonline.com/journals/hssr20), [Journal of Research in Reading](https://onlinelibrary.wiley.com/journal/14679817), [Dyslexia](https://onlinelibrary.wiley.com/journal/10990909), [Advances in Cognitive Psychology](https://www.ac-psych.org/en/home), [Language and Speech](https://journals.sagepub.com/home/las), [Psychology & Neuroscience](https://www.apa.org/pubs/journals/pne), [Applied Psycholinguistics](https://www.cambridge.org/core/journals/applied-psycholinguistics), and others
 * **Conference reviewer**: Architectures and Mechanisms for Language Processing (AMLaP)
@@ -50,7 +52,7 @@ For outreach contributions please see [impact and outreach](https://mariakna.git
 
 ### Methodological and technical expertise
 
-* **Techniques and apporaches**: Behavioural, EEG, corpus linguistics, NLP, computational modelling, eye-tracking, fNIRS
+* **Techniques and apporaches**: Behavioural, EEG, computational linguistics, computational modelling, eye-tracking
 * **Programming**: R, Python, MATLAB, Stan, LaTeX, Presentation Neurobehavioral Systems
 
 <!--
