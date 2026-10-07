@@ -14,6 +14,7 @@ subtitle: Learn about the influence of my work beyond the contributions to acade
 
 #### Invited talks
 
+* Research insights on the vocabulary barrier in GCSE English Literature. [Leading Literacy, Leading Change](https://literacytrust.org.uk/secondary/secondary-conferences/speakers-and-schedule/), online conference, [National Literacy Trust](https://literacytrust.org.uk/), 7 October 2026. Slides not shared due to copyright restrictions.
 * The vocabulary barrier in English Literature GCSE. [Supporting Vocabulary in Secondary School: A Research and Practice Workshop](https://www.eventbrite.com/e/supporting-vocabulary-in-secondary-school-a-research-practice-workshop-tickets-1988615394176), York, 8 July 2026. [[slides]](/talks/korochkina_vocab_workshop_york26.pdf)
 * The words children meet in books: Evidence from a 70-million-word corpus. [Renaissance International](https://www.renaissance.com/), 22 April 2026. [[slides]](/talks/korochkina_renaissance_apr26.pdf)
 * The power of reading for children's outcomes: What every parent needs to know. [Tooled Up Education](https://www.tooledupeducation.com/), 5 November 2025. [[slides]](/talks/korochkina_tooled_up_educ_051125.pdf)
